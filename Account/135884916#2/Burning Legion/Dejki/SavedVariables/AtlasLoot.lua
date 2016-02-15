@@ -17,6 +17,13 @@ AtlasLootCharDB = {
 		},
 	},
 	["__addonrevision"] = 4316,
+	["SetViewFrame"] = {
+		["point"] = {
+			[3] = "CENTER",
+			[4] = -137.999649047852,
+			[5] = -3.00005507469177,
+		},
+	},
 	["GUI"] = {
 		["selected"] = {
 			"AtlasLoot_Factions", -- [1]
@@ -29,13 +36,6 @@ AtlasLootCharDB = {
 			[3] = "CENTER",
 			[4] = 53.0001983642578,
 			[5] = 49.9999465942383,
-		},
-	},
-	["SetViewFrame"] = {
-		["point"] = {
-			[3] = "CENTER",
-			[4] = -137.999649047852,
-			[5] = -3.00005507469177,
 		},
 	},
 }

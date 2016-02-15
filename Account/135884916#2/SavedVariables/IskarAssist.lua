@@ -12,11 +12,11 @@ IskarAssistDB = {
 	["profiles"] = {
 		["Default"] = {
 			["MainPanel"] = {
+				["IsLocked"] = false,
 				["position"] = {
 					["y"] = -211.001098632813,
 					["x"] = -654.999755859375,
 				},
-				["IsLocked"] = false,
 			},
 			["barwidth"] = 20,
 			["barheight_grid"] = 35,

@@ -77,12 +77,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3253987186,
 		["Contents"] = "||cffffffffBoczy||r ||cfff58cbaTinklee||r \n||cff0070deDejki||r ||cfff58cbaSheidy||r \n||cffffffffCalista||r ||cffabd473Pindu||r \n||cff9482c9Nukel||r ||cfff58cbaZolw||r \n||cffabd473Mokrysedes||r ||cff00ff96Cienkíbolek||r \n||cffc79c6eUrbul||r ||cff69ccf0Owertyx||r \n||cffff7d0aHowor||r ||cffabd473Maeö||r \n||cffffffffMansell||r ||cfff58cbaAzzunai||r",
 	},
-	[1917435163] = {
-		["Updated"] = 1433959852,
-		["Name"] = "Grul",
-		["Id"] = 1917435163,
-		["UpdateId"] = 4110357539,
-		["Contents"] = "1{star} Smoke bomb->Cienki\n2{cross}Boczy iron->Cienki\n3{square}Azzu sac->Cienki\n4{star} Personalne cd +Tinklee HoP->Cienki\n5{cross}tinklee sac ->Azzu\n6{square}  Zolw sac+smoke bomb+barbi vigi->Azzu\n7{star} Aniolek Pain+Boczy Iron+zolw sac->Azzu\n8{cross}Tinklee Aura->Azzu HoP\n9{square}->Cienki\n\n1{star}Personalne cd->Cienki\n2{cross}Personalne cd->Cienki\n3{square}Personalne cd ->Azzu banka\n4{star}barbi vigi  +zolw sac->Azzu\n5{cross}Aniolek kopuła+ tinklee sac+boczy iron->Azzu\n6{square} Tinklee HoP-Azzu\n7{star}Personalne cd+zolw sac+smoke bomb->Cienki\n8{cross}Personalne cd+tinklee  sac->Cienki\n9{square}Anolek pain+azzu sac+smoke bomb ->Cienki",
+	[752956565] = {
+		["Updated"] = 1442865073,
+		["Name"] = "GOREFIEND MYTHIC",
+		["Id"] = 752956565,
+		["UpdateId"] = 2200793826,
+		["Contents"] = "1) Basaran, Mansell, Tinklee",
 	},
 	[1263952429] = {
 		["Updated"] = 1433961884,
@@ -98,12 +98,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 1694633858,
 		["Contents"] = "Poundin\n1 Aura +finger\n2,Tyka Hymn\n3Wwin  tranq",
 	},
-	[1142432341] = {
-		["Updated"] = 1430334081,
-		["Name"] = "Oregorger",
-		["Id"] = 1142432341,
-		["UpdateId"] = 2900576860,
-		["Contents"] = "CD na Tanka                                     \n1.Boczy Pain+cd tanka ->Azzunai\n2.Tinklle Sacrifice + cd tanka -> Cienki\n3.ironbark+zolw sac+cd tanka->Azzunai\n4.Azzunai Sacrifice+cd tanka-> Cienki\n5.Zolw sac Sacrifice+Boczy Kopuła->Azzunai\n6.Tinklee sac-> Cienki\n7. Letro Pain->Azzunai\n\n1.Personalne CD wszyscy+ironbark +cd tanka->Cienki\n2.Boczy Pain+cd tanka ->Azzunai\n3.Tinklle Sacrifice + cd tanka -> Cienki\n4.Zolw sac+smoke bomb+cd tanka->Azzunai\n5.Azzunai Sacrifice+Letro Pain-> Cienki\n6.Boczy Kopuła+zolw sac->Azzunai\n7.+Barbadiasz vigi+Tinklee Aura-> Cienki",
+	[1207017982] = {
+		["Updated"] = 1429552071,
+		["Name"] = "OPERATOR",
+		["Id"] = 1207017982,
+		["UpdateId"] = 766873371,
+		["Contents"] = "1) {trianGLE} (złapac, zabic addy)\n2) {diamond} po skosie przez laser\n3) 2 x random train\n4) Random a po nich na {triangle}\n5) {triangle}  (dwa działa - pomarancz_ksiezyc)\n6) {diamond}\n7) SPLIT\n8) {diamond} po lewej stronie\n9) Przez laser pod sciane na {diamond}\n10) {moon} pod sciane\n11) 2x Random {trianGLe} {diamond}\n12) {diamond} addy zebrac, rozwalic - działa\n13) {circle}\n14) Szybko po skosie na {diamond}  \n15) {CIRCLE}\n16) SPLIT przygotowanie\n17) {triangle}\n18) {moon}\n19)  2x Random\n20) {triangle} (addy_ksiezyc, dzialo_pomarancz)\n21) {diamond} po addach\n22) z {diamond} na {triangle} (wejsc za pociag) TRUDNE\n23) na srodek {triangle}\n24) po skosie  na {moon}  z addami_dobic w drodze TRUDNE\n25) przez laser na {MOON}\n26) {triangle} male addy\n27) 3x Random\n28) {moon} i ma byc juz KILL",
 	},
 	[1578735360] = {
 		["Updated"] = 1431544346,
@@ -112,23 +112,23 @@ AngryAssign_Pages = {
 		["UpdateId"] = 4086526290,
 		["Contents"] = "1{star} Smoke bomb+Greqq iron->Sefirod\n2{cross}->Sefirod\n3{squarSsha Iron->Sefirod\n4{star} Boczy pain ->Cienki\n5{cross}Personalne cd ->Azzu\n6{square}Personalne cd+Barbadiasz vig+Greqq iron->Azzu\n7{star} Dejki spirit link+Zolw sac+Barbadiasz HP->Azzu\n8{cross}->Azzu HoP\n9{square}->Sefirod\n\n\n1{star}Personalne cd->Sefirod\n2{cross}Personalne cd->Sefirod\n3{square}Personalne cd ->Azzu banka\n4{star}Letro Pain+Ssha Iron ->Azzu\n5{cross}Boczy kopuła+  Boczy pain->Azzu\n6{square} Zolw hop-Azzu\n7{star}Personalne cd+smoke bomb->Sefirod\n8{cross}Personalne cd->Sefirod\n9{square}Personalne cd+Zolw sac+Barbadiasz vigi ->Sefirod",
 	},
-	[1207017982] = {
-		["Updated"] = 1429552071,
-		["Name"] = "OPERATOR",
-		["Id"] = 1207017982,
-		["UpdateId"] = 766873371,
-		["Contents"] = "1) {trianGLE} (złapac, zabic addy)\n2) {diamond} po skosie przez laser\n3) 2 x random train\n4) Random a po nich na {triangle}\n5) {triangle}  (dwa działa - pomarancz_ksiezyc)\n6) {diamond}\n7) SPLIT\n8) {diamond} po lewej stronie\n9) Przez laser pod sciane na {diamond}\n10) {moon} pod sciane\n11) 2x Random {trianGLe} {diamond}\n12) {diamond} addy zebrac, rozwalic - działa\n13) {circle}\n14) Szybko po skosie na {diamond}  \n15) {CIRCLE}\n16) SPLIT przygotowanie\n17) {triangle}\n18) {moon}\n19)  2x Random\n20) {triangle} (addy_ksiezyc, dzialo_pomarancz)\n21) {diamond} po addach\n22) z {diamond} na {triangle} (wejsc za pociag) TRUDNE\n23) na srodek {triangle}\n24) po skosie  na {moon}  z addami_dobic w drodze TRUDNE\n25) przez laser na {MOON}\n26) {triangle} male addy\n27) 3x Random\n28) {moon} i ma byc juz KILL",
+	[1142432341] = {
+		["Updated"] = 1430334081,
+		["Name"] = "Oregorger",
+		["Id"] = 1142432341,
+		["UpdateId"] = 2900576860,
+		["Contents"] = "CD na Tanka                                     \n1.Boczy Pain+cd tanka ->Azzunai\n2.Tinklle Sacrifice + cd tanka -> Cienki\n3.ironbark+zolw sac+cd tanka->Azzunai\n4.Azzunai Sacrifice+cd tanka-> Cienki\n5.Zolw sac Sacrifice+Boczy Kopuła->Azzunai\n6.Tinklee sac-> Cienki\n7. Letro Pain->Azzunai\n\n1.Personalne CD wszyscy+ironbark +cd tanka->Cienki\n2.Boczy Pain+cd tanka ->Azzunai\n3.Tinklle Sacrifice + cd tanka -> Cienki\n4.Zolw sac+smoke bomb+cd tanka->Azzunai\n5.Azzunai Sacrifice+Letro Pain-> Cienki\n6.Boczy Kopuła+zolw sac->Azzunai\n7.+Barbadiasz vigi+Tinklee Aura-> Cienki",
 	},
-	[752956565] = {
-		["Updated"] = 1442865073,
-		["Name"] = "GOREFIEND MYTHIC",
-		["Id"] = 752956565,
-		["UpdateId"] = 2200793826,
-		["Contents"] = "1) Basaran, Mansell, Tinklee",
+	[1917435163] = {
+		["Updated"] = 1433959852,
+		["Name"] = "Grul",
+		["Id"] = 1917435163,
+		["UpdateId"] = 4110357539,
+		["Contents"] = "1{star} Smoke bomb->Cienki\n2{cross}Boczy iron->Cienki\n3{square}Azzu sac->Cienki\n4{star} Personalne cd +Tinklee HoP->Cienki\n5{cross}tinklee sac ->Azzu\n6{square}  Zolw sac+smoke bomb+barbi vigi->Azzu\n7{star} Aniolek Pain+Boczy Iron+zolw sac->Azzu\n8{cross}Tinklee Aura->Azzu HoP\n9{square}->Cienki\n\n1{star}Personalne cd->Cienki\n2{cross}Personalne cd->Cienki\n3{square}Personalne cd ->Azzu banka\n4{star}barbi vigi  +zolw sac->Azzu\n5{cross}Aniolek kopuła+ tinklee sac+boczy iron->Azzu\n6{square} Tinklee HoP-Azzu\n7{star}Personalne cd+zolw sac+smoke bomb->Cienki\n8{cross}Personalne cd+tinklee  sac->Cienki\n9{square}Anolek pain+azzu sac+smoke bomb ->Cienki",
 	},
 }
 AngryAssign_State = {
-	["window"] = {
+	["tree"] = {
 	},
 	["display"] = {
 		["y"] = 257.002563476563,
@@ -138,10 +138,10 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 375.000030517578,
 	},
-	["directionUp"] = false,
-	["locked"] = false,
-	["tree"] = {
+	["window"] = {
 	},
+	["locked"] = false,
+	["directionUp"] = false,
 }
 AngryAssign_Config = {
 }

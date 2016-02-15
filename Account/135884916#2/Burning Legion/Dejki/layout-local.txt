@@ -4,8 +4,8 @@ FrameLevel: 1
 Anchor: CENTER
 X: -161
 Y: -102
-W: 215
-H: 258
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 13
 Anchor: CENTER
@@ -76,10 +76,3 @@ X: -53
 Y: 57
 W: 18
 H: 16
-Frame: SkadaBarWindowSkada
-FrameLevel: 1
-Anchor: BOTTOMRIGHT
-X: -17
-Y: 8
-W: 172
-H: 102

@@ -1,58 +1,18 @@
 
 MasterPlanAG = {
 	["Burning Legion"] = {
-		["Dejki"] = {
+		["Likitung"] = {
+			["class"] = "PRIEST",
+			["lastCacheTime"] = 1451838779,
 			["summary"] = {
-				["tt2"] = 1455382105,
-				["tt3"] = 1455450575,
-				["tt1"] = 1455382162,
-				["ti1"] = 118531,
-				["ti3"] = 127855,
 				["inProgress"] = {
-					[555] = 1455485853,
-					[326] = 1455480538,
+					[274] = 1451867564,
 				},
-				["ti2"] = 122486,
 			},
-			["curOil"] = 1880,
-			["lastCacheTime"] = 1455379266,
-			["class"] = "SHAMAN",
-			["curRes"] = 9657,
 			["faction"] = "Horde",
 		},
 		["Drudeguy"] = {
-			["faction"] = "Horde",
 			["class"] = "DRUID",
-		},
-		["Taankon"] = {
-			["faction"] = "Horde",
-			["summary"] = {
-				["inProgress"] = {
-					[539] = 1455614840,
-					[212] = 1455553262,
-					[524] = 1455564451,
-				},
-				["tt1"] = true,
-				["ti1"] = 118529,
-				["tt3"] = 1455031439,
-				["ti3"] = 128391,
-			},
-			["curOil"] = 3590,
-			["lastCacheTime"] = 1455379077,
-			["curRes"] = 8763,
-			["class"] = "WARRIOR",
-		},
-		["Dejkon"] = {
-			["faction"] = "Horde",
-			["class"] = "MAGE",
-		},
-		["Retrinka"] = {
-			["lastCacheTime"] = 1454252904,
-			["class"] = "PALADIN",
-			["summary"] = {
-				["tt3"] = true,
-				["ti3"] = 128391,
-			},
 			["faction"] = "Horde",
 		},
 		["Leczyna"] = {
@@ -66,18 +26,59 @@ MasterPlanAG = {
 				},
 			},
 			["curOil"] = 6930,
+			["faction"] = "Horde",
 			["lastCacheTime"] = 1451838954,
-			["class"] = "MONK",
 			["curRes"] = 9729,
+			["class"] = "MONK",
+		},
+		["Dejkon"] = {
+			["class"] = "MAGE",
 			["faction"] = "Horde",
 		},
-		["Likitung"] = {
-			["lastCacheTime"] = 1451838779,
-			["class"] = "PRIEST",
+		["Dejki"] = {
+			["faction"] = "Horde",
 			["summary"] = {
 				["inProgress"] = {
-					[274] = 1451867564,
+					[305] = 1455565587,
+					[311] = 1455572789,
+					[554] = 1455565602,
 				},
+				["ti3"] = 127855,
+				["ti2"] = 122486,
+				["tt1"] = 1455382162,
+				["ti1"] = 118531,
+				["tt3"] = 1455450575,
+				["tt2"] = 1455382105,
+			},
+			["curOil"] = 1780,
+			["lastCacheTime"] = 1455551693,
+			["curRes"] = 9924,
+			["class"] = "SHAMAN",
+		},
+		["Taankon"] = {
+			["summary"] = {
+				["ti3"] = 128391,
+				["tt1"] = true,
+				["tt3"] = 1455031439,
+				["inProgress"] = {
+					[539] = 1455614840,
+					[212] = 1455553262,
+					[524] = 1455564451,
+				},
+				["ti1"] = 118529,
+			},
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+			["lastCacheTime"] = 1455379077,
+			["curRes"] = 8763,
+			["curOil"] = 3590,
+		},
+		["Retrinka"] = {
+			["class"] = "PALADIN",
+			["lastCacheTime"] = 1454252904,
+			["summary"] = {
+				["tt3"] = true,
+				["ti3"] = 128391,
 			},
 			["faction"] = "Horde",
 		},

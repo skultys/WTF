@@ -20,10 +20,10 @@ GoldSave = {
 		["name"] = "Leczyna",
 		["gold"] = 138619432,
 	},
-	["Drudeguy_Burning Legion::Horde"] = {
+	["Dejkon_Burning Legion::Horde"] = {
 		["show"] = true,
-		["name"] = "Drudeguy",
-		["gold"] = 50796078,
+		["name"] = "Dejkon",
+		["gold"] = 2564766,
 	},
 	["Retrinka_Burning Legion::Horde"] = {
 		["show"] = true,
@@ -35,10 +35,10 @@ GoldSave = {
 		["name"] = "Dakonik",
 		["gold"] = 1267,
 	},
-	["Pralinka_Stormrage::Alliance"] = {
+	["Daarkon_Burning Legion::Horde"] = {
 		["show"] = true,
-		["name"] = "Pralinka",
-		["gold"] = 22111418,
+		["name"] = "Daarkon",
+		["gold"] = 132339,
 	},
 	["Leczyna_Burning Legion::Neutral"] = {
 		["show"] = true,
@@ -50,14 +50,14 @@ GoldSave = {
 		["name"] = "Deyki",
 		["gold"] = 8086,
 	},
-	["Daarkon_Burning Legion::Horde"] = {
+	["Pralinka_Stormrage::Alliance"] = {
 		["show"] = true,
-		["name"] = "Daarkon",
-		["gold"] = 132339,
+		["name"] = "Pralinka",
+		["gold"] = 22111418,
 	},
-	["Dejkon_Burning Legion::Horde"] = {
+	["Drudeguy_Burning Legion::Horde"] = {
 		["show"] = true,
-		["name"] = "Dejkon",
-		["gold"] = 2564766,
+		["name"] = "Drudeguy",
+		["gold"] = 50796078,
 	},
 }

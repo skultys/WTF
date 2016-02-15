@@ -7,8 +7,8 @@ CliqueDB3 = {
 			["sec_profileKey"] = "Retrinka - Burning Legion",
 			["pri_profileKey"] = "Retrinka - Burning Legion",
 			["fastooc"] = false,
-			["downclick"] = false,
 			["alerthidden"] = true,
+			["downclick"] = false,
 		},
 		["Likitung - Burning Legion"] = {
 			["alerthidden"] = true,
@@ -37,17 +37,17 @@ CliqueDB3 = {
 		["Drudeguy - Burning Legion"] = "Drudeguy - Burning Legion",
 		["Leczyna - Burning Legion"] = "Leczyna - Burning Legion",
 		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
-		["Likitung - Burning Legion"] = "Likitung - Burning Legion",
 		["Dejkon - Burning Legion"] = "Dejkon - Burning Legion",
+		["Likitung - Burning Legion"] = "Likitung - Burning Legion",
 	},
 	["profiles"] = {
 		["Daarkon - Burning Legion"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -63,10 +63,10 @@ CliqueDB3 = {
 		["Retrinka - Burning Legion"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -82,10 +82,10 @@ CliqueDB3 = {
 		["Taankon - Burning Legion"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -177,10 +177,10 @@ CliqueDB3 = {
 		["Drudeguy - Burning Legion"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -196,10 +196,10 @@ CliqueDB3 = {
 		["Leczyna - Burning Legion"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -233,10 +233,10 @@ CliqueDB3 = {
 		["Dejki - Burning Legion"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -267,13 +267,32 @@ CliqueDB3 = {
 				}, -- [4]
 			},
 		},
-		["Likitung - Burning Legion"] = {
+		["Dejkon - Burning Legion"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
 						["default"] = true,
 					},
 					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Likitung - Burning Legion"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -320,25 +339,6 @@ CliqueDB3 = {
 					["icon"] = "INTERFACE\\ICONS\\priest_spell_leapoffaith_a",
 					["type"] = "spell",
 				}, -- [6]
-			},
-		},
-		["Dejkon - Burning Legion"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
 			},
 		},
 	},

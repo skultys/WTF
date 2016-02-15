@@ -1,5 +1,16 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Daarkon - Burning Legion"] = "Daarkon - Burning Legion",
+		["Retrinka - Burning Legion"] = "Retrinka - Burning Legion",
+		["Taankon - Burning Legion"] = "Taankon - Burning Legion",
+		["Pralinka - Stormrage"] = "Pralinka - Stormrage",
+		["Drudeguy - Burning Legion"] = "Drudeguy - Burning Legion",
+		["Leczyna - Burning Legion"] = "Leczyna - Burning Legion",
+		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
+		["Likitung - Burning Legion"] = "Likitung - Burning Legion",
+		["Dejkon - Burning Legion"] = "Dejkon - Burning Legion",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -14,17 +25,6 @@ Postal3DB = {
 				"Taankon|Burning Legion|Horde|100|WARRIOR", -- [9]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Daarkon - Burning Legion"] = "Daarkon - Burning Legion",
-		["Retrinka - Burning Legion"] = "Retrinka - Burning Legion",
-		["Taankon - Burning Legion"] = "Taankon - Burning Legion",
-		["Pralinka - Stormrage"] = "Pralinka - Stormrage",
-		["Drudeguy - Burning Legion"] = "Drudeguy - Burning Legion",
-		["Leczyna - Burning Legion"] = "Leczyna - Burning Legion",
-		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
-		["Dejkon - Burning Legion"] = "Dejkon - Burning Legion",
-		["Likitung - Burning Legion"] = "Likitung - Burning Legion",
 	},
 	["profiles"] = {
 		["Daarkon - Burning Legion"] = {
@@ -104,8 +104,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Dejkon - Burning Legion"] = {
-		},
 		["Likitung - Burning Legion"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -114,6 +112,8 @@ Postal3DB = {
 					"Leczyna|Burning Legion|Horde", -- [3]
 				},
 			},
+		},
+		["Dejkon - Burning Legion"] = {
 		},
 	},
 }

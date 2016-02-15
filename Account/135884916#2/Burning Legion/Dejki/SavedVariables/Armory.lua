@@ -1,11 +1,11 @@
 
 ArmoryLocalSettings = {
 	["playerStatBottomDropdown"] = "ATTRIBUTES",
-	["Minimap"] = {
-		["Angle"] = 170,
-		["Radius"] = 80,
+	["DropDown"] = {
 	},
 	["playerStatTopDropdown"] = "ATTRIBUTES",
-	["DropDown"] = {
+	["Minimap"] = {
+		["Radius"] = 80,
+		["Angle"] = 170,
 	},
 }

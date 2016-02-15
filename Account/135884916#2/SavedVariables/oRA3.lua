@@ -40,13 +40,13 @@ oRA3DB = {
 					["spells"] = {
 						["Default"] = {
 							[740] = true,
-							[31842] = true,
+							[115310] = true,
 							[108280] = true,
-							[33891] = true,
+							[31821] = true,
 							[114049] = true,
 							[64843] = true,
-							[31821] = true,
-							[115310] = true,
+							[31842] = true,
+							[33891] = true,
 						},
 					},
 					["displays"] = {
@@ -57,11 +57,11 @@ oRA3DB = {
 				},
 			},
 		},
-		["Tanks"] = {
+		["GuildRepairs"] = {
 		},
 		["Consumables"] = {
 		},
-		["GuildRepairs"] = {
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -72,8 +72,8 @@ oRA3DB = {
 		["Drudeguy - Burning Legion"] = "Default",
 		["Leczyna - Burning Legion"] = "Default",
 		["Dejki - Burning Legion"] = "Default",
-		["Daarkon - Burning Legion"] = "Default",
 		["Likitung - Burning Legion"] = "Default",
+		["Daarkon - Burning Legion"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -81,21 +81,21 @@ oRA3DB = {
 			["positions"] = {
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 147.999908447266,
-					["Width"] = 195.999877929688,
-					["PosY"] = 118.186689059735,
 					["PosX"] = 1032.81834098128,
+					["PosY"] = 118.186689059735,
+					["Width"] = 195.999877929688,
 				},
 				["oRA3ReadyCheck"] = {
 					["Height"] = 182.999984741211,
-					["PosX"] = 593.493981384982,
-					["PosY"] = 624.071195667057,
 					["Width"] = 319.999908447266,
+					["PosY"] = 624.071195667057,
+					["PosX"] = 593.493981384982,
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.0000267028809,
-					["Width"] = 140,
-					["PosY"] = 685.15548534062,
 					["PosX"] = 374.04449690448,
+					["PosY"] = 685.15548534062,
+					["Width"] = 140,
 				},
 				["oRA3RingsFrame"] = {
 					["PosY"] = 536.888901889324,
