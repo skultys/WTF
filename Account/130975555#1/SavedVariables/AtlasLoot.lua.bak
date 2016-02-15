@@ -1,0 +1,22 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Damaszek - Burning Legion"] = "Damaszek - Burning Legion",
+	},
+	["profiles"] = {
+		["Damaszek - Burning Legion"] = {
+			["AtlasType"] = "Unknown",
+		},
+	},
+}

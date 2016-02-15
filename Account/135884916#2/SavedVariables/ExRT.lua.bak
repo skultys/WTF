@@ -1,0 +1,338 @@
+
+VExRT = {
+	["Timers"] = {
+	},
+	["ProfileKeys"] = {
+		["Dejki-BurningLegion"] = "default",
+	},
+	["Arrow"] = {
+		["Point1"] = "BOTTOM",
+		["PointX"] = 155.000030517578,
+		["Point2"] = "BOTTOM",
+		["PointY"] = 174.999801635742,
+	},
+	["Encounter"] = {
+		["names"] = {
+			[1689] = "Flamebender Ka'graz",
+			[1713] = "Kromog, Legend of the Mountain",
+		},
+		["list"] = {
+			["Dejki"] = {
+				"699F142886218213B020Azzunai", -- [1]
+				"699F1428862747087020Azzunai", -- [2]
+				"699F142886301214F120Kateczek", -- [3]
+				"6B1F1428864518021020Valizuka", -- [4]
+				"6B1F1428864916086020Tinklee", -- [5]
+				"6B1F1428865255091020Boczy", -- [6]
+				"6B1F142886557008C020Shoocky", -- [7]
+				"6B1F1428866025084020Saeda", -- [8]
+				"6B1F142886639005D020Thaner", -- [9]
+				"6B1F1428866616084020Tinklee", -- [10]
+				"6B1F142886732109E020Shoocky", -- [11]
+				"6B1F14288677210A3020Shoocky", -- [12]
+				"6B1F142886809408B020Zolw", -- [13]
+				"6B1F1428868530104020Noisestorm", -- [14]
+				"6B1F142886966608D020Greqq", -- [15]
+				"6B1F142887001708C020Bigboombam", -- [16]
+				"6B1F14288703610A0020Mansell", -- [17]
+				"6B1F142887086108F020Mansell", -- [18]
+				"6B1F1428871411087020Barbadiasz", -- [19]
+				"6B1F1428871690105020Bigboombam", -- [20]
+				"6B1F142887218413C020Azzunai", -- [21]
+				"6B1F1428872635097020Greqq", -- [22]
+				"6B1F142887295408B020Owertyx", -- [23]
+				"6B1F1428873235092020Barbadiasz", -- [24]
+				"6B1F14288735361A3020Kateczek", -- [25]
+			},
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+			"7177515Shoocky1428863349", -- [1]
+			"8177515Saeda1428863351", -- [2]
+			"!8119315Saeda1428863351:1:569", -- [3]
+			"2177515Tinklee1428863351", -- [4]
+			"!2119305Tinklee1428863351:1:569", -- [5]
+			"5177515Álkoholy1428863353", -- [6]
+			"B177515Ssha1428863355", -- [7]
+			"6177515Sefirod1428863367", -- [8]
+			"6177515Noisestorm1428863369", -- [9]
+			"5177515Boczy1428863369", -- [10]
+			"5177515Wieläbny1428863373", -- [11]
+			"4177515Kobey1428863380", -- [12]
+			"!4113918Kobey1428863380:2:42:567", -- [13]
+			"1177515Barbadiasz1428863384", -- [14]
+			"!1113925Barbadiasz1428863384:3:562:41:567", -- [15]
+			"2177515Azzunai1428863384", -- [16]
+			"9177515Kateczek1428863391", -- [17]
+			"7177515Dejki1428863392", -- [18]
+			"4177515Bluemal1428863418", -- [19]
+			"2177515Zolw1428863483", -- [20]
+			"!2113921Zolw1428863483:1:567", -- [21]
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["Save"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["userDB"] = {
+		},
+	},
+	["Bossmods"] = {
+		["ThogarTop"] = 782.000061035156,
+		["ThogarLeft"] = 0.999925911426544,
+		["Kromog"] = {
+			nil, -- [1]
+			nil, -- [2]
+			nil, -- [3]
+			nil, -- [4]
+			nil, -- [5]
+			nil, -- [6]
+			nil, -- [7]
+			"Kateczek", -- [8]
+			"Thaner", -- [9]
+			"Mokrysedes", -- [10]
+			"Maeö", -- [11]
+			"Greqq", -- [12]
+			"Shoocky", -- [13]
+			"Wieläbny", -- [14]
+			"Noisestorm", -- [15]
+			"Boczy", -- [16]
+			"Bigboombam", -- [17]
+			"Barbadiasz", -- [18]
+			"Mansell", -- [19]
+			"Dejki", -- [20]
+			"Saeda", -- [21]
+			"Tinklee", -- [22]
+			"Owertyx", -- [23]
+			"Zolw", -- [24]
+			"Álkoholy", -- [25]
+			"Cienkíbolek", -- [26]
+			["name"] = "Barbadiasz-BurningLegion",
+			["time"] = 1428869561,
+			["sync"] = true,
+		},
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["Addon"] = {
+		["Timer"] = 0.1,
+		["Version"] = 3280,
+		["PreVersion"] = 0,
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["BattleRes"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["Height"] = 100,
+		["Width"] = 200,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["pulltimer"] = 10,
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["InspectViewer"] = {
+	},
+}

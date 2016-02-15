@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Dejki|Burning Legion|Horde|77|SHAMAN", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
+	},
+	["profiles"] = {
+		["Dejki - Burning Legion"] = {
+		},
+	},
+}

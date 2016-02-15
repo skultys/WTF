@@ -1,0 +1,31 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Dejkon - Burning Legion"] = "Dejkon - Burning Legion",
+	},
+	["gold"] = {
+		["Burning Legion"] = {
+			["Dejkon"] = 10972,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profiles"] = {
+		["Dejkon - Burning Legion"] = {
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Dejkon - Burning Legion"] = "Dejkon - Burning Legion",
+	},
+	["profiles"] = {
+		["Dejkon - Burning Legion"] = {
+			["chat"] = {
+				["enable"] = false,
+			},
+		},
+	},
+}

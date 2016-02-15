@@ -1,0 +1,2 @@
+
+AtlasLoot_TooltipDB = nil

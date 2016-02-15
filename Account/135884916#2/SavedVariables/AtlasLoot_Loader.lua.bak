@@ -1,0 +1,7 @@
+
+AtlasLootLoaderDB = {
+	["MiniMapButton"] = {
+		["minimapPos"] = 241.2940296505711,
+		["hide"] = false,
+	},
+}

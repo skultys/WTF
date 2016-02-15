@@ -1,0 +1,25 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+		["Azefirr"] = "DEATHKNIGHT",
+		["Damaszek"] = "DRUID",
+		["Jaqlyn"] = "DEATHKNIGHT",
+		["Shef"] = "PALADIN",
+		["Kreef"] = "HUNTER",
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+		["Stonebreaker Ruian"] = "Mining Trainer",
+		["Trapper Ri"] = "Skinning Trainer",
+		["Wing Hya"] = "Flight Master",
+		["Blacktalon Agent"] = "Servant of the Black Prince",
+	},
+	["UnitGuild"] = {
+		["Azefirr"] = "Unchained Wolves",
+		["Damaszek"] = "Horde Empire",
+		["Jaqlyn"] = "Out",
+		["Shef"] = "The Chemical Brothers",
+		["Kreef"] = "Connection Lost",
+	},
+}

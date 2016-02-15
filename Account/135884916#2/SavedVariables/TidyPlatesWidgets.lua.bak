@@ -1,0 +1,12 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+		["Dejki"] = "SHAMAN",
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+	},
+	["UnitGuild"] = {
+	},
+}

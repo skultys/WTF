@@ -1,0 +1,22 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
+	},
+	["profiles"] = {
+		["Dejki - Burning Legion"] = {
+			["AtlasType"] = "Unknown",
+		},
+	},
+}

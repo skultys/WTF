@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Damaszek_Burning Legion::Horde"] = {
+		["show"] = true,
+		["name"] = "Damaszek",
+		["gold"] = 138644419,
+	},
+}

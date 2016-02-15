@@ -1,0 +1,36 @@
+
+EllipsisDB = {
+	["profileKeys"] = {
+		["Drudeguy - Burning Legion"] = "Drudeguy - Burning Legion",
+	},
+	["profiles"] = {
+		["Drudeguy - Burning Legion"] = {
+			["tooltips"] = false,
+			["promPosition"] = {
+				["y"] = 237.0001983642578,
+				["x"] = -371.9991455078125,
+				["point"] = "BOTTOMRIGHT",
+			},
+			["auraPosition"] = {
+				["y"] = 151.0003662109375,
+				["x"] = -367.9996337890625,
+				["point"] = "RIGHT",
+			},
+			["targetFontHeight"] = 16,
+			["targetFont"] = "2002 Bold",
+			["lock"] = true,
+			["trackBuffs"] = false,
+			["showLevel"] = false,
+			["cdHideWhenNone"] = true,
+			["targetPadding"] = 15,
+			["cdShowOffsetTags"] = false,
+			["barPosition"] = {
+				["y"] = -0,
+				["x"] = -278.9991455078125,
+				["point"] = "BOTTOMRIGHT",
+			},
+			["showNumTargets"] = 6,
+			["cdHorizontal"] = false,
+		},
+	},
+}

@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Retrinka - Burning Legion"] = "Retrinka - Burning Legion",
+	},
+	["AtlasLootVersion"] = "70701",
+}

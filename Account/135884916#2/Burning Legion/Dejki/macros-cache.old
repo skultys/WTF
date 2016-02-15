@@ -1,0 +1,62 @@
+VER 3 010000000000000A "cbt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Cloudburst Totem
+END
+VER 3 0100000000000003 "Chain Heal" "SPELL_NATURE_HEALINGWAVEGREATER"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Chain Heal;
+/cast [mod:alt, target=player] Chain Heal
+END
+VER 3 010000000000000B "cote" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Call of the Elements
+END
+VER 3 0100000000000006 "Dispell" "ABILITY_SHAMAN_CLEANSESPIRIT"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][nomod][] Purify Spirit;
+/cast [mod:alt,target=player,help] Purify Spirit;
+END
+VER 3 0100000000000009 "EB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm][] Elemental Blast
+END
+VER 3 010000000000000C "flame shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm][] Flame Shock
+END
+VER 3 0100000000000002 "GHW" "SPELL_NATURE_HEALINGWAVELESSER"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Greater Healing Wave;
+/cast [mod:alt, target=player] Greater Healing Wave
+END
+VER 3 0100000000000005 "Healing Surge" "SPELL_NATURE_HEALINGWAY"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Healing Surge;
+/cast [mod:alt, target=player] Healing Surge
+END
+VER 3 0100000000000001 "Healing Wave" "SPELL_NATURE_MAGICIMMUNITY"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Healing Wave;
+/cast [mod:alt, target=player] Healing Wave
+END
+VER 3 0100000000000004 "Riptide" "SPELL_NATURE_RIPTIDE"
+#showtooltip
+/cast [nomod,@mouseover,help][nomod,@target,help][nomod,@targettarget,help][nomod] Riptide;
+/cast [mod:alt,@player,help] Riptide
+END
+VER 3 0100000000000007 "shield" "SPELL_NATURE_SKINOFEARTH"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][] Earth Shield;
+/cast [mod:alt, target=player] Earth Shield
+END
+VER 3 0100000000000008 "unleashLife" "SPELL_SHAMAN_UNLEASHWEAPON_LIFE"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Unleash Life;
+/cast [mod:alt, target=player] Unleash Life
+END
+VER 3 010000000000000D "VuhDoDCShieldData" "Ability_Repair"
+R5IH1OT1WT1HR1SR1LR2PM2PM2EM2HR2LR3MR3RM3WM3DM3WM4HR4MR4MR4RM4SH[x]5IH5DR5DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]5SH[x][x][x]0__[x]0__[x][x]0__0__0__[x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "VuhDoDCShieldNames" "Ability_Repair"
+NVilFolKütBloIgnAltWolMysBloSpeSkaMorSynLotRhuVanSonSheRôtCapThe[x]XioCriDud[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Dej[x][x][x]bru[x]Ori[x][x]WorDarBle[x][x][x][x][x]igg[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

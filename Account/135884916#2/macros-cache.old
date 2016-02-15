@@ -1,0 +1,86 @@
+VER 3 000000000000000D "barrier rush" "ACHIEVEMENT_BG_GETXFLAGS_NO_DIE"
+/cast [nomod] Shield Barrier
+/cast [mod:shift] Victory Rush
+END
+VER 3 0000000000000009 "bezhaste" "SPELL_FROST_ARCTICWINDS"
+/cast Blood Fury
+/cast Ascendance
+/cast Spiritwalker's Grace
+END
+VER 3 0000000000000005 "BOW" "SPELL_MISC_PETHEAL"
+/bow
+END
+VER 3 0000000000000011 "chibrewroll" "ABILITY_MONK_ROLL"
+/cast [nomod] Roll;
+/cast [nomod] Chi Torpedo;
+/cast [mod:shift] Chi Brew;
+END
+VER 3 000000000000000A "DZABPALM" "ABILITY_MONK_STAFFSTRIKE"
+/cast [mod:shift] Jab;
+/cast [nomod] Tiger Palm;
+END
+VER 3 0000000000000001 "EARTH SHIELD" "Spell_Nature_SkinofEarth"
+/cast [nomod] Earth Shield; [mod:alt, target=player] Earth Shield;
+END
+VER 3 000000000000000F "equip_resto" "SPELL_NATURE_HEALINGWAVEGREATER"
+/equipset RESTO
+END
+VER 3 0000000000000010 "expelBrew" "ABILITY_MONK_EXPELHARM"
+/cast [nomod] Expel Harm;
+/cast [mod:shift] Chi Brew;
+END
+VER 3 000000000000000B "herbatka" "INV_MISC_HERB_JADETEALEAF"
+/cast [mod:shift] Mana Tea;
+/cast [nomod] Thunder Focus Tea;
+END
+VER 3 0000000000000007 "HST" "INV_SPEAR_04"
+/cast [nomod] Healing Stream Totem;
+/cast [mod: shift] Totemic Recall;
+END
+VER 3 0000000000000003 "INSTANT" "SPELL_SHAMAN_ELEMENTALOATH"
+#showtooltip
+/stopcasting
+/cast Ancestral Swiftness
+END
+VER 3 0000000000000006 "kamera" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/script SetCVar("cameraDistanceMax",50)
+END
+VER 3 000000000000000C "kulka" "ABILITY_MONK_HEALTHSPHERE"
+/cast [nomod] Healing Sphere;
+/cast [mod:shift] Summon Jade Serpent Statue;
+END
+VER 3 0000000000000002 "odpalki" "SPELL_NATURE_UNRELENTINGSTORM"
+/cast Spiritwalker's Grace
+/cast Elemental Mastery
+/cast Blood Fury
+/cast Ascendance
+END
+VER 3 0000000000000004 "przerywanie" "SPELL_NATURE_CYCLONE"
+/stopcasting
+/tar Battle
+/cast  Wind Shear
+END
+VER 3 0000000000000013 "purdz" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/target General Nazgrim
+/cast Purge
+END
+VER 3 0000000000000012 "retriCD" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Inquisition;
+/cast [mod:shift] Execution Sentence;
+END
+VER 3 0000000000000015 "soundLevel" "INV_MISC_QUESTIONMARK"
+/run SetCVar("Sound_MasterVolume", .01)
+END
+VER 3 0000000000000008 "SUTING" "Ability_CheapShot"
+/console cameraSmoothTrackingStyle 0
+END
+VER 3 0000000000000014 "template" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Healing Surge;
+/cast [mod:alt, target=player] Healing Surge
+END
+VER 3 000000000000000E "wwmonk" "ABILITY_MONK_CRANEKICK_NEW"
+/cast [nomod] Spinning Crane Kick;
+/cast [mod:shift] Blackout Kick;
+END

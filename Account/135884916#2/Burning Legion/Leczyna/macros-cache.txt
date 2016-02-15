@@ -1,0 +1,52 @@
+VER 3 0100000000000008 "blyskawica" "ABILITY_MONK_CRACKLINGJADELIGHTNING"
+#showtooltip
+/cast [@mouseover,harm,nodead][@target] Crackling Jade LIghtning
+END
+VER 3 0100000000000006 "Chi wave" "ABILITY_MONK_CHIWAVE"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@target,harm,nomod][nomod] Chi Wave;
+/cast [mod:alt, target=player] Chi Wave
+END
+VER 3 0100000000000007 "Detox" "SPELL_HOLY_DISPELMAGIC"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][] Detox;
+/cast [mod:alt, target=player] Detox
+END
+VER 3 0100000000000002 "Enveloping" "SPELL_MONK_ENVELOPINGMIST"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Enveloping Mist;
+/cast [mod:alt, target=player] Enveloping Mist
+END
+VER 3 0100000000000005 "Expel" "ABILITY_MONK_EXPELHARM"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Expel Harm;
+/cast [mod:alt,@player,help] Expel Harm
+END
+VER 3 0100000000000009 "kokon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][nomod] Life Cocoon;
+/cast [@player,mod:alt,help] Life Cocoon
+END
+VER 3 0100000000000004 "Renewing" "ABILITY_MONK_RENEWINGMISTS"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Renewing Mist;
+/cast [mod:alt, target=player] Renewing Mist
+END
+VER 3 0100000000000001 "Soothing" "ABILITY_MONK_SOOTHINGMISTS"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Soothing Mist;
+/cast [mod:alt, target=player] Soothing Mist
+END
+VER 3 010000000000000B "Stance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [form:1] Stance of the Spirited Crane; Stance of the Wise Serpent
+END
+VER 3 0100000000000003 "Surging" "ABILITY_MONK_SURGINGMIST"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Surging Mist;
+/cast [mod:alt, target=player] Surging Mist
+END
+VER 3 010000000000000A "tigers lust" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][nomod] Tiger's Lust;
+END

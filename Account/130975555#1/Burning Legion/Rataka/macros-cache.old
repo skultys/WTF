@@ -1,0 +1,40 @@
+VER 3 010000000000000B "CAMERA" "INV_MISC_QUESTIONMARK"
+/script SetCVar("cameraDistanceMaxFactor","3.4")
+END
+VER 3 0100000000000009 "cascade" "ABILITY_PRIEST_CASCADE"
+/cast [help] cascade
+END
+VER 3 0100000000000007 "PoH + Inner" "SPELL_HOLY_PRAYEROFHEALING02"
+/use inner focus
+/use prayer of healing
+END
+VER 3 0100000000000005 "PoM" "SPELL_HOLY_PRAYEROFMENDINGTGA"
+#showtooltip prayer of mending
+/cast [target=targettarget] prayer of mending
+END
+VER 3 0100000000000006 "PW:S" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip power word: shield
+/cast [target=targettarget] power word: shield
+END
+VER 3 010000000000000A "renew target" "Spell_Holy_Heal"
+#showtooltip renew
+/cast [target=targettarget] renew
+END
+VER 3 0100000000000004 "SMITE" "SPELL_HOLY_HOLYSMITE"
+/castsequence reset=9 holy fire, smite, smite, smite, smite, smite
+END
+VER 3 0100000000000008 "SS: PoH" "ABILITY_SHAMAN_ASTRALSHIFT"
+/use Spirit Shell
+/use prayer of healing
+END
+VER 3 010000000000000C "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000D "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Mal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "www" "INV_MACE_1H_DRAENORRAID_D_03.BLP"
+/cleartarget
+/tar Golden Hopling
+/script SetRaidTargetIcon("target", 4)
+END

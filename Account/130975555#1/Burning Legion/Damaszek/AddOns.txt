@@ -1,0 +1,13 @@
+ShieldsUp: disabled
+XPerl_Options: enabled
+XPerl_TeamSpeak: disabled
+Armory: disabled
+ArmoryGuildBank: disabled
+AtlasLoot_Source: disabled
+DBM-Core: disabled
+Bartender4: disabled
+Clique: disabled
+Cooldowns: disabled
+MSBTOptions: disabled
+MikScrollingBattleText: disabled
+Omen: disabled

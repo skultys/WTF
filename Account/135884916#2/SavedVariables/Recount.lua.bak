@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
+	},
+	["profiles"] = {
+		["Dejki - Burning Legion"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 139.9999637310642,
+					["h"] = 199.9999893161274,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowVis"] = false,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

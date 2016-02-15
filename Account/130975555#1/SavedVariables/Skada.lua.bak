@@ -1,0 +1,22 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Rataka - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = -98.0001068115234,
+					["point"] = "LEFT",
+					["x"] = 122.999404907227,
+				}, -- [1]
+			},
+		},
+	},
+}

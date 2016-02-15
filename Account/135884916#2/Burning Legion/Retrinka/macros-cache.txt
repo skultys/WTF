@@ -1,0 +1,65 @@
+VER 3 010000000000000E "beacon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nomod,help][@target,nomod,help][nomod] Beacon of Light;
+/cast [@mouseover,mod:alt,help][@target,mod:alt,help][mod:alt] Beacon of Faith;
+END
+VER 3 010000000000000F "cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Cleanse;
+/cast [mod:alt, target=player] Cleanse
+END
+VER 3 0100000000000007 "Eternal" "INV_TORCH_THROWN"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Eternal Flame;
+/cast [mod:alt, target=player] Eternal Flame
+END
+VER 3 0100000000000002 "flash" "SPELL_HOLY_FLASHHEAL"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Flash of Light
+/cast [mod:alt, target=player] Flash of Light
+END
+VER 3 010000000000000C "hand of freedom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Hand of Freedom;
+/cast [mod:alt, target=player] Hand of Freedom
+END
+VER 3 010000000000000D "hand of sacrific" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Hand of Sacrifice;
+/cast [mod:alt, target=player] Hand of Sacrifice
+END
+VER 3 0100000000000003 "Holy Light" "SPELL_HOLY_HOLYBOLT"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Holy LIght;
+/cast [mod:alt, target=player] Holy Light
+END
+VER 3 0100000000000005 "Holy Prism" "SPELL_PALADIN_HOLYPRISM"
+#showtooltip
+/cast [@mouseover,harm,nomod][@target,harm,nomod][@target,help,nomod] Holy Prism;
+/cast [mod:alt, target=player] Holy Prism;
+END
+VER 3 010000000000000B "hop" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Hand of Protection;
+/cast [mod:alt, target=player] Hand of Protection
+END
+VER 3 0100000000000009 "Lay" "SPELL_HOLY_LAYONHANDS"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Lay on Hands;
+/cast [mod:alt, target=player] Lay on Hands
+END
+VER 3 0100000000000008 "Light of Dawn" "SPELL_PALADIN_LIGHTOFDAWN"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Light of Dawn;
+/cast [mod:alt, target=player] Light of Dawn
+END
+VER 3 0100000000000004 "radiance" "SPELL_PALADIN_DIVINECIRCLE"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Holy Radiance;
+/cast [mod:alt, target=player] Holy Radiance
+END
+VER 3 0100000000000001 "shock" "SPELL_HOLY_SEARINGLIGHT"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Holy Shock;
+/cast [mod:alt, target=player] Holy Shock
+END

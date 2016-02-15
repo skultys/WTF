@@ -1,0 +1,14 @@
+
+EllipsisDB = {
+	["profileKeys"] = {
+		["Rataka - Burning Legion"] = "Rataka - Burning Legion",
+	},
+	["profiles"] = {
+		["Rataka - Burning Legion"] = {
+			["auraPosition"] = {
+				["y"] = -98.9999694824219,
+				["x"] = -18.9999389648438,
+			},
+		},
+	},
+}

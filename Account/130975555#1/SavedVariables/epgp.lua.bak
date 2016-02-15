@@ -1,0 +1,34 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["whisper"] = {
+		},
+		["log"] = {
+		},
+		["gptooltip"] = {
+		},
+		["announce"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Rataka - Burning Legion"] = "How you doin",
+	},
+	["global"] = {
+		["last_version"] = "v5.11.6",
+		["last_tier"] = 601,
+	},
+	["profiles"] = {
+		["Rataka - Burning Legion"] = {
+			["outsiders"] = 0,
+		},
+		["How you doin"] = {
+			["outsiders"] = 0,
+		},
+	},
+}

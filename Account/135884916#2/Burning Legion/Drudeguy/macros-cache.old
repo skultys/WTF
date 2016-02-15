@@ -1,0 +1,39 @@
+VER 3 0100000000000009 "Dispell" "ABILITY_SHAMAN_CLEANSESPIRIT"
+#showtooltip Nature's Cure
+/cast [@mouseover,help,nomod][@target,help,nomod][] Nature's Cure;
+/cast [mod:alt, target=player] Nature's Cure
+END
+VER 3 0100000000000008 "HealingTouch" "SPELL_NATURE_HEALINGTOUCH"
+#showtooltip Healing Touch
+/cast [@mouseover,help,nomod][@target,help,nomod][] Healing Touch;
+/cast [mod:alt, target=player] Healing Touch
+END
+VER 3 0100000000000006 "Lifebloom" "INV_MISC_HERB_FELBLOSSOM"
+#showtooltip Lifebloom
+/cast [@mouseover,help,nomod][@target,help,nomod][] Lifebloom;
+/cast [mod:alt, target=player] Lifebloom
+END
+VER 3 0100000000000001 "odpalki" "Ability_Monk_SurgingMist"
+/cast Incarnation: Chosen of Elune;
+/cast Celestial Alignment;
+END
+VER 3 0100000000000005 "Regrowth" "SPELL_NATURE_RESISTNATURE"
+#showtooltip Regrowth
+/cast [@mouseover,help,nomod][@target,help,nomod][] Regrowth;
+/cast [mod:alt, target=player] Regrowth
+END
+VER 3 0100000000000004 "Reju" "SPELL_NATURE_REJUVENATION"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][] Rejuvenation;
+/cast [mod:alt, target=player] Rejuvenation
+END
+VER 3 0100000000000007 "Swiftmend" "INV_RELICS_IDOLOFREJUVENATION"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][] Swiftmend;
+/cast [mod:alt, target=player] Swiftmend;
+END
+VER 3 010000000000000B "WIld Growth" "ABILITY_DRUID_FLOURISH"
+#showtooltip Wild Growth
+/cast [@mouseover,help,nomod][@target,help,nomod][] Wild Growth;
+/cast [mod:alt,target= player] Wild Growth
+END

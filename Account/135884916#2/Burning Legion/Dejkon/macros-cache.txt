@@ -1,0 +1,20 @@
+VER 3 0100000000000002 "curse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][nomod] Remove Curse;
+/cast [mod:alt, target=player] Remove Curse
+END
+VER 3 0100000000000003 "ice block" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cancelaura Ice Block
+/cast Ice Block
+END
+VER 3 0100000000000004 "slow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nomod][@target,harm,nomod]Slow
+END
+VER 3 0100000000000001 "slow fall" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][nomod] Slow Fall;
+/cast [mod:alt, target=player] Slow Fall
+END

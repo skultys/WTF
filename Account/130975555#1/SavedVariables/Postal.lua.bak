@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Damaszek|Burning Legion|Horde|88|DRUID", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Damaszek - Burning Legion"] = "Damaszek - Burning Legion",
+	},
+	["profiles"] = {
+		["Damaszek - Burning Legion"] = {
+		},
+	},
+}

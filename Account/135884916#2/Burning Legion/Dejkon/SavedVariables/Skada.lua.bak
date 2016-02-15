@@ -1,0 +1,1445 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 265,
+		["interrupts"] = 0,
+		["damage"] = 26963,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["time"] = 294,
+				["interrupts"] = 0,
+				["damage"] = 26963,
+				["damagespells"] = {
+					["Arcane Blast"] = {
+						["min"] = 47,
+						["critical"] = 3,
+						["hit"] = 64,
+						["totalhits"] = 67,
+						["id"] = 30451,
+						["max"] = 258,
+						["damage"] = 5789,
+					},
+					["Arcane Barrage"] = {
+						["min"] = 46,
+						["critical"] = 2,
+						["hit"] = 24,
+						["totalhits"] = 26,
+						["id"] = 44425,
+						["max"] = 300,
+						["damage"] = 3725,
+					},
+					["Shoot"] = {
+						["min"] = 544,
+						["hit"] = 30,
+						["totalhits"] = 30,
+						["id"] = 65479,
+						["max"] = 621,
+						["damage"] = 17432,
+					},
+					["Attack"] = {
+						["min"] = 6,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 6603,
+						["max"] = 11,
+						["damage"] = 17,
+					},
+				},
+				["deaths"] = {
+					{
+						["ts"] = 1410651435.94514,
+						["maxhp"] = 499,
+						["log"] = {
+							{
+								["ts"] = 1410651417.02201,
+								["amount"] = -28,
+								["hp"] = 369,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [1]
+							{
+								["ts"] = 1410651421.11702,
+								["amount"] = -23,
+								["hp"] = 341,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [2]
+							{
+								["ts"] = 1410651423.11603,
+								["amount"] = -28,
+								["hp"] = 318,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [3]
+							{
+								["ts"] = 1410651425.11604,
+								["amount"] = -25,
+								["hp"] = 290,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [4]
+							{
+								["ts"] = 1410651427.11205,
+								["amount"] = -25,
+								["hp"] = 265,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [5]
+							{
+								["ts"] = 1410651427.61106,
+								["amount"] = -26,
+								["hp"] = 240,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [6]
+							{
+								["ts"] = 1410651429.10807,
+								["spellid"] = 88163,
+								["amount"] = -25,
+								["srcname"] = "Razormane Defender",
+								["hp"] = 214,
+							}, -- [7]
+							{
+								["ts"] = 1410651431.10308,
+								["amount"] = -24,
+								["hp"] = 189,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [8]
+							{
+								["ts"] = 1410651431.97209,
+								["amount"] = -58,
+								["hp"] = 107,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 25710,
+							}, -- [9]
+							{
+								["ts"] = 1410651433.0901,
+								["amount"] = -52,
+								["hp"] = 55,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 25710,
+							}, -- [10]
+							{
+								["ts"] = 1410651433.58611,
+								["amount"] = -29,
+								["hp"] = 55,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [11]
+							{
+								["ts"] = 1410651435.07512,
+								["amount"] = -24,
+								["hp"] = 26,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [12]
+							{
+								["ts"] = 1410651435.57313,
+								["amount"] = -24,
+								["hp"] = 2,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [13]
+							{
+								["ts"] = 1410651435.94514,
+								["spellname"] = "Dejkon dies",
+								["hp"] = 0,
+								["spellid"] = 41220,
+							}, -- [14]
+							{
+								["ts"] = 1410651415.03515,
+								["amount"] = -22,
+								["hp"] = 391,
+								["srcname"] = "Razormane Defender",
+								["spellid"] = 88163,
+							}, -- [15]
+							["pos"] = 15,
+						},
+					}, -- [1]
+				},
+				["damagetaken"] = 2068,
+				["deathlog"] = {
+				},
+				["id"] = "0x0180000004606353",
+				["power"] = {
+				},
+				["damagetakenspells"] = {
+					["Shoot"] = {
+						["crushing"] = 0,
+						["id"] = 6660,
+						["min"] = 11,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Shoot",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 13,
+						["damage"] = 36,
+					},
+					["Venom Splash"] = {
+						["crushing"] = 0,
+						["id"] = 79607,
+						["min"] = 2,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Venom Splash",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 3,
+						["damage"] = 5,
+					},
+					["Rend"] = {
+						["crushing"] = 0,
+						["id"] = 13443,
+						["min"] = 2,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Rend",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 3,
+						["damage"] = 12,
+					},
+					["Heroic Strike"] = {
+						["crushing"] = 0,
+						["id"] = 25710,
+						["min"] = 52,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Heroic Strike",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 61,
+						["damage"] = 283,
+					},
+					["Attack"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 3,
+						["critical"] = 1,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Attack",
+						["blocked"] = 0,
+						["totalhits"] = 72,
+						["resisted"] = 0,
+						["max"] = 45,
+						["damage"] = 1732,
+					},
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "Dejkon",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["auras"] = {
+					["Arcane Charge"] = {
+						["name"] = "Arcane Charge",
+						["active"] = 1,
+						["id"] = 36032,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 185,
+					},
+					["Blink"] = {
+						["name"] = "Blink",
+						["active"] = 0,
+						["id"] = 1953,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+				},
+				["maxhp"] = 499,
+			}, -- [1]
+		},
+		["deaths"] = 1,
+		["mobs"] = {
+			["Grazing Zhevra"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 1172,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1172,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Barrens Vulture"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 527,
+						["done"] = 80,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 527,
+				["done"] = 80,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Bloodtalon Scythemaw"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 707,
+						["done"] = 136,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 707,
+				["done"] = 136,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Zartul-Al'Akir"] = {
+				["players"] = {
+				},
+				["hdone"] = 20,
+				["htakenspell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 14,
+						["healing"] = 20,
+						["overhealing"] = 92,
+						["hits"] = 8,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 20,
+				["hdonespell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 14,
+						["healing"] = 20,
+						["overhealing"] = 92,
+						["hits"] = 8,
+					},
+				},
+			},
+			["Razormane Hunter"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 0,
+						["done"] = 36,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 36,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Furious Earthguard"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 191,
+						["done"] = 15,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 191,
+				["done"] = 15,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Insanara-Al'Akir"] = {
+				["players"] = {
+				},
+				["hdone"] = 143,
+				["htakenspell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 7,
+						["healing"] = 19,
+						["overhealing"] = 6,
+						["hits"] = 4,
+					},
+					["Victory Rush"] = {
+						["min"] = 124,
+						["crits"] = 0,
+						["max"] = 124,
+						["healing"] = 124,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 143,
+				["hdonespell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 7,
+						["healing"] = 19,
+						["overhealing"] = 6,
+						["hits"] = 4,
+					},
+					["Victory Rush"] = {
+						["min"] = 124,
+						["crits"] = 0,
+						["max"] = 124,
+						["healing"] = 124,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Razormane Defender"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 2641,
+						["done"] = 993,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2641,
+				["done"] = 993,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Razormane Wolf"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 0,
+						["done"] = 14,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 14,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Razormane Raider"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 16260,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 16260,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Kreenig Snarlsnout"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 531,
+						["done"] = 76,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 531,
+				["done"] = 76,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Razormane Thornweaver"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 2656,
+						["done"] = 100,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2656,
+				["done"] = 100,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pvpchieftwo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 17,
+						["hits"] = 1,
+					},
+					["Touch of the Grave"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 61,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 17,
+						["hits"] = 1,
+					},
+					["Touch of the Grave"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 61,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Greater Plainstrider"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 1064,
+						["done"] = 149,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1064,
+				["done"] = 149,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Teeming Waterguard"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 294,
+						["done"] = 13,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 294,
+				["done"] = 13,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dreadmaw Crocolisk"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 0,
+						["done"] = 338,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 338,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Venomtail Scorpid"] = {
+				["players"] = {
+					["Dejkon"] = {
+						["taken"] = 920,
+						["done"] = 118,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 920,
+				["done"] = 118,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 26963,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1410648230,
+		["damagetaken"] = 2068,
+		["mobhdone"] = 163,
+		["last_action"] = 1410648230,
+		["mobdone"] = 2068,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 64,
+			["interrupts"] = 0,
+			["damage"] = 17432,
+			["players"] = {
+				{
+					["last"] = 1410651825,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Grazing Zhevra"] = 1172,
+						["Razormane Raider"] = 16260,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 57,
+					["interrupts"] = 0,
+					["damage"] = 17432,
+					["damagespells"] = {
+						["Shoot"] = {
+							["min"] = 544,
+							["hit"] = 30,
+							["totalhits"] = 30,
+							["id"] = 65479,
+							["max"] = 621,
+							["damage"] = 17432,
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651768,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Grazing Zhevra"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 1172,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 1172,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Razormane Raider"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 16260,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 16260,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 17432,
+			["endtime"] = 1410651831,
+			["healing"] = 0,
+			["starttime"] = 1410651767,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Razormane Raider",
+			["mobname"] = "Razormane Raider",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410651767,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 508,
+			["players"] = {
+				{
+					["last"] = 1410651263,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Razormane Defender"] = 508,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 11,
+					["interrupts"] = 0,
+					["damage"] = 508,
+					["damagespells"] = {
+						["Arcane Blast"] = {
+							["min"] = 48,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 30451,
+							["max"] = 95,
+							["damage"] = 218,
+						},
+						["Arcane Barrage"] = {
+							["min"] = 62,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 44425,
+							["max"] = 165,
+							["damage"] = 290,
+						},
+					},
+					["damagetaken"] = 163,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651252,
+					["damagetakenspells"] = {
+						["Heroic Strike"] = {
+							["crushing"] = 0,
+							["id"] = 25710,
+							["min"] = 61,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Heroic Strike",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 61,
+							["damage"] = 61,
+						},
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 27,
+							["critical"] = 1,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 45,
+							["damage"] = 102,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+						["Arcane Charge"] = {
+							["name"] = "Arcane Charge",
+							["active"] = 0,
+							["id"] = 36032,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Insanara-Al'Akir"] = {
+					["players"] = {
+					},
+					["hdone"] = 137,
+					["htakenspell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 13,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Victory Rush"] = {
+							["min"] = 124,
+							["crits"] = 0,
+							["max"] = 124,
+							["healing"] = 124,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 137,
+					["hdonespell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 13,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Victory Rush"] = {
+							["min"] = 124,
+							["crits"] = 0,
+							["max"] = 124,
+							["healing"] = 124,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Razormane Defender"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 508,
+							["done"] = 163,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 508,
+					["done"] = 163,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 508,
+			["endtime"] = 1410651266,
+			["healing"] = 0,
+			["starttime"] = 1410651251,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Razormane Defender",
+			["mobname"] = "Razormane Defender",
+			["damagetaken"] = 163,
+			["mobhdone"] = 137,
+			["last_action"] = 1410651251,
+			["mobdone"] = 163,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 498,
+			["players"] = {
+				{
+					["last"] = 1410651174,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Razormane Thornweaver"] = 498,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 12,
+					["interrupts"] = 0,
+					["damage"] = 498,
+					["damagespells"] = {
+						["Arcane Blast"] = {
+							["min"] = 49,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 30451,
+							["max"] = 95,
+							["damage"] = 215,
+						},
+						["Arcane Barrage"] = {
+							["min"] = 60,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 44425,
+							["max"] = 155,
+							["damage"] = 277,
+						},
+						["Attack"] = {
+							["min"] = 6,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651162,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+						["Arcane Charge"] = {
+							["name"] = "Arcane Charge",
+							["active"] = 0,
+							["id"] = 36032,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Razormane Thornweaver"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 498,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 498,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Zartul-Al'Akir"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 28,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 28,
+							["hits"] = 2,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 498,
+			["endtime"] = 1410651175,
+			["healing"] = 0,
+			["starttime"] = 1410651160,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Razormane Thornweaver",
+			["mobname"] = "Razormane Thornweaver",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410651160,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 509,
+			["players"] = {
+				{
+					["last"] = 1410651137,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Razormane Thornweaver"] = 509,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 12,
+					["interrupts"] = 0,
+					["damage"] = 509,
+					["damagespells"] = {
+						["Arcane Blast"] = {
+							["min"] = 52,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 30451,
+							["max"] = 202,
+							["damage"] = 445,
+						},
+						["Arcane Barrage"] = {
+							["min"] = 64,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 44425,
+							["max"] = 64,
+							["damage"] = 64,
+						},
+					},
+					["damagetaken"] = 26,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651125,
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 26,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 26,
+							["damage"] = 26,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+						["Arcane Charge"] = {
+							["name"] = "Arcane Charge",
+							["active"] = 1,
+							["id"] = 36032,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 12,
+						},
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Razormane Thornweaver"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 509,
+							["done"] = 26,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 509,
+					["done"] = 26,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Zartul-Al'Akir"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 56,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 56,
+							["hits"] = 4,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 509,
+			["endtime"] = 1410651139,
+			["healing"] = 0,
+			["starttime"] = 1410651124,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Razormane Thornweaver",
+			["mobname"] = "Razormane Thornweaver",
+			["damagetaken"] = 26,
+			["mobhdone"] = 0,
+			["last_action"] = 1410651124,
+			["mobdone"] = 26,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 531,
+			["players"] = {
+				{
+					["last"] = 1410651103,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Kreenig Snarlsnout"] = 531,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 8,
+					["interrupts"] = 0,
+					["damage"] = 531,
+					["damagespells"] = {
+						["Arcane Blast"] = {
+							["min"] = 50,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 30451,
+							["max"] = 129,
+							["damage"] = 348,
+						},
+						["Arcane Barrage"] = {
+							["min"] = 183,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 44425,
+							["max"] = 183,
+							["damage"] = 183,
+						},
+					},
+					["damagetaken"] = 76,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651095,
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 24,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 26,
+							["damage"] = 76,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Zartul-Al'Akir"] = {
+					["players"] = {
+					},
+					["hdone"] = 20,
+					["htakenspell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 14,
+							["healing"] = 20,
+							["overhealing"] = 8,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 20,
+					["hdonespell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 14,
+							["healing"] = 20,
+							["overhealing"] = 8,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Kreenig Snarlsnout"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 531,
+							["done"] = 76,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 531,
+					["done"] = 76,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 531,
+			["endtime"] = 1410651105,
+			["healing"] = 0,
+			["starttime"] = 1410651095,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Kreenig Snarlsnout",
+			["mobname"] = "Kreenig Snarlsnout",
+			["damagetaken"] = 76,
+			["mobhdone"] = 20,
+			["last_action"] = 1410651095,
+			["mobdone"] = 76,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 587,
+			["players"] = {
+				{
+					["last"] = 1410651085,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Razormane Defender"] = 587,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 8,
+					["interrupts"] = 0,
+					["damage"] = 587,
+					["damagespells"] = {
+						["Arcane Blast"] = {
+							["min"] = 48,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 30451,
+							["max"] = 151,
+							["damage"] = 298,
+						},
+						["Arcane Barrage"] = {
+							["min"] = 132,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 44425,
+							["max"] = 157,
+							["damage"] = 289,
+						},
+					},
+					["damagetaken"] = 26,
+					["shielding"] = 0,
+					["id"] = "0x0180000004606353",
+					["first"] = 1410651077,
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 26,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 26,
+							["damage"] = 26,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "Dejkon",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+					},
+					["maxhp"] = 499,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Razormane Defender"] = {
+					["players"] = {
+						["Dejkon"] = {
+							["taken"] = 587,
+							["done"] = 26,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 587,
+					["done"] = 26,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 587,
+			["endtime"] = 1410651087,
+			["healing"] = 0,
+			["starttime"] = 1410651077,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Razormane Defender",
+			["mobname"] = "Razormane Defender",
+			["damagetaken"] = 26,
+			["mobhdone"] = 0,
+			["last_action"] = 1410651077,
+			["mobdone"] = 26,
+		}, -- [6]
+	},
+}

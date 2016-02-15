@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Dejki - Burning Legion",
+	},
+	["profiles"] = {
+		["Dejki - Burning Legion"] = {
+			["PositionY"] = 525.0000461796334,
+			["PositionX"] = 607.5000195050964,
+		},
+	},
+}

@@ -1,0 +1,16 @@
+VER 3 0100000000000006 "charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm] Charge
+END
+VER 3 0100000000000008 "Heroic Throw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][@target,harm] Heroic Throw
+END
+VER 3 0100000000000004 "intercept" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/2,@mouseover] Safeguard;[@mouseover] Intervene
+END
+VER 3 0100000000000005 "vigi" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/3,@mouseover] Vigilance;[talent:5/1] Mass Spell Reflection;
+END

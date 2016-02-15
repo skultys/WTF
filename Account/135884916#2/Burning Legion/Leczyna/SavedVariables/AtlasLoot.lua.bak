@@ -1,0 +1,10 @@
+
+AtlasLootCharDB = {
+	["profileKeys"] = {
+		["Leczyna - Burning Legion"] = "Leczyna - Burning Legion",
+	},
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+}

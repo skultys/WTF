@@ -1,0 +1,2 @@
+Cooldowns: disabled
+LeechTrinketCounter: enabled

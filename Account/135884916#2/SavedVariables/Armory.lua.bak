@@ -1,0 +1,3970 @@
+
+ArmoryDB = {
+	["Burning Legion"] = {
+		["Dejki"] = {
+			["SpellCritChance3"] = 8.432223320007324,
+			["InventoryItemCount15"] = 1,
+			["IsXPUserDisabled"] = false,
+			["InventoryItem9"] = {
+				["1"] = 1,
+				["3"] = 306,
+				["count"] = 3,
+			},
+			["InventoryItem1"] = {
+				["1"] = 1,
+				["3"] = 211,
+				["count"] = 3,
+			},
+			["InventoryItemTexture14"] = "Interface\\Icons\\INV_Jewelry_Talisman_06",
+			["Race"] = {
+				["1"] = "Orc",
+				["count"] = 2,
+				["2"] = "Orc",
+			},
+			["MeleeHaste"] = 6.55023193359375,
+			["SpellCritChance7"] = 8.432223320007324,
+			["InventoryItem8"] = {
+				["1"] = 1,
+				["3"] = 306,
+				["count"] = 3,
+			},
+			["Damage"] = {
+				["1"] = 134.1484222412109,
+				["3"] = 0,
+				["count"] = 7,
+				["2"] = 210.5142822265625,
+				["5"] = 0,
+				["4"] = 0,
+				["7"] = 1,
+				["6"] = 0,
+			},
+			["SpellCritChance5"] = 8.432223320007324,
+			["ActiveSpecGroup"] = 1,
+			["Friends"] = {
+				{
+					["1"] = "Miklu",
+					["count"] = 3,
+					["2"] = "Warrior",
+				}, -- [1]
+			},
+			["InventoryItemGems6"] = "28461:28461:0:0",
+			["InventoryItemLink1"] = {
+				["1"] = "|cff1eff00|Hitem:35814:0:0:0:0:0:0:1969773056:73:0:0|h[Benevolent Hood]|h|r",
+				["count"] = 4,
+				["2"] = "Durability 69 / 70",
+				["3"] = 8,
+			},
+			["ParryChance"] = 0,
+			["CombatRatingBonus6"] = 0,
+			["InventoryItemTexture10"] = "Interface\\Icons\\INV_Gauntlets_28",
+			["Talents"] = {
+				{
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [1]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [2]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [3]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [4]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [5]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [6]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [7]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [8]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [9]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [10]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [11]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [12]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [13]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [14]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [15]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [16]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [17]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [18]
+					["Unspent"] = 0,
+				}, -- [1]
+				{
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [1]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [2]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [3]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [4]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [5]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [6]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [7]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [8]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [9]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [10]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [11]
+					{
+						["1"] = true,
+						["count"] = 2,
+						["2"] = true,
+					}, -- [12]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [13]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [14]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [15]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [16]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [17]
+					{
+						["1"] = false,
+						["count"] = 2,
+						["2"] = false,
+					}, -- [18]
+				}, -- [2]
+			},
+			["Zone"] = "Dalaran",
+			["Class"] = {
+				["1"] = "Shaman",
+				["3"] = 7,
+				["count"] = 3,
+				["2"] = "SHAMAN",
+			},
+			["InventoryItemLink14"] = {
+				["1"] = "|cff0070dd|Hitem:11819:0:0:0:0:0:0:1820758048:73:0:0|h[Second Wind]|h|r",
+				["count"] = 4,
+			},
+			["InventoryItemTexture21"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+			["InventoryItem2"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemTexture11"] = "Interface\\Icons\\INV_Jewelry_Ring_42",
+			["Speed"] = {
+				["1"] = 0,
+				["count"] = 4,
+				["2"] = 7,
+				["4"] = 4.722219944000244,
+				["3"] = 7.700000286102295,
+			},
+			["XP"] = 705553,
+			["InventoryItemCount1"] = 1,
+			["AttackPower"] = {
+				["1"] = 354,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = 0,
+			},
+			["CombatRating19"] = 29,
+			["CombatRatingBonus4"] = 0,
+			["SpellBonusDamage3"] = 896,
+			["InventoryItemTexture4"] = "Interface\\Icons\\INV_Shirt_Red_01",
+			["InventoryItemLink10"] = {
+				["1"] = "|cff0070dd|Hitem:44363:0:0:0:0:0:0:363671104:73:0:0|h[Purging Handguards]|h|r",
+				["count"] = 4,
+				["2"] = "Durability 49 / 50",
+				["3"] = 8,
+			},
+			["CombatRatingBonus10"] = 0.8727572560310364,
+			["InventoryItemLink16"] = {
+				["1"] = "|cff0070dd|Hitem:35570:0:0:0:0:0:0:1505703808:73:0:0|h[Keleseth's Blade of Evocation]|h|r",
+				["count"] = 4,
+			},
+			["Buffs"] = {
+				["HARMFUL"] = {
+				},
+				["Time"] = {
+					["1"] = 1357752984,
+					["count"] = 2,
+					["2"] = 19609.902,
+				},
+				["HELPFUL"] = {
+					["Tooltip1"] = {
+						["1"] = "10.820Essence of Wintergrasp",
+						["count"] = 2,
+						["2"] = "111Experience gain from monsters increased by 5%.",
+					},
+					["Aura2"] = {
+						["1"] = "Bilgewater Champion",
+						["3"] = "INTERFACE\\ICONS\\inv_misc_tabard_kezan",
+						["2"] = "",
+						["4"] = 0,
+						["7"] = 0,
+						["6"] = 0,
+						["14"] = true,
+						["8"] = "player",
+						["count"] = 14,
+						["12"] = false,
+						["11"] = 93830,
+					},
+					["Aura1"] = {
+						["1"] = "Essence of Wintergrasp",
+						["3"] = "Interface\\Icons\\INV_EssenceOfWintergrasp",
+						["2"] = "",
+						["4"] = 0,
+						["7"] = 0,
+						["6"] = 0,
+						["14"] = true,
+						["8"] = "player",
+						["count"] = 14,
+						["12"] = false,
+						["11"] = 57940,
+						["10"] = 1,
+					},
+					["Tooltip2"] = {
+						["1"] = "10.820Bilgewater Champion",
+						["count"] = 2,
+						["2"] = "111All reputation gains while in dungeons will be applied to the Bilgewater Cartel.",
+					},
+					["Tooltip4"] = {
+						["1"] = "10.820Burning Wrath",
+						["count"] = 2,
+						["2"] = "111Spell power increased by 10%.",
+					},
+					["Aura4"] = {
+						["1"] = "Burning Wrath",
+						["3"] = "Interface\\Icons\\Spell_Fire_TotemOfWrath",
+						["2"] = "",
+						["4"] = 0,
+						["7"] = 0,
+						["6"] = 0,
+						["14"] = true,
+						["8"] = "player",
+						["count"] = 14,
+						["12"] = true,
+						["11"] = 77747,
+						["10"] = 1,
+					},
+					["Tooltip3"] = {
+						["1"] = "10.820Water Shield",
+						["count"] = 2,
+						["2"] = "111Grants 126 mana per 5 sec.\r\nAttacks against you trigger additional mana restoration.",
+					},
+					["Aura3"] = {
+						["1"] = "Water Shield",
+						["3"] = "Interface\\Icons\\Ability_Shaman_WaterShield",
+						["2"] = "",
+						["16"] = 126,
+						["4"] = 0,
+						["7"] = 21496.104,
+						["6"] = 3600,
+						["14"] = true,
+						["8"] = "player",
+						["count"] = 16,
+						["15"] = 199,
+						["12"] = true,
+						["11"] = 52127,
+					},
+				},
+			},
+			["ShieldBlock"] = 30,
+			["CombatRating20"] = 29,
+			["SpellBonusDamage2"] = 896,
+			["Guild"] = {
+				["1"] = "Disappeared",
+				["3"] = 7,
+				["count"] = 3,
+				["2"] = "Pierwszy Buch",
+			},
+			["InventoryItemCount19"] = 1,
+			["InventoryItemCount3"] = 1,
+			["CurrencyInfo395"] = {
+				["1"] = "Justice Points",
+				["3"] = "pvecurrency-justice",
+				["count"] = 7,
+				["2"] = 28,
+				["5"] = 0,
+				["4"] = 0,
+				["7"] = true,
+				["6"] = 400099,
+			},
+			["InventoryItem10"] = {
+				["1"] = 1,
+				["3"] = 316,
+				["count"] = 3,
+			},
+			["InventoryItem6"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItem12"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemCount14"] = 1,
+			["InventoryItem15"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemTexture1"] = "Interface\\Icons\\INV_Helmet_125",
+			["HasMana"] = 1,
+			["Events"] = {
+				["1357844400;1"] = {
+					["1"] = "MV",
+					["3"] = 1,
+					["2"] = "GUILD_EVENT",
+					["5"] = "",
+					["4"] = "MOGUSHANVAULTS",
+					["7"] = "",
+					["6"] = 8,
+					["9"] = 2,
+					["8"] = 0,
+					["count"] = 10,
+					["10"] = "",
+				},
+			},
+			["InventoryItemLink8"] = {
+				["1"] = "|cff0070dd|Hitem:42766:0:0:0:0:0:0:106680392:73:0:0|h[Spiked Treads of Mutation]|h|r",
+				["count"] = 4,
+				["2"] = "Durability 64 / 65",
+				["3"] = 8,
+			},
+			["InventoryItemCount8"] = 1,
+			["InventoryItemTexture7"] = "Interface\\Icons\\INV_Pants_Leather_13",
+			["Inventory"] = {
+				["Container1"] = {
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_07",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:37093:0:0:0:0:0:0:1914103424:73:0:0|h[Scroll of Stamina VII]|h|r",
+						["7"] = 1,
+					}, -- [1]
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_01",
+						["3"] = -1,
+						["2"] = 11,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:37091:0:0:0:0:0:0:1768718976:73:0:0|h[Scroll of Intellect VII]|h|r",
+						["7"] = 2,
+					}, -- [2]
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_01",
+						["3"] = -1,
+						["2"] = 10,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:37098:0:0:0:0:0:0:135280352:73:0:0|h[Scroll of Spirit VIII]|h|r",
+						["7"] = 3,
+					}, -- [3]
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_01",
+						["3"] = -1,
+						["2"] = 10,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:37097:0:0:0:0:0:0:1016839488:73:0:0|h[Scroll of Spirit VII]|h|r",
+						["7"] = 4,
+					}, -- [4]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_86",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33614:0:0:0:0:0:0:1732659328:73:0:0|h[Empty Apothecary's Flask]|h|r",
+						["7"] = 5,
+					}, -- [5]
+					{
+						["1"] = "Interface\\Icons\\INV_Elemental_Mote_Shadow01",
+						["3"] = -1,
+						["2"] = 3,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:22577:0:0:0:0:0:0:802262688:73:0:0|h[Mote of Shadow]|h|r",
+						["7"] = 6,
+					}, -- [6]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_131",
+						["3"] = -1,
+						["2"] = 5,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:22829:0:0:0:0:0:0:2067822080:73:0:0|h[Super Healing Potion]|h|r",
+						["7"] = 7,
+					}, -- [7]
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_01",
+						["3"] = -1,
+						["2"] = 10,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:37092:0:0:0:0:0:0:546766592:73:0:0|h[Scroll of Intellect VIII]|h|r",
+						["7"] = 8,
+					}, -- [8]
+					{
+						["1"] = "Interface\\Icons\\Spell_Nature_CorrosiveBreath",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33418:0:0:0:0:0:0:1074759552:73:0:0|h[Tillinghast's Plague Canister]|h|r",
+						["7"] = 9,
+					}, -- [9]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_nerubian_obelisk",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:64396:0:0:0:0:0:0:1254534400:73:0:0|h[Nerubian Obelisk]|h|r",
+						["7"] = 10,
+					}, -- [10]
+					{
+						["1"] = "Interface\\Icons\\INV_Scroll_01",
+						["3"] = -1,
+						["2"] = 5,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:63307:0:0:0:0:0:0:1265190016:73:0:0|h[Scroll of Spirit IX]|h|r",
+						["7"] = 11,
+					}, -- [11]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_74",
+						["3"] = -1,
+						["2"] = 13,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:13443:0:0:0:0:0:0:-2078703104:73:0:0|h[Superior Mana Potion]|h|r",
+						["7"] = 12,
+					}, -- [12]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_NerubianChitin_01",
+						["3"] = -1,
+						["2"] = 8,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:38558:0:0:0:0:0:0:2004328064:73:0:0|h[Nerubian Chitin]|h|r",
+						["7"] = 13,
+					}, -- [13]
+					{
+						["1"] = "Interface\\Icons\\INV_Elemental_Mote_Life01",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:22575:0:0:0:0:0:0:-1349471360:73:0:0|h[Mote of Life]|h|r",
+						["7"] = 14,
+					}, -- [14]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Dust_02",
+						["3"] = -1,
+						["2"] = 5,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:64670:0:0:0:0:0:0:0:73:0:0|h[Vanishing Powder]|h|r",
+						["7"] = 15,
+					}, -- [15]
+					{
+						["1"] = "Interface\\Icons\\INV_Fabric_Soulcloth",
+						["3"] = -1,
+						["2"] = 19,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33470:0:0:0:0:0:0:1579192960:73:0:0|h[Frostweave Cloth]|h|r",
+						["7"] = 16,
+					}, -- [16]
+					["Info"] = {
+						["1"] = "Netherweave Bag",
+						["5"] = 1357750760,
+						["count"] = 5,
+						["2"] = 16,
+					},
+					["Cache"] = {
+						["33470"] = 19,
+						["63307"] = 5,
+						["37093"] = 1,
+						["37091"] = 11,
+						["64670"] = 5,
+						["33418"] = 1,
+						["33614"] = 1,
+						["22575"] = 1,
+						["22577"] = 3,
+						["64396"] = 1,
+						["37098"] = 10,
+						["37092"] = 10,
+						["13443"] = 13,
+						["38558"] = 8,
+						["22829"] = 5,
+						["37097"] = 10,
+					},
+				},
+				["Container3"] = {
+					["Info"] = {
+						["1"] = "Netherweave Bag",
+						["5"] = 1357750760,
+						["count"] = 5,
+						["2"] = 16,
+					},
+				},
+				["Container0"] = {
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Rune_01",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:73:0:0|h[Hearthstone]|h|r",
+						["7"] = 1,
+					}, -- [1]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_dwarf_runestone",
+						["3"] = -1,
+						["2"] = 3,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:52843:0:0:0:0:0:0:-2072366592:73:0:0|h[Dwarf Rune Stone]|h|r",
+						["7"] = 2,
+					}, -- [2]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_queenazshara dressinggown",
+						["3"] = 4,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffa335ee|Hitem:64643:0:0:0:0:0:0:1580652288:73:0:0|h[Queen Azshara's Dressing Gown]|h|r",
+						["7"] = 3,
+						["6"] = 5,
+					}, -- [3]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_137",
+						["3"] = -1,
+						["2"] = 3,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:22832:0:0:0:0:0:0:620718016:73:0:0|h[Super Mana Potion]|h|r",
+						["7"] = 4,
+					}, -- [4]
+					{
+						["1"] = "Interface\\Icons\\INV_Helmet_31",
+						["3"] = 3,
+						["2"] = 1,
+						["4"] = "|cff0070dd|Hitem:33820:0:0:0:0:0:0:1925869184:73:0:0|h[Weather-Beaten Fishing Hat]|h|r",
+						["7"] = 5,
+						["6"] = 1,
+						["9"] = "Durability 55 / 55",
+						["count"] = 11,
+						["10"] = 11,
+					}, -- [5]
+					{
+						["1"] = "Interface\\Icons\\INV_Fabric_Frostweave_Bolt",
+						["3"] = -1,
+						["2"] = 4,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:41510:0:0:0:0:0:0:1964444288:73:0:0|h[Bolt of Frostweave]|h|r",
+						["7"] = 6,
+					}, -- [6]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_highborne_scroll",
+						["3"] = -1,
+						["2"] = 3,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:63127:0:0:0:0:0:0:-1898459904:73:0:0|h[Highborne Scroll]|h|r",
+						["7"] = 7,
+					}, -- [7]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Rune_04",
+						["3"] = -1,
+						["2"] = 2,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:12662:0:0:0:0:0:0:974930240:73:0:0|h[Demonic Rune]|h|r",
+						["7"] = 8,
+					}, -- [8]
+					{
+						["1"] = "Interface\\Icons\\inv_helmet_66",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:55121:0:0:0:0:0:0:156941040:73:0:0|h[River Boat]|h|r",
+						["7"] = 9,
+					}, -- [9]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_troll_tablet",
+						["3"] = -1,
+						["2"] = 2,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:63128:0:0:0:0:0:0:2039273984:73:0:0|h[Troll Tablet]|h|r",
+						["7"] = 10,
+					}, -- [10]
+					{
+						["1"] = "Interface\\Icons\\INV_Fishingpole_02",
+						["3"] = 1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:6365:0:0:0:0:0:0:0:73:0:0|h[Strong Fishing Pole]|h|r",
+						["7"] = 11,
+						["6"] = 16,
+					}, -- [11]
+					{
+						["1"] = "Interface\\Icons\\trade_archaeology_orc_bloodtext",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:64392:0:0:0:0:0:0:644939232:73:0:0|h[Orc Blood Text]|h|r",
+						["7"] = 12,
+					}, -- [12]
+					{
+						["1"] = "Interface\\Icons\\INV_Weapon_ShortBlade_01",
+						["3"] = 1,
+						["2"] = 1,
+						["4"] = "|cffffffff|Hitem:7005:0:0:0:0:0:0:0:73:0:0|h[Skinning Knife]|h|r",
+						["7"] = 13,
+						["6"] = 16,
+						["9"] = "Durability 20 / 20",
+						["count"] = 11,
+						["10"] = 8,
+					}, -- [13]
+					{
+						["1"] = "Interface\\Icons\\INV_Elemental_Primal_Life",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:874749248:73:0:0|h[Primal Life]|h|r",
+						["7"] = 14,
+					}, -- [14]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_18",
+						["3"] = -1,
+						["2"] = 10,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:3823:0:0:0:0:0:0:1329523584:73:0:0|h[Lesser Invisibility Potion]|h|r",
+						["7"] = 15,
+					}, -- [15]
+					{
+						["1"] = "Interface\\Icons\\INV_Potion_54",
+						["3"] = -1,
+						["2"] = 20,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:13446:0:0:0:0:0:0:2072486912:73:0:0|h[Major Healing Potion]|h|r",
+						["7"] = 16,
+					}, -- [16]
+					["Info"] = {
+						["1"] = "Backpack",
+						["5"] = 1357752701,
+						["count"] = 5,
+						["2"] = 16,
+					},
+					["Cache"] = {
+						["13446"] = 20,
+						["41510"] = 4,
+						["12662"] = 2,
+						["3823"] = 10,
+						["22832"] = 3,
+						["21886"] = 1,
+						["64392"] = 1,
+						["64643"] = 1,
+						["6365"] = 1,
+						["33820"] = 1,
+						["7005"] = 1,
+						["63128"] = 2,
+						["55121"] = 1,
+						["6948"] = 1,
+						["63127"] = 3,
+						["52843"] = 3,
+					},
+				},
+				["Container2"] = {
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_MonsterSpiderCarapace_01",
+						["3"] = -1,
+						["2"] = 6,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:33629:0:0:0:0:0:0:1104259776:73:0:0|h[Frosty Spinneret]|h|r",
+						["7"] = 1,
+					}, -- [1]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Petbiscuit_01",
+						["3"] = -1,
+						["2"] = 4,
+						["count"] = 11,
+						["4"] = "|cff1eff00|Hitem:71153:0:0:0:0:0:0:1936347008:73:0:0|h[Magical Pet Biscuit]|h|r",
+						["7"] = 2,
+					}, -- [2]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Pelt_Arctic_01",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:90057:0:0:0:0:0:0:-1016443008:73:0:0|h[Hair Ball]|h|r",
+						["7"] = 3,
+					}, -- [3]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_15",
+						["3"] = -1,
+						["2"] = 3,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33568:0:0:0:0:0:0:1434622208:73:0:0|h[Borean Leather]|h|r",
+						["7"] = 4,
+					}, -- [4]
+					{
+						["1"] = "Interface\\Icons\\INV_Shoulder_08",
+						["3"] = 0,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:33378:0:0:0:0:0:0:1556391104:73:0:0|h[Fur-Lined Shoulderpads]|h|r",
+						["7"] = 5,
+						["6"] = 3,
+					}, -- [5]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Pelt_Arctic_02",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:43852:0:0:0:0:0:0:838338432:73:0:0|h[Thick Fur Clothing Scraps]|h|r",
+						["7"] = 6,
+					}, -- [6]
+					{
+						["1"] = "Interface\\Icons\\INV_Fabric_Soulcloth",
+						["3"] = -1,
+						["2"] = 6,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33470:0:0:0:0:0:0:431134992:73:0:0|h[Frostweave Cloth]|h|r",
+						["7"] = 7,
+					}, -- [7]
+					{
+						["1"] = "Interface\\Icons\\INV_Helmet_12",
+						["3"] = 0,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:33439:0:0:0:0:0:0:577980768:73:0:0|h[Fur-Lined Leather Helmet]|h|r",
+						["7"] = 8,
+						["6"] = 1,
+					}, -- [8]
+					{
+						["1"] = "Interface\\Icons\\INV_Pants_03",
+						["3"] = 0,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff9d9d9d|Hitem:33395:0:0:0:0:0:0:-1677094272:73:0:0|h[Icy Mail Pants]|h|r",
+						["7"] = 9,
+						["6"] = 7,
+					}, -- [9]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_15",
+						["3"] = -1,
+						["2"] = 20,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33568:0:0:0:0:0:0:-1956564864:73:0:0|h[Borean Leather]|h|r",
+						["7"] = 12,
+					}, -- [10]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_Bandage_05",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:43215:0:0:0:0:0:0:738407168:73:0:0|h[Ichor-Stained Cloth]|h|r",
+						["7"] = 14,
+					}, -- [11]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_MonsterFang_01",
+						["3"] = -1,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:74755:0:0:0:0:0:0:1421057536:73:0:0|h[King Dred's Tooth]|h|r",
+						["7"] = 15,
+					}, -- [12]
+					{
+						["1"] = "Interface\\Icons\\INV_Shield_51",
+						["3"] = 3,
+						["2"] = 1,
+						["count"] = 11,
+						["4"] = "|cff0070dd|Hitem:35636:0:0:0:0:0:0:1532780032:73:0:0|h[Tharon'ja's Aegis]|h|r",
+						["7"] = 16,
+					}, -- [13]
+					["Info"] = {
+						["1"] = "Netherweave Bag",
+						["5"] = 1357750760,
+						["count"] = 5,
+						["2"] = 16,
+					},
+					["Cache"] = {
+						["43852"] = 1,
+						["33378"] = 1,
+						["90057"] = 1,
+						["71153"] = 4,
+						["33395"] = 1,
+						["33439"] = 1,
+						["33629"] = 6,
+						["33568"] = 23,
+						["43215"] = 1,
+						["74755"] = 1,
+						["33470"] = 6,
+						["35636"] = 1,
+					},
+				},
+				["Container4"] = {
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_MonsterScales_19",
+						["3"] = -1,
+						["2"] = 4,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:38557:0:0:0:0:0:0:486810800:73:0:0|h[Icy Dragonscale]|h|r",
+						["7"] = 1,
+					}, -- [1]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_10",
+						["3"] = -1,
+						["2"] = 10,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:21887:0:0:0:0:0:0:-1625011456:73:0:0|h[Knothide Leather]|h|r",
+						["7"] = 2,
+					}, -- [2]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_13",
+						["3"] = -1,
+						["2"] = 2,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:25707:0:0:0:0:0:0:1921441152:73:0:0|h[Fel Hide]|h|r",
+						["7"] = 3,
+					}, -- [3]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_08",
+						["3"] = -1,
+						["2"] = 6,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:4304:0:0:0:0:0:0:1815217792:73:0:0|h[Thick Leather]|h|r",
+						["7"] = 4,
+					}, -- [4]
+					{
+						["1"] = "Interface\\Icons\\INV_Misc_LeatherScrap_15",
+						["3"] = -1,
+						["2"] = 20,
+						["count"] = 11,
+						["4"] = "|cffffffff|Hitem:33568:0:0:0:0:0:0:1023932288:73:0:0|h[Borean Leather]|h|r",
+						["7"] = 5,
+					}, -- [5]
+					["Info"] = {
+						["1"] = "Netherweave Bag",
+						["5"] = 1357750760,
+						["count"] = 5,
+						["2"] = 16,
+					},
+					["Cache"] = {
+						["21887"] = 10,
+						["33568"] = 20,
+						["4304"] = 6,
+						["38557"] = 4,
+						["25707"] = 2,
+					},
+				},
+			},
+			["AttackSpeed"] = {
+				["1"] = 1.689000080223195,
+				["count"] = 2,
+			},
+			["InventoryItemCount5"] = 1,
+			["SpellBonusDamage6"] = 896,
+			["InventoryItemTexture12"] = "Interface\\Icons\\INV_Jewelry_Ring_48Naxxramas",
+			["SpellBonusDamage7"] = 896,
+			["InventoryItem11"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["ManaRegenRateFromSpirit"] = 123.2624929378508,
+			["Factions"] = {
+				{
+					["9"] = 1,
+					["count"] = 13,
+					["1"] = "Guild",
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [1]
+				{
+					["1"] = "Disappeared",
+					["count"] = 13,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 20413,
+				}, -- [2]
+				{
+					["1"] = "Cataclysm",
+					["3"] = 4,
+					["5"] = 3000,
+					["4"] = 0,
+					["6"] = 0,
+					["9"] = 1,
+					["8"] = 1,
+					["count"] = 13,
+				}, -- [3]
+				{
+					["1"] = "The Earthen Ring",
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 82,
+				}, -- [4]
+				{
+					["1"] = "Wrath of the Lich King",
+					["3"] = 4,
+					["5"] = 3000,
+					["4"] = 0,
+					["6"] = 0,
+					["9"] = 1,
+					["8"] = 1,
+					["count"] = 13,
+				}, -- [5]
+				{
+					["1"] = "Argent Crusade",
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 92,
+				}, -- [6]
+				{
+					["1"] = "Kirin Tor",
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 1358,
+				}, -- [7]
+				{
+					["1"] = "The Wyrmrest Accord",
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 357,
+				}, -- [8]
+				{
+					["1"] = "Horde Expedition",
+					["3"] = 5,
+					["5"] = 9000,
+					["4"] = 3000,
+					["6"] = 5530,
+					["9"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+					["11"] = 1,
+				}, -- [9]
+				{
+					["1"] = "The Hand of Vengeance",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 4573,
+				}, -- [10]
+				{
+					["1"] = "The Sunreavers",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2772,
+				}, -- [11]
+				{
+					["1"] = "The Taunka",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2765,
+				}, -- [12]
+				{
+					["1"] = "Warsong Offensive",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2965,
+				}, -- [13]
+				{
+					["9"] = 1,
+					["count"] = 13,
+					["1"] = "The Burning Crusade",
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [14]
+				{
+					["1"] = "Cenarion Expedition",
+					["count"] = 13,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 9603,
+				}, -- [15]
+				{
+					["1"] = "Keepers of Time",
+					["count"] = 13,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 8075,
+				}, -- [16]
+				{
+					["1"] = "Sporeggar",
+					["8"] = 1,
+					["count"] = 13,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 10214,
+				}, -- [17]
+				{
+					["1"] = "The Consortium",
+					["count"] = 13,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 3853,
+				}, -- [18]
+				{
+					["1"] = "Thrallmar",
+					["count"] = 13,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 13143,
+				}, -- [19]
+				{
+					["1"] = "Tranquillien",
+					["count"] = 13,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 3300,
+				}, -- [20]
+				{
+					["9"] = 1,
+					["13"] = 1,
+					["count"] = 13,
+					["1"] = "Shattrath City",
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [21]
+				{
+					["1"] = "Lower City",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 8352,
+				}, -- [22]
+				{
+					["1"] = "Shattered Sun Offensive",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2733,
+				}, -- [23]
+				{
+					["1"] = "The Scryers",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [24]
+				{
+					["1"] = "The Sha'tar",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 3823,
+				}, -- [25]
+				{
+					["1"] = "Classic",
+					["3"] = 4,
+					["5"] = 3000,
+					["4"] = 0,
+					["6"] = 0,
+					["9"] = 1,
+					["8"] = 1,
+					["count"] = 13,
+				}, -- [26]
+				{
+					["1"] = "Cenarion Circle",
+					["8"] = 1,
+					["count"] = 13,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 8615,
+				}, -- [27]
+				{
+					["1"] = "Hydraxian Waterlords",
+					["8"] = 1,
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 11,
+				}, -- [28]
+				{
+					["1"] = "Thorium Brotherhood",
+					["count"] = 13,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [29]
+				{
+					["9"] = 1,
+					["13"] = 1,
+					["count"] = 13,
+					["1"] = "Horde",
+					["5"] = 42000,
+					["4"] = 21000,
+					["3"] = 7,
+					["6"] = 38036,
+				}, -- [30]
+				{
+					["1"] = "Bilgewater Cartel",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 43000,
+					["4"] = 42000,
+					["3"] = 8,
+					["6"] = 42999,
+				}, -- [31]
+				{
+					["1"] = "Darkspear Trolls",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 43000,
+					["4"] = 42000,
+					["3"] = 8,
+					["6"] = 42031,
+				}, -- [32]
+				{
+					["1"] = "Huojin Pandaren",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 8999,
+				}, -- [33]
+				{
+					["1"] = "Orgrimmar",
+					["13"] = 1,
+					["count"] = 13,
+					["12"] = 1,
+					["5"] = 43000,
+					["4"] = 42000,
+					["3"] = 8,
+					["6"] = 42999,
+				}, -- [34]
+				{
+					["1"] = "Silvermoon City",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 9000,
+					["4"] = 3000,
+					["3"] = 5,
+					["6"] = 8999,
+				}, -- [35]
+				{
+					["1"] = "Thunder Bluff",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 13723,
+				}, -- [36]
+				{
+					["1"] = "Undercity",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 21000,
+					["4"] = 9000,
+					["3"] = 6,
+					["6"] = 10283,
+				}, -- [37]
+				{
+					["9"] = 1,
+					["13"] = 1,
+					["count"] = 13,
+					["1"] = "Horde Forces",
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [38]
+				{
+					["1"] = "Frostwolf Clan",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 0,
+				}, -- [39]
+				{
+					["1"] = "Warsong Outriders",
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 70,
+				}, -- [40]
+				{
+					["1"] = "Steamwheedle Cartel",
+					["3"] = 4,
+					["5"] = 3000,
+					["4"] = 0,
+					["6"] = 2171,
+					["9"] = 1,
+					["8"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+				}, -- [41]
+				{
+					["1"] = "Booty Bay",
+					["8"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2171,
+				}, -- [42]
+				{
+					["1"] = "Everlook",
+					["8"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2171,
+				}, -- [43]
+				{
+					["1"] = "Gadgetzan",
+					["8"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2457,
+				}, -- [44]
+				{
+					["1"] = "Ratchet",
+					["8"] = 1,
+					["count"] = 13,
+					["13"] = 1,
+					["5"] = 3000,
+					["4"] = 0,
+					["3"] = 4,
+					["6"] = 2956,
+				}, -- [45]
+			},
+			["InventoryItemLink23"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:75966216:73:0:0|h[Netherweave Bag]|h|r",
+			["PVPSessionStats"] = {
+				["1"] = 1357750758,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = 0,
+			},
+			["CurrencyInfo392"] = {
+				["1"] = "Honor Points",
+				["3"] = "PVPCurrency-Honor-Horde",
+				["count"] = 7,
+				["2"] = 39,
+				["5"] = 0,
+				["4"] = 0,
+				["7"] = true,
+				["6"] = 400099,
+			},
+			["Currency"] = {
+				{
+					["1"] = "Dungeon and Raid",
+					["count"] = 8,
+					["2"] = true,
+					["5"] = false,
+					["4"] = false,
+					["3"] = true,
+					["6"] = 0,
+				}, -- [1]
+				{
+					["1"] = "Justice Points",
+					["3"] = true,
+					["2"] = false,
+					["5"] = false,
+					["4"] = false,
+					["7"] = "Interface\\Icons\\pvecurrency-justice",
+					["6"] = 28,
+					["8"] = "|cff00aa00|Hcurrency:395|h[Justice Points]|h|r",
+					["count"] = 8,
+				}, -- [2]
+				{
+					["1"] = "Miscellaneous",
+					["count"] = 8,
+					["2"] = true,
+					["5"] = false,
+					["4"] = false,
+					["3"] = true,
+					["6"] = 0,
+				}, -- [3]
+				{
+					["1"] = "Epicurean's Award",
+					["3"] = false,
+					["2"] = false,
+					["5"] = false,
+					["4"] = false,
+					["7"] = "Interface\\Icons\\INV_Misc_Ribbon_01",
+					["6"] = 13,
+					["8"] = "|cff00aa00|Hcurrency:81|h[Epicurean's Award]|h|r",
+					["count"] = 8,
+				}, -- [4]
+				{
+					["1"] = "Player vs. Player",
+					["count"] = 8,
+					["2"] = true,
+					["5"] = false,
+					["4"] = false,
+					["3"] = true,
+					["6"] = 0,
+				}, -- [5]
+				{
+					["1"] = "Conquest Points",
+					["3"] = true,
+					["2"] = false,
+					["5"] = false,
+					["4"] = false,
+					["7"] = "Interface\\Icons\\PVPCurrency-Conquest-Horde",
+					["6"] = 0,
+					["8"] = "|cff00aa00|Hcurrency:390|h[Conquest Points]|h|r",
+					["count"] = 8,
+				}, -- [6]
+				{
+					["1"] = "Honor Points",
+					["3"] = true,
+					["2"] = false,
+					["5"] = false,
+					["4"] = false,
+					["7"] = "Interface\\Icons\\PVPCurrency-Honor-Horde",
+					["6"] = 39,
+					["8"] = "|cff00aa00|Hcurrency:392|h[Honor Points]|h|r",
+					["count"] = 8,
+				}, -- [7]
+			},
+			["SpellHaste"] = 6.55023193359375,
+			["CombatRating8"] = 0,
+			["InventoryItemLink21"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:1236211456:73:0:0|h[Netherweave Bag]|h|r",
+			["InventoryItemCount13"] = 1,
+			["CombatRating10"] = 24,
+			["PVPYesterdayStats"] = {
+				["1"] = 1357750758,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = nil --[[ skipped inline function ]],
+			},
+			["InventoryItemTexture19"] = "Interface\\Icons\\inv_misc_tabard_kezan",
+			["InventoryItemGems5"] = "28461:28467:28464:0",
+			["InventoryItemCount10"] = 1,
+			["InventoryItem13"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["Stat1"] = {
+				["1"] = 110,
+				["count"] = 4,
+				["2"] = 110,
+				["4"] = 0,
+				["3"] = 0,
+			},
+			["PVPLifetimeStats"] = {
+				["1"] = 27,
+				["count"] = 2,
+				["2"] = 0,
+			},
+			["Professions"] = {
+				["Tailoring"] = {
+					["Texture"] = "Interface\\Icons\\Trade_Tailoring",
+					["Rank"] = {
+						["1"] = 385,
+						["3"] = 0,
+						["count"] = 3,
+						["2"] = 450,
+					},
+				},
+				["3"] = {
+					["1"] = "Archaeology",
+					["count"] = 2,
+				},
+				["2"] = {
+					["1"] = "Skinning",
+					["count"] = 2,
+				},
+				["Fishing"] = {
+					["Texture"] = "Interface\\Icons\\Trade_Fishing",
+					["Rank"] = {
+						["1"] = 196,
+						["3"] = 0,
+						["count"] = 3,
+						["2"] = 225,
+					},
+				},
+				["4"] = {
+					["1"] = "Fishing",
+					["count"] = 2,
+				},
+				["Cooking"] = {
+					["Texture"] = "Interface\\Icons\\INV_Misc_Food_15",
+					["Rank"] = {
+						["1"] = 61,
+						["3"] = 0,
+						["count"] = 3,
+						["2"] = 150,
+					},
+				},
+				["Archaeology"] = {
+					["Texture"] = "INTERFACE\\ICONS\\trade_archaeology",
+					["Rank"] = {
+						["1"] = 450,
+						["3"] = 0,
+						["count"] = 3,
+						["2"] = 450,
+					},
+				},
+				["5"] = {
+					["1"] = "Cooking",
+					["count"] = 2,
+				},
+				["1"] = {
+					["1"] = "Tailoring",
+					["count"] = 2,
+				},
+				["Skinning"] = {
+					["Texture"] = "Interface\\Icons\\INV_Misc_Pelt_Wolf_01",
+					["Rank"] = {
+						["1"] = 442,
+						["3"] = 10,
+						["count"] = 3,
+						["2"] = 450,
+					},
+				},
+			},
+			["CombatRating11"] = 24,
+			["Spells"] = {
+				{
+					["1"] = 6603,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [1]
+				{
+					["1"] = 33697,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Racial",
+				}, -- [2]
+				{
+					["1"] = 83968,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [3]
+				{
+					["1"] = 83958,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [4]
+				{
+					["1"] = 125439,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Battle Pets",
+				}, -- [5]
+				{
+					["1"] = 76272,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [6]
+				{
+					["1"] = 20574,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Racial Passive",
+				}, -- [7]
+				{
+					["1"] = 83964,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [8]
+				{
+					["1"] = 134732,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [9]
+				{
+					["1"] = 119467,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [10]
+				{
+					["1"] = 83966,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [11]
+				{
+					["1"] = 83941,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [12]
+				{
+					["1"] = 54197,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [13]
+				{
+					["1"] = 65222,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Racial Passive",
+				}, -- [14]
+				{
+					["1"] = 34090,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [15]
+				{
+					["1"] = 78632,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [16]
+				{
+					["1"] = 90267,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [17]
+				{
+					["1"] = 118483,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [18]
+				{
+					["1"] = 83951,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [19]
+				{
+					["1"] = 20573,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Racial Passive",
+				}, -- [20]
+				{
+					["1"] = 83944,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [21]
+				{
+					["1"] = 83960,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [22]
+				{
+					["1"] = 79743,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Racial Passive",
+				}, -- [23]
+				{
+					["1"] = 78633,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [24]
+				{
+					["1"] = 78635,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [25]
+				{
+					["1"] = 83943,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [26]
+				{
+					["1"] = 117983,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 1",
+				}, -- [27]
+				{
+					["1"] = 118076,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [28]
+				{
+					["1"] = 83950,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk",
+				}, -- [29]
+				{
+					["1"] = 76296,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [30]
+				{
+					["1"] = 118021,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Guild Perk, Rank 2",
+				}, -- [31]
+				{
+					["1"] = 34091,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [32]
+				{
+					["1"] = 90265,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [33]
+				{
+					["1"] = 130487,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [34]
+				{
+					["1"] = 115913,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [35]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_Windfury",
+					["4"] = "Air Totems",
+					["7"] = 0,
+				}, -- [36]
+				{
+					["1"] = 2008,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [37]
+				{
+					["1"] = 16188,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [38]
+				{
+					["1"] = 556,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [39]
+				{
+					["1"] = 76780,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [40]
+				{
+					["1"] = 2825,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [41]
+				{
+					["1"] = 1064,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [42]
+				{
+					["1"] = 421,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [43]
+				{
+					["1"] = 974,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [44]
+				{
+					["1"] = 8042,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [45]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_EarthBindTotem",
+					["4"] = "Earth Totems",
+					["7"] = 0,
+				}, -- [46]
+				{
+					["1"] = 6196,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [47]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Fire_TotemOfWrath",
+					["4"] = "Fire Totems",
+					["7"] = 0,
+				}, -- [48]
+				{
+					["1"] = 8050,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [49]
+				{
+					["1"] = 8056,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [50]
+				{
+					["1"] = 2645,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [51]
+				{
+					["1"] = 77472,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [52]
+				{
+					["1"] = 73920,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [53]
+				{
+					["1"] = 8004,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [54]
+				{
+					["1"] = 331,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [55]
+				{
+					["1"] = 51505,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Restoration",
+				}, -- [56]
+				{
+					["1"] = 403,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [57]
+				{
+					["1"] = 324,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [58]
+				{
+					["1"] = 73899,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [59]
+				{
+					["1"] = 370,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [60]
+				{
+					["1"] = 51886,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [61]
+				{
+					["1"] = 61295,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [62]
+				{
+					["1"] = 108287,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [63]
+				{
+					["1"] = 36936,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [64]
+				{
+					["1"] = 52127,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [65]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_ManaRegenTotem",
+					["4"] = "Water Totems",
+					["7"] = 0,
+				}, -- [66]
+				{
+					["1"] = 546,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [67]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Shaman_ImprovedStormstrike",
+					["4"] = "Weapon Imbues",
+					["7"] = 0,
+				}, -- [68]
+				{
+					["1"] = 57994,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [69]
+				{
+					["1"] = 51558,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [70]
+				{
+					["1"] = 89920,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Restoration, Passive",
+				}, -- [71]
+				{
+					["1"] = 77747,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [72]
+				{
+					["1"] = 86529,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [73]
+				{
+					["1"] = 95862,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [74]
+				{
+					["1"] = 16213,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [75]
+				{
+					["1"] = 20608,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [76]
+				{
+					["1"] = 16196,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [77]
+				{
+					["1"] = 112858,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [78]
+				{
+					["1"] = 51564,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [79]
+				{
+					["1"] = 51514,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [80]
+				{
+					["1"] = 8017,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [81]
+				{
+					["1"] = 120668,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [82]
+				{
+					["1"] = 116956,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [83]
+				{
+					["1"] = 77226,
+					["3"] = "FUTURESPELL",
+					["count"] = 7,
+					["2"] = "Restoration, Passive",
+				}, -- [84]
+				{
+					["1"] = 73680,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [85]
+				{
+					["1"] = 79206,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [86]
+				{
+					["1"] = 114049,
+					["count"] = 7,
+					["3"] = "FUTURESPELL",
+				}, -- [87]
+				{
+					["1"] = 108269,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [88]
+				{
+					["1"] = 2062,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [89]
+				{
+					["1"] = 2484,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [90]
+				{
+					["1"] = 51730,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [91]
+				{
+					["1"] = 2894,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [92]
+				{
+					["1"] = 8024,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [93]
+				{
+					["1"] = 8033,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [94]
+				{
+					["1"] = 8177,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [95]
+				{
+					["1"] = 5394,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [96]
+				{
+					["1"] = 8190,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [97]
+				{
+					["1"] = 16190,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [98]
+				{
+					["1"] = 3599,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [99]
+				{
+					["1"] = 98008,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Restoration",
+				}, -- [100]
+				{
+					["1"] = 108270,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [101]
+				{
+					["1"] = 110504,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [102]
+				{
+					["1"] = 8143,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [103]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_Windfury",
+					["4"] = "Air Totems",
+					["7"] = 0,
+				}, -- [104]
+				{
+					["1"] = 2008,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [105]
+				{
+					["1"] = 16188,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [106]
+				{
+					["1"] = 114049,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [107]
+				{
+					["1"] = 556,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [108]
+				{
+					["1"] = 76780,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [109]
+				{
+					["1"] = 2825,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [110]
+				{
+					["1"] = 1064,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [111]
+				{
+					["1"] = 421,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [112]
+				{
+					["1"] = 51886,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [113]
+				{
+					["1"] = 8042,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [114]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_EarthBindTotem",
+					["4"] = "Earth Totems",
+					["7"] = 0,
+				}, -- [115]
+				{
+					["1"] = 61882,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental",
+				}, -- [116]
+				{
+					["1"] = 6196,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [117]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Fire_TotemOfWrath",
+					["4"] = "Fire Totems",
+					["7"] = 0,
+				}, -- [118]
+				{
+					["1"] = 8050,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [119]
+				{
+					["1"] = 8056,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [120]
+				{
+					["1"] = 2645,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [121]
+				{
+					["1"] = 73920,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [122]
+				{
+					["1"] = 8004,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [123]
+				{
+					["1"] = 51514,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [124]
+				{
+					["1"] = 51505,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Restoration",
+				}, -- [125]
+				{
+					["1"] = 403,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [126]
+				{
+					["1"] = 324,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [127]
+				{
+					["1"] = 73899,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [128]
+				{
+					["1"] = 370,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [129]
+				{
+					["1"] = 8017,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [130]
+				{
+					["1"] = 79206,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [131]
+				{
+					["1"] = 120668,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [132]
+				{
+					["1"] = 51490,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental",
+				}, -- [133]
+				{
+					["1"] = 108287,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [134]
+				{
+					["1"] = 36936,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [135]
+				{
+					["1"] = 73680,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [136]
+				{
+					["1"] = 52127,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [137]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_ManaRegenTotem",
+					["4"] = "Water Totems",
+					["7"] = 0,
+				}, -- [138]
+				{
+					["1"] = 546,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [139]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Shaman_ImprovedStormstrike",
+					["4"] = "Weapon Imbues",
+					["7"] = 0,
+				}, -- [140]
+				{
+					["1"] = 57994,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [141]
+				{
+					["1"] = 89920,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Restoration, Passive",
+				}, -- [142]
+				{
+					["1"] = 77747,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [143]
+				{
+					["1"] = 16164,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [144]
+				{
+					["1"] = 60188,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [145]
+				{
+					["1"] = 51470,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [146]
+				{
+					["1"] = 30674,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [147]
+				{
+					["1"] = 29000,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [148]
+				{
+					["1"] = 88766,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [149]
+				{
+					["1"] = 116956,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [150]
+				{
+					["1"] = 77756,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [151]
+				{
+					["1"] = 86529,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [152]
+				{
+					["1"] = 77222,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [153]
+				{
+					["1"] = 20608,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [154]
+				{
+					["1"] = 88764,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [155]
+				{
+					["1"] = 62099,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [156]
+				{
+					["1"] = 123099,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Elemental, Passive",
+				}, -- [157]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_Windfury",
+					["4"] = "Air Totems",
+					["7"] = 0,
+				}, -- [158]
+				{
+					["1"] = 2008,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [159]
+				{
+					["1"] = 16188,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [160]
+				{
+					["1"] = 114049,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [161]
+				{
+					["1"] = 556,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [162]
+				{
+					["1"] = 76780,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [163]
+				{
+					["1"] = 2825,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [164]
+				{
+					["1"] = 1064,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [165]
+				{
+					["1"] = 421,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [166]
+				{
+					["1"] = 51886,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [167]
+				{
+					["1"] = 8042,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [168]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_EarthBindTotem",
+					["4"] = "Earth Totems",
+					["7"] = 0,
+				}, -- [169]
+				{
+					["1"] = 6196,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [170]
+				{
+					["1"] = 51533,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [171]
+				{
+					["1"] = 1535,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [172]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Fire_TotemOfWrath",
+					["4"] = "Fire Totems",
+					["7"] = 0,
+				}, -- [173]
+				{
+					["1"] = 8050,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [174]
+				{
+					["1"] = 8056,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [175]
+				{
+					["1"] = 2645,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [176]
+				{
+					["1"] = 73920,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [177]
+				{
+					["1"] = 8004,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [178]
+				{
+					["1"] = 51514,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [179]
+				{
+					["1"] = 60103,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [180]
+				{
+					["1"] = 403,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [181]
+				{
+					["1"] = 324,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [182]
+				{
+					["1"] = 370,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [183]
+				{
+					["1"] = 8017,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [184]
+				{
+					["1"] = 30823,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [185]
+				{
+					["1"] = 58875,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [186]
+				{
+					["1"] = 79206,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [187]
+				{
+					["1"] = 120668,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [188]
+				{
+					["1"] = 17364,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement",
+				}, -- [189]
+				{
+					["1"] = 108287,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Talent",
+				}, -- [190]
+				{
+					["1"] = 36936,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [191]
+				{
+					["1"] = 73680,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [192]
+				{
+					["1"] = 52127,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [193]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Nature_ManaRegenTotem",
+					["4"] = "Water Totems",
+					["7"] = 0,
+				}, -- [194]
+				{
+					["1"] = 546,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [195]
+				{
+					["count"] = 7,
+					["3"] = "FLYOUT",
+					["5"] = "Interface\\Icons\\Spell_Shaman_ImprovedStormstrike",
+					["4"] = "Weapon Imbues",
+					["7"] = 0,
+				}, -- [196]
+				{
+					["1"] = 57994,
+					["count"] = 7,
+					["3"] = "SPELL",
+				}, -- [197]
+				{
+					["1"] = 77747,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [198]
+				{
+					["1"] = 86629,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [199]
+				{
+					["1"] = 16282,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [200]
+				{
+					["1"] = 116956,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [201]
+				{
+					["1"] = 51530,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [202]
+				{
+					["1"] = 86529,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [203]
+				{
+					["1"] = 77223,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [204]
+				{
+					["1"] = 30814,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [205]
+				{
+					["1"] = 20608,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Passive",
+				}, -- [206]
+				{
+					["1"] = 77657,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [207]
+				{
+					["1"] = 51527,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [208]
+				{
+					["1"] = 30809,
+					["3"] = "SPELL",
+					["count"] = 7,
+					["2"] = "Enhancement, Passive",
+				}, -- [209]
+				["Tabs"] = {
+					{
+						["1"] = "General",
+						["count"] = 6,
+						["2"] = "Interface\\Spellbook\\Spellbook-Icon",
+						["5"] = false,
+						["4"] = 35,
+						["3"] = 0,
+						["6"] = 0,
+					}, -- [1]
+					{
+						["1"] = "Restoration",
+						["count"] = 6,
+						["2"] = "Interface\\Icons\\Spell_Nature_MagicImmunity",
+						["5"] = false,
+						["4"] = 52,
+						["3"] = 35,
+						["6"] = 0,
+					}, -- [2]
+					{
+						["1"] = "Elemental",
+						["count"] = 6,
+						["2"] = "Interface\\Icons\\Spell_Nature_Lightning",
+						["5"] = false,
+						["4"] = 54,
+						["3"] = 103,
+						["6"] = 262,
+					}, -- [3]
+					{
+						["1"] = "Enhancement",
+						["count"] = 6,
+						["2"] = "Interface\\Icons\\Spell_Shaman_ImprovedStormstrike",
+						["5"] = false,
+						["4"] = 52,
+						["3"] = 157,
+						["6"] = 263,
+					}, -- [4]
+				},
+			},
+			["RangedAttackPower"] = {
+				["1"] = 0,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = 0,
+			},
+			["FactionGroup"] = {
+				["1"] = "Horde",
+				["count"] = 2,
+				["2"] = "Horde",
+			},
+			["InventoryItemLink2"] = {
+				["1"] = "|cff0070dd|Hitem:44400:0:0:0:0:0:0:1144083072:73:0:0|h[Necklace of Calm Skies]|h|r",
+				["count"] = 4,
+				["2"] = "Soulbound",
+				["3"] = 3,
+			},
+			["InventoryItemTexture20"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+			["InventoryItemLink20"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:1935212672:73:0:0|h[Netherweave Bag]|h|r",
+			["InventoryItemCount17"] = 1,
+			["CombatRatingBonus11"] = 0.8727572560310364,
+			["Expertise"] = {
+				["1"] = 0,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = 0,
+			},
+			["InventoryItem7"] = {
+				["1"] = 1,
+				["3"] = 306,
+				["count"] = 3,
+			},
+			["CombatRatingBonus20"] = 1.476414322853088,
+			["InventoryItemCount11"] = 1,
+			["Specialization2"] = 1,
+			["InventoryItemTexture17"] = "Interface\\Icons\\INV_Offhand_Blood_02",
+			["InventoryItemCount16"] = 1,
+			["InventoryItemTexture16"] = "Interface\\Icons\\INV_Weapon_Shortblade_46",
+			["CombatRating27"] = 0,
+			["InventoryItemCount6"] = 1,
+			["Specialization1"] = 3,
+			["InventoryItem14"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemCount9"] = 1,
+			["InventoryItemTexture13"] = "Interface\\Icons\\INV_Stone_03",
+			["AttackPowerForStat1"] = 100,
+			["PowerType"] = {
+				["1"] = 0,
+				["count"] = 2,
+				["2"] = "MANA",
+			},
+			["SpellHitModifier"] = 15,
+			["InventoryItemLink13"] = {
+				["1"] = "|cff0070dd|Hitem:65931:0:0:0:0:0:0:1491805056:73:0:0|h[Essence of Eranikus' Shade]|h|r",
+				["count"] = 4,
+				["2"] = "Soulbound",
+				["3"] = 3,
+			},
+			["InventoryItemTexture22"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+			["InventoryItemCount12"] = 1,
+			["Quests"] = {
+				{
+					["Info"] = {
+						["1"] = "Battle Pets",
+						["9"] = 0,
+						["count"] = 11,
+						["2"] = 0,
+						["5"] = 1,
+						["4"] = 0,
+						["11"] = false,
+					},
+				}, -- [1]
+				{
+					["Info"] = {
+						["9"] = 31814,
+						["3"] = "Account",
+						["2"] = 73,
+						["1"] = "Analynn",
+						["4"] = 0,
+						["11"] = false,
+						["count"] = 11,
+					},
+					["Data"] = "31814",
+				}, -- [2]
+				{
+					["Info"] = {
+						["1"] = "Drak'Tharon Keep",
+						["9"] = 0,
+						["count"] = 11,
+						["2"] = 0,
+						["5"] = 1,
+						["4"] = 0,
+						["11"] = false,
+					},
+				}, -- [3]
+				{
+					["Info"] = {
+						["1"] = "Head Games",
+						["11"] = false,
+						["3"] = "Dungeon",
+						["2"] = 74,
+						["9"] = 13129,
+						["4"] = 0,
+						["7"] = 1,
+						["count"] = 11,
+					},
+					["Data"] = "13129",
+				}, -- [4]
+				{
+					["Info"] = {
+						["1"] = "What the Scourge Dred",
+						["11"] = false,
+						["3"] = "Dungeon",
+						["2"] = 74,
+						["9"] = 29828,
+						["4"] = 0,
+						["7"] = 1,
+						["count"] = 11,
+					},
+					["Data"] = "29828",
+				}, -- [5]
+				{
+					["Info"] = {
+						["1"] = "Fishing",
+						["9"] = 0,
+						["count"] = 11,
+						["2"] = 0,
+						["5"] = 1,
+						["4"] = 0,
+						["11"] = false,
+					},
+				}, -- [6]
+				{
+					["Info"] = {
+						["1"] = "The Ghostfish",
+						["8"] = 1,
+						["count"] = 11,
+						["2"] = 73,
+						["9"] = 13830,
+						["4"] = 0,
+						["11"] = false,
+						["10"] = 1,
+					},
+					["Data"] = "13830",
+				}, -- [7]
+				{
+					["Info"] = {
+						["1"] = "Howling Fjord",
+						["9"] = 0,
+						["count"] = 11,
+						["2"] = 0,
+						["5"] = 1,
+						["4"] = 0,
+						["11"] = false,
+					},
+				}, -- [8]
+				{
+					["Info"] = {
+						["1"] = "Apply Heat and Stir",
+						["count"] = 11,
+						["2"] = 71,
+						["9"] = 11306,
+						["4"] = 0,
+						["11"] = false,
+					},
+					["Data"] = "11306",
+				}, -- [9]
+				{
+					["Info"] = {
+						["1"] = "Green Eggs and Whelps",
+						["count"] = 11,
+						["2"] = 71,
+						["9"] = 11279,
+						["4"] = 0,
+						["11"] = false,
+					},
+					["Data"] = "11279",
+				}, -- [10]
+				{
+					["Info"] = {
+						["1"] = "Help for Camp Winterhoof",
+						["count"] = 11,
+						["2"] = 71,
+						["9"] = 12566,
+						["4"] = 0,
+						["11"] = false,
+					},
+					["Data"] = "12566",
+				}, -- [11]
+				["29828"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "King Dred's Tooth: 1/1",
+							["3"] = 1,
+							["count"] = 3,
+							["2"] = "item",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:29828:74|h[What the Scourge Dred]|h|r",
+					["RewardMoney"] = 112000,
+					["Text"] = {
+						["1"] = "One of the fleeing Drakkari trolls told me of a great raptor king, Dred, that was immune to the plague.\n\nIf you could find King Dred and bring me one of his teeth, perhaps I could fashion it into a weapon.",
+						["count"] = 2,
+						["2"] = "Kurzel inside Drak'Tharon Keep wants you to slay King Dred and bring her his tooth.",
+					},
+					["RewardXP"] = 34265,
+				},
+				["13830"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "Discover the Ghostfish mystery",
+							["count"] = 3,
+							["2"] = "event",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:13830:-1|h[The Ghostfish]|h|r",
+					["Rewards"] = {
+						{
+							["1"] = "Bag of Fishing Treasures",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Misc_Bag_07_Blue",
+							["5"] = 1,
+							["4"] = -1,
+							["3"] = 1,
+							["6"] = "|cffffffff|Hitem:46007:0:0:0:0:0:0:0:73:0:0|h[Bag of Fishing Treasures]|h|r",
+						}, -- [1]
+					},
+					["Text"] = {
+						["1"] = "Any Northrend angler worth his salt knows about the pygmy suckerfish.  It's not edible, but sometimes useful to alchemists.\n\nThere is, however, a stealthy fish that hides among the suckerfish in the River's Heart of Sholazar Basin.  The phantom ghostfish.  When out of water, they become increasingly translucent until they fade away completely.  Some hypothesize they return to Sholazar, and others are more... superstitious.\n\nI want you to catch this fish and discover its secret by any means!",
+						["count"] = 2,
+						["2"] = "Marcia Chase in Dalaran City wants you to discover the mystery of the Phantom Ghostfish.",
+					},
+					["RewardXP"] = 22550,
+					["Factions"] = {
+						{
+							["1"] = 1090,
+							["count"] = 2,
+							["2"] = 25000,
+						}, -- [1]
+					},
+				},
+				["12566"] = {
+					["Factions"] = {
+						{
+							["1"] = 1064,
+							["count"] = 2,
+							["2"] = 1000,
+						}, -- [1]
+						{
+							["1"] = 1052,
+							["count"] = 2,
+							["2"] = 500,
+						}, -- [2]
+						{
+							["1"] = 1067,
+							["count"] = 2,
+							["2"] = 250,
+						}, -- [3]
+						{
+							["1"] = 1085,
+							["count"] = 2,
+							["2"] = 250,
+						}, -- [4]
+						{
+							["1"] = 1124,
+							["count"] = 2,
+							["2"] = 250,
+						}, -- [5]
+					},
+					["Text"] = {
+						["1"] = "I am Longrunner Nanik of the Taunka, sent by the chieftain of Camp Winterhoof to seek out allies in the fight against the vrykul. They mass to the west and south of our village, and though we slay 10 of them for every one of our dead, we cannot hold.\n\nApothecary Scyllis has promised to send brave shamans northwest to our aid. Will you help my people fend off the vrykul assaults?\n\nFollow the road far to the northwest, across the river, and into the foothills of the mountains to reach Camp Winterhoof.",
+						["count"] = 2,
+						["2"] = "Speak with Chieftain Ashtotem at Camp Winterhoof.",
+					},
+					["RewardXP"] = 2200,
+					["Link"] = "|cffffff00|Hquest:12566:71|h[Help for Camp Winterhoof]|h|r",
+				},
+				["31814"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "Defeat Analynn",
+							["count"] = 3,
+							["2"] = "event",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:31814:-1|h[Analynn]|h|r",
+					["RewardMoney"] = 1200,
+					["Text"] = {
+						["1"] = "Determination is naught without proper challenge.\n\nFind Analynn wandering the roads in western Ashenvale. She is a bit...eccentric...but a fine trainer nonetheless! Fighting her will harden your team.",
+						["count"] = 2,
+						["2"] = "Defeat Analynn in a pet battle.",
+					},
+					["RewardXP"] = 22550,
+					["Rewards"] = {
+						{
+							["1"] = "Sack of Pet Supplies",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Misc_Bag_CenarionHerbBag",
+							["5"] = 1,
+							["4"] = -1,
+							["3"] = 1,
+							["6"] = "|cffffffff|Hitem:89125:0:0:0:0:0:0:0:73:0:0|h[Sack of Pet Supplies]|h|r",
+						}, -- [1]
+					},
+				},
+				["NumQuests"] = 7,
+				["11279"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "Plagued Proto-Whelp Specimen: 0/10",
+							["count"] = 3,
+							["2"] = "item",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:11279:71|h[Green Eggs and Whelps]|h|r",
+					["RewardMoney"] = 47000,
+					["Text"] = {
+						["1"] = "This new plague that we're working on is wonderful and I think we should expand its testing.\n\nHow about testing it on proto-whelps?!\n\nJust think of the possibilities. The ability to infect not only humanoids, but extend our reach to any creature!\n\nHere, I've hoarded an extra plague canister for the right time and place, and you look like the right person.\n\nSpray the eggs at Ember Clutch to the northwest, then get specimens from the plagued proto-whelps that hatch.",
+						["count"] = 2,
+						["2"] = "Plaguebringer Tillinghast has asked you to collect 10 Plagued Proto-Whelp Specimens and deliver them to him at New Agamand.",
+					},
+					["RewardXP"] = 22110,
+					["Factions"] = {
+						{
+							["1"] = 1067,
+							["count"] = 2,
+							["2"] = 25000,
+						}, -- [1]
+						{
+							["1"] = 1052,
+							["count"] = 2,
+							["2"] = 12500,
+						}, -- [2]
+						{
+							["1"] = 1064,
+							["count"] = 2,
+							["2"] = 6250,
+						}, -- [3]
+						{
+							["1"] = 1085,
+							["count"] = 2,
+							["2"] = 6250,
+						}, -- [4]
+						{
+							["1"] = 1124,
+							["count"] = 2,
+							["2"] = 6250,
+						}, -- [5]
+					},
+				},
+				["13129"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "Ichor-Stained Cloth: 1/1",
+							["3"] = 1,
+							["count"] = 3,
+							["2"] = "item",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:13129:74|h[Head Games]|h|r",
+					["RewardMoney"] = 224000,
+					["Text"] = {
+						["1"] = "<Kurzel rips a long strip of material from her blouse and hands it to you.>\n\nHere, orc, take this. Dip it in the remains of Novos the Summoner.\n\nWe're going to figure out what makes the Scourge leaders tick.",
+						["count"] = 2,
+						["2"] = "Kurzel wants you to use Kurzel's Blouse Scrap at the corpse of Novos the Summoner, then take the Ichor-Stained Cloth to her inside Drak'Tharon Keep.",
+					},
+					["RewardXP"] = 45650,
+					["Choices"] = {
+						{
+							["1"] = "Shameful Cuffs",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Bracer_09",
+							["5"] = 1,
+							["4"] = 3,
+							["3"] = 1,
+							["6"] = "|cff0070dd|Hitem:44366:0:0:0:0:0:0:0:73:0:0|h[Shameful Cuffs]|h|r",
+						}, -- [1]
+						{
+							["1"] = "Scorned Bands",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Bracer_16",
+							["5"] = 1,
+							["4"] = 3,
+							["3"] = 1,
+							["6"] = "|cff0070dd|Hitem:44367:0:0:0:0:0:0:0:73:0:0|h[Scorned Bands]|h|r",
+						}, -- [2]
+						{
+							["1"] = "Accused Wristguards",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Bracer_17",
+							["5"] = 1,
+							["4"] = 3,
+							["3"] = 1,
+							["6"] = "|cff0070dd|Hitem:44368:0:0:0:0:0:0:0:73:0:0|h[Accused Wristguards]|h|r",
+						}, -- [3]
+						{
+							["1"] = "Disavowed Bracers",
+							["count"] = 6,
+							["2"] = "Interface\\Icons\\INV_Bracer_14",
+							["4"] = 3,
+							["3"] = 1,
+							["6"] = "|cff0070dd|Hitem:44369:0:0:0:0:0:0:0:73:0:0|h[Disavowed Bracers]|h|r",
+						}, -- [4]
+					},
+				},
+				["11306"] = {
+					["LeaderBoards"] = {
+						{
+							["1"] = "Balanced Concoction: 0/1",
+							["count"] = 3,
+							["2"] = "item",
+						}, -- [1]
+					},
+					["Link"] = "|cffffff00|Hquest:11306:71|h[Apply Heat and Stir]|h|r",
+					["Text"] = {
+						["1"] = "You've done well so far, Dejki.  I'd like to teach you some of my more advanced techniques, so that you gain a better understanding of the plague.\n\nTake this empty flask and fill it with blood from the cauldron to my left.  Mix it with the plague samples to my right until you obtain a well balanced mix.",
+						["count"] = 2,
+						["2"] = "Fill the Empty Apothecary's Flask at the Cauldron of Vrykul Blood, then mix the Flask of Vrykul Blood with Harris's Plague Samples nearby until you've obtained a Balanced Concoction.\n\nReturn to Chief Plaguebringer Harris when you've completed this task.",
+					},
+					["RewardXP"] = 16610,
+					["Factions"] = {
+						{
+							["1"] = 1067,
+							["count"] = 2,
+							["2"] = 15000,
+						}, -- [1]
+						{
+							["1"] = 1052,
+							["count"] = 2,
+							["2"] = 7500,
+						}, -- [2]
+						{
+							["1"] = 1064,
+							["count"] = 2,
+							["2"] = 3750,
+						}, -- [3]
+						{
+							["1"] = 1085,
+							["count"] = 2,
+							["2"] = 3750,
+						}, -- [4]
+						{
+							["1"] = 1124,
+							["count"] = 2,
+							["2"] = 3750,
+						}, -- [5]
+					},
+				},
+			},
+			["InventoryItem16"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+				["2"] = 1,
+			},
+			["SpellBonusDamage4"] = 896,
+			["CritChance"] = 5.077083587646484,
+			["InventoryItemLink12"] = {
+				["1"] = "|cff0070dd|Hitem:38219:0:0:0:0:0:0:830697664:73:0:0|h[Ring of Decimation]|h|r",
+				["count"] = 4,
+				["2"] = "Soulbound",
+				["3"] = 3,
+			},
+			["IsRangedWeapon"] = false,
+			["InventoryItemLink17"] = {
+				["1"] = "|cff0070dd|Hitem:35609:0:0:0:0:0:0:831710528:73:0:0|h[Talisman of Scourge Command]|h|r",
+				["count"] = 4,
+			},
+			["InventoryItem19"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemGems11"] = "35488:0:0:0",
+			["InventoryItemLink11"] = {
+				["1"] = "|cffa335ee|Hitem:34625:0:3282:0:0:0:0:1381724928:73:0:0|h[Kharmaa's Ring of Fate]|h|r",
+				["count"] = 4,
+			},
+			["InventoryItemLink7"] = {
+				["1"] = "|cff0070dd|Hitem:35577:0:0:0:0:0:0:1910713600:73:0:0|h[Holistic Patchwork Breeches]|h|r",
+				["count"] = 4,
+			},
+			["Stat2"] = {
+				["1"] = 64,
+				["count"] = 4,
+				["2"] = 64,
+				["4"] = 0,
+				["3"] = 0,
+			},
+			["InventoryItemTexture8"] = "Interface\\Icons\\INV_Boots_Chain_05",
+			["CombatRatingBonus16"] = 0,
+			["InventoryItemTexture23"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+			["HPPerStamina"] = 10,
+			["SpellCritChance4"] = 8.432223320007324,
+			["CombatRatingBonus18"] = 1.476414322853088,
+			["MaxHealthModifier"] = 1,
+			["InventoryItemLink9"] = {
+				["1"] = "|cff0070dd|Hitem:39679:0:0:0:0:0:0:1118614400:73:0:0|h[Runecaster's Bracers]|h|r",
+				["count"] = 4,
+				["2"] = "Durability 49 / 50",
+				["3"] = 8,
+			},
+			["PvpPowerHealing"] = 0,
+			["Money"] = 46242717,
+			["InventoryItem17"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemTexture6"] = "Interface\\Icons\\INV_Belt_24",
+			["InventoryItemLink6"] = {
+				["1"] = "|cff0070dd|Hitem:29319:0:2959:2959:0:0:0:1070576896:73:0:0|h[Tarren Mill Defender's Cinch]|h|r",
+				["count"] = 4,
+				["2"] = "Durability 50 / 50",
+				["3"] = 13,
+			},
+			["InventoryItem4"] = {
+				["1"] = 1,
+				["3"] = 0,
+				["count"] = 3,
+			},
+			["InventoryItemTexture2"] = "Interface\\Icons\\INV_Jewelry_Necklace_16",
+			["CombatRating5"] = 0,
+			["InventoryItemLink5"] = {
+				["1"] = "|cff0070dd|Hitem:34796:0:2959:2965:2962:0:0:1113289472:73:0:0|h[Robes of Summer Flame]|h|r",
+				["count"] = 4,
+			},
+			["RestState"] = {
+				["1"] = 1,
+				["3"] = 2,
+				["count"] = 3,
+				["2"] = "Rested",
+			},
+			["InventoryItemCount4"] = 1,
+			["InventoryItemLink22"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:590327424:73:0:0|h[Netherweave Bag]|h|r",
+			["Played"] = {
+				["1"] = 393763,
+				["count"] = 2,
+				["2"] = 1357753050,
+			},
+			["InventoryItemTexture9"] = "Interface\\Icons\\INV_Bracer_16",
+			["QuestResetTime"] = 1357783193,
+			["InventoryItemTexture5"] = "Interface\\Icons\\INV_Chest_Cloth_07",
+			["InventoryItem3"] = {
+				["1"] = 1,
+				["3"] = 306,
+				["count"] = 3,
+			},
+			["RangedHaste"] = 6.55023193359375,
+			["AttackPowerForStat2"] = 108,
+			["InventoryItemLink19"] = {
+				["1"] = "|cffffffff|Hitem:64884:0:0:0:0:0:0:0:73:0:0|h[Bilgewater Cartel Tabard]|h|r",
+				["count"] = 4,
+			},
+			["HitModifier"] = 0,
+			["CombatRatingBonus19"] = 1.476414322853088,
+			["PowerMax"] = 11000,
+			["InventoryItemTexture3"] = "Interface\\Icons\\INV_Shoulder_77",
+			["CombatRating18"] = 29,
+			["InventoryItemLink3"] = {
+				["1"] = "|cff0070dd|Hitem:35578:0:0:0:0:0:0:-1557077120:73:0:0|h[Overlaid Chain Spaulders]|h|r",
+				["count"] = 4,
+			},
+			["Stat4"] = {
+				["1"] = 533,
+				["count"] = 4,
+				["2"] = 533,
+				["4"] = 0,
+				["3"] = 422,
+			},
+			["SpellCritChance2"] = 8.432223320007324,
+			["CombatRating6"] = 0,
+			["CombatRating3"] = 0,
+			["HealthMax"] = 13005,
+			["CombatRating7"] = 0,
+			["CombatRatingBonus3"] = 0,
+			["InventoryItemLink15"] = {
+				["1"] = "|cff0070dd|Hitem:38222:0:0:0:0:0:0:1947158272:73:0:0|h[Mantle of Keristrasza]|h|r",
+				["count"] = 4,
+				["2"] = "Soulbound",
+				["3"] = 3,
+			},
+			["Stat5"] = {
+				["1"] = 546,
+				["count"] = 4,
+				["2"] = 546,
+				["4"] = 0,
+				["3"] = 417,
+			},
+			["Stat3"] = {
+				["1"] = 786,
+				["count"] = 4,
+				["2"] = 786,
+				["4"] = 0,
+				["3"] = 665,
+			},
+			["SpellBonusDamage5"] = 896,
+			["CurrencyInfo390"] = {
+				["1"] = "Conquest Points",
+				["3"] = "PVPCurrency-Conquest-Horde",
+				["count"] = 7,
+				["2"] = 0,
+				["5"] = 2200,
+				["4"] = 0,
+				["7"] = true,
+				["6"] = 0,
+			},
+			["CombatRatingBonus8"] = 0,
+			["XPExhaustion"] = {
+				["1"] = 4644,
+				["count"] = 2,
+				["2"] = 1357753048,
+			},
+			["ManaRegen"] = {
+				["1"] = 192.4624868164538,
+				["count"] = 2,
+				["2"] = 130.8317495117663,
+			},
+			["CombatRating16"] = 0,
+			["XPMax"] = 838000,
+			["Glyphs"] = {
+				{
+					{
+						["1"] = "Glyph of the Lakestrider",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 55448,
+						["4"] = 0,
+						["3"] = 2,
+					}, -- [1]
+					{
+						["1"] = "Glyph of Riptide",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 63273,
+						["4"] = 0,
+						["3"] = 1,
+					}, -- [2]
+					{
+						["1"] = "Glyph of Deluge",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 63279,
+						["4"] = 1,
+						["3"] = 2,
+					}, -- [3]
+					{
+						["1"] = "Glyph of Healing Wave",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 55440,
+						["4"] = 1,
+						["3"] = 1,
+					}, -- [4]
+					{
+						["4"] = 2,
+						["3"] = 2,
+						["count"] = 5,
+					}, -- [5]
+					{
+						["4"] = 2,
+						["3"] = 1,
+						["count"] = 5,
+					}, -- [6]
+				}, -- [1]
+				{
+					{
+						["1"] = "Glyph of the Lakestrider",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 55448,
+						["4"] = 0,
+						["3"] = 2,
+					}, -- [1]
+					{
+						["1"] = "Glyph of Chain Lightning",
+						["count"] = 5,
+						["2"] = 1,
+						["5"] = 55449,
+						["4"] = 0,
+						["3"] = 1,
+					}, -- [2]
+					{
+						["count"] = 5,
+						["2"] = 1,
+						["4"] = 1,
+						["3"] = 2,
+					}, -- [3]
+					{
+						["count"] = 5,
+						["2"] = 1,
+						["4"] = 1,
+						["3"] = 1,
+					}, -- [4]
+					{
+						["4"] = 2,
+						["3"] = 2,
+						["count"] = 5,
+					}, -- [5]
+					{
+						["4"] = 2,
+						["3"] = 1,
+						["count"] = 5,
+					}, -- [6]
+				}, -- [2]
+				["Known"] = "|213|222|223|737|751|225|",
+			},
+			["IsResting"] = 1,
+			["SpellCritChanceFromIntellect"] = 7.559465764352402,
+			["CombatRating9"] = 24,
+			["InventoryItemLink4"] = {
+				["1"] = "|cffffffff|Hitem:4330:0:0:0:0:0:0:506620608:73:0:0|h[Stylish Red Shirt]|h|r",
+				["count"] = 4,
+			},
+			["CombatRating4"] = 0,
+			["CritChanceFromAgility"] = 4.204326459156436,
+			["CombatRatingBonus24"] = 0,
+			["InventoryItem5"] = {
+				["1"] = 1,
+				["3"] = 619,
+				["count"] = 3,
+			},
+			["Armor"] = {
+				["1"] = 5138,
+				["count"] = 5,
+				["2"] = 5138,
+				["5"] = 0,
+				["4"] = 0,
+				["3"] = 5138,
+			},
+			["CurrencyInfo396"] = {
+				["1"] = "Valor Points",
+				["3"] = "pvecurrency-valor",
+				["count"] = 7,
+				["2"] = 0,
+				["5"] = 0,
+				["4"] = 0,
+				["7"] = false,
+				["6"] = 0,
+			},
+			["DodgeChance"] = 5.055232048034668,
+			["InventoryItemCount2"] = 1,
+			["InventoryItemTexture15"] = "Interface\\Icons\\INV_Misc_Cape_06",
+			["PvpPowerDamage"] = 0,
+			["CombatRatingBonus7"] = 0,
+			["CombatRatingBonus9"] = 0.8727572560310364,
+			["Sex"] = 2,
+			["SpellBonusHealing"] = 896,
+			["PVPName"] = "Assistant Professor Dejki",
+			["CombatRatingBonus5"] = 0,
+			["AverageItemLevel"] = {
+				["1"] = 133.5625,
+				["count"] = 2,
+				["2"] = 133.5625,
+			},
+			["RangedCritChance"] = 5.077083587646484,
+			["SubZone"] = "The Filthy Animal",
+			["CombatRating24"] = 0,
+			["InventoryItemCount7"] = 1,
+			["BlockChance"] = 3,
+			["Level"] = 73,
+			["SpellCritChance6"] = 8.432223320007324,
+		},
+	},
+}
+ArmorySettings = {
+	["Filters"] = {
+		["Classes"] = {
+		},
+		["Quality"] = {
+		},
+	},
+}
+ArmoryModules = {
+}
+ArmoryCache = nil
+ArmoryShared = {
+	["SHAMAN"] = {
+		["Glyphs"] = {
+			["Glyph of Lava Lash"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Ability_Shaman_Lavalash",
+				["4"] = "|cff66bbff|Hglyph:229|h[Glyph of Lava Lash]|h|r",
+				["3"] = 229,
+			},
+			["Glyph of Totemic Vigor"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "INTERFACE\\ICONS\\inv_relics_totemofrebirth",
+				["4"] = "|cff66bbff|Hglyph:754|h[Glyph of Totemic Vigor]|h|r",
+				["3"] = 754,
+			},
+			["Glyph of the Spectral Wolf"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Ability_Mount_WhiteDireWolf",
+				["4"] = "|cff66bbff|Hglyph:471|h[Glyph of the Spectral Wolf]|h|r",
+				["3"] = 471,
+			},
+			["Glyph of Capacitor Totem"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_Brilliance",
+				["4"] = "|cff66bbff|Hglyph:215|h[Glyph of Capacitor Totem]|h|r",
+				["3"] = 215,
+			},
+			["Glyph of Chain Lightning"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_ChainLightning",
+				["4"] = "|cff66bbff|Hglyph:213|h[Glyph of Chain Lightning]|h|r",
+				["3"] = 213,
+			},
+			["Glyph of Far Sight"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_FarSight",
+				["4"] = "|cff66bbff|Hglyph:473|h[Glyph of Far Sight]|h|r",
+				["3"] = 473,
+			},
+			["Glyph of Feral Spirit"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_FeralSpirit",
+				["4"] = "|cff66bbff|Hglyph:736|h[Glyph of Feral Spirit]|h|r",
+				["3"] = 736,
+			},
+			["Glyph of Spiritwalker's Grace"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "INTERFACE\\ICONS\\spell_shaman_spiritwalkersgrace",
+				["4"] = "|cff66bbff|Hglyph:228|h[Glyph of Spiritwalker's Grace]|h|r",
+				["3"] = 228,
+			},
+			["Glyph of Healing Wave"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
+				["4"] = "|cff66bbff|Hglyph:223|h[Glyph of Healing Wave]|h|r",
+				["3"] = 223,
+			},
+			["Glyph of Thunder"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_ThunderStorm",
+				["4"] = "|cff66bbff|Hglyph:735|h[Glyph of Thunder]|h|r",
+				["3"] = 735,
+			},
+			["Glyph of Fire Elemental Totem"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Fire_Elemental_Totem",
+				["4"] = "|cff66bbff|Hglyph:217|h[Glyph of Fire Elemental Totem]|h|r",
+				["3"] = 217,
+			},
+			["Glyph of Riptide"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\spell_nature_riptide",
+				["4"] = "|cff66bbff|Hglyph:737|h[Glyph of Riptide]|h|r",
+				["3"] = 737,
+			},
+			["Glyph of Deluge"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_HealingWaveGreater",
+				["4"] = "|cff66bbff|Hglyph:751|h[Glyph of Deluge]|h|r",
+				["3"] = 751,
+			},
+			["Glyph of Shamanistic Rage"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_ShamanRage",
+				["4"] = "|cff66bbff|Hglyph:752|h[Glyph of Shamanistic Rage]|h|r",
+				["3"] = 752,
+			},
+			["Glyph of Unleashed Lightning"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_Lightning",
+				["4"] = "|cff66bbff|Hglyph:950|h[Glyph of Unleashed Lightning]|h|r",
+				["3"] = 950,
+			},
+			["Glyph of Telluric Currents"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Lightning_LightningBolt01",
+				["4"] = "|cff66bbff|Hglyph:226|h[Glyph of Telluric Currents]|h|r",
+				["3"] = 226,
+			},
+			["Glyph of Ghost Wolf"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_SpiritWolf",
+				["4"] = "|cff66bbff|Hglyph:552|h[Glyph of Ghost Wolf]|h|r",
+				["3"] = 552,
+			},
+			["Glyph of Unstable Earth"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "INTERFACE\\ICONS\\spell_shaman_earthquake",
+				["4"] = "|cff66bbff|Hglyph:212|h[Glyph of Unstable Earth]|h|r",
+				["3"] = 212,
+			},
+			["Glyph of Chaining"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Ability_Druid_EmpoweredTouch",
+				["4"] = "|cff66bbff|Hglyph:230|h[Glyph of Chaining]|h|r",
+				["3"] = 230,
+			},
+			["Glyph of Cleansing Waters"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_Regeneration_02",
+				["4"] = "|cff66bbff|Hglyph:231|h[Glyph of Cleansing Waters]|h|r",
+				["3"] = 231,
+			},
+			["Glyph of the Lakestrider"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Frost_WindWalkOn",
+				["4"] = "|cff66bbff|Hglyph:225|h[Glyph of the Lakestrider]|h|r",
+				["3"] = 225,
+			},
+			["Glyph of Wind Shear"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_Cyclone",
+				["4"] = "|cff66bbff|Hglyph:220|h[Glyph of Wind Shear]|h|r",
+				["3"] = 220,
+			},
+			["Glyph of Thunderstorm"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_ThunderStorm",
+				["4"] = "|cff66bbff|Hglyph:612|h[Glyph of Thunderstorm]|h|r",
+				["3"] = 612,
+			},
+			["Glyph of Water Shield"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Ability_Shaman_WaterShield",
+				["4"] = "|cff66bbff|Hglyph:211|h[Glyph of Water Shield]|h|r",
+				["3"] = 211,
+			},
+			["Glyph of Healing Stream Totem"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\INV_Spear_04",
+				["4"] = "|cff66bbff|Hglyph:222|h[Glyph of Healing Stream Totem]|h|r",
+				["3"] = 222,
+			},
+			["Glyph of Astral Recall"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_AstralRecal",
+				["4"] = "|cff66bbff|Hglyph:470|h[Glyph of Astral Recall]|h|r",
+				["3"] = 470,
+			},
+			["Glyph of Fire Nova"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "INTERFACE\\ICONS\\spell_shaman_firenova",
+				["4"] = "|cff66bbff|Hglyph:218|h[Glyph of Fire Nova]|h|r",
+				["3"] = 218,
+			},
+			["Glyph of Flame Shock"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Fire_FlameShock",
+				["4"] = "|cff66bbff|Hglyph:219|h[Glyph of Flame Shock]|h|r",
+				["3"] = 219,
+			},
+			["Glyph of Spirit Walk"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Ability_Tracking",
+				["4"] = "|cff66bbff|Hglyph:214|h[Glyph of Spirit Walk]|h|r",
+				["3"] = 214,
+			},
+			["Glyph of Totemic Recall"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_TotemRecall",
+				["4"] = "|cff66bbff|Hglyph:224|h[Glyph of Totemic Recall]|h|r",
+				["3"] = 224,
+			},
+			["Glyph of Totemic Encirclement"] = {
+				["1"] = 2,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\ability_shaman_totemrelocation",
+				["4"] = "|cff66bbff|Hglyph:476|h[Glyph of Totemic Encirclement]|h|r",
+				["3"] = 476,
+			},
+			["Glyph of Grounding Totem"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_GroundingTotem",
+				["4"] = "|cff66bbff|Hglyph:227|h[Glyph of Grounding Totem]|h|r",
+				["3"] = 227,
+			},
+			["Glyph of Hex"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_Hex",
+				["4"] = "|cff66bbff|Hglyph:753|h[Glyph of Hex]|h|r",
+				["3"] = 753,
+			},
+			["Glyph of Purge"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Nature_Purge",
+				["4"] = "|cff66bbff|Hglyph:216|h[Glyph of Purge]|h|r",
+				["3"] = 216,
+			},
+			["Glyph of Frost Shock"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Frost_FrostShock",
+				["4"] = "|cff66bbff|Hglyph:221|h[Glyph of Frost Shock]|h|r",
+				["3"] = 221,
+			},
+			["Glyph of Healing Storm"] = {
+				["1"] = 1,
+				["count"] = 4,
+				["2"] = "Interface\\Icons\\Spell_Shaman_MaelstromWeapon",
+				["4"] = "|cff66bbff|Hglyph:474|h[Glyph of Healing Storm]|h|r",
+				["3"] = 474,
+			},
+		},
+		["Talents"] = {
+			{
+				["1"] = "Nature's Guardian",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\Spell_Nature_NatureGuardian",
+				["5"] = "|cff71d5ff|Htalent:19262|h[Nature's Guardian]|h|r",
+				["4"] = 1,
+				["3"] = 1,
+			}, -- [1]
+			{
+				["1"] = "Stone Bulwark Totem",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_stonebulwark",
+				["5"] = "|cff71d5ff|Htalent:19263|h[Stone Bulwark Totem]|h|r",
+				["4"] = 2,
+				["3"] = 1,
+			}, -- [2]
+			{
+				["1"] = "Astral Shift",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_astralshift",
+				["5"] = "|cff71d5ff|Htalent:19264|h[Astral Shift]|h|r",
+				["4"] = 3,
+				["3"] = 1,
+			}, -- [3]
+			{
+				["1"] = "Frozen Power",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\Spell_Fire_BlueCano",
+				["5"] = "|cff71d5ff|Htalent:19259|h[Frozen Power]|h|r",
+				["4"] = 1,
+				["3"] = 2,
+			}, -- [4]
+			{
+				["1"] = "Earthgrab Totem",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\Spell_Nature_StrangleVines",
+				["5"] = "|cff71d5ff|Htalent:19260|h[Earthgrab Totem]|h|r",
+				["4"] = 2,
+				["3"] = 2,
+			}, -- [5]
+			{
+				["1"] = "Windwalk Totem",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_windwalktotem",
+				["5"] = "|cff71d5ff|Htalent:19261|h[Windwalk Totem]|h|r",
+				["4"] = 3,
+				["3"] = 2,
+			}, -- [6]
+			{
+				["1"] = "Call of the Elements",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_multitotemactivation",
+				["5"] = "|cff71d5ff|Htalent:19275|h[Call of the Elements]|h|r",
+				["4"] = 1,
+				["3"] = 3,
+			}, -- [7]
+			{
+				["1"] = "Totemic Restoration",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_totemcooldownrefund",
+				["5"] = "|cff71d5ff|Htalent:19274|h[Totemic Restoration]|h|r",
+				["4"] = 2,
+				["3"] = 3,
+			}, -- [8]
+			{
+				["1"] = "Totemic Projection",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_totemrelocation",
+				["5"] = "|cff71d5ff|Htalent:19276|h[Totemic Projection]|h|r",
+				["4"] = 3,
+				["3"] = 3,
+			}, -- [9]
+			{
+				["1"] = "Elemental Mastery",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\Spell_Nature_WispHeal",
+				["5"] = "|cff71d5ff|Htalent:19271|h[Elemental Mastery]|h|r",
+				["4"] = 1,
+				["3"] = 4,
+			}, -- [10]
+			{
+				["1"] = "Ancestral Swiftness",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\Spell_Shaman_ElementalOath",
+				["5"] = "|cff71d5ff|Htalent:19272|h[Ancestral Swiftness]|h|r",
+				["4"] = 2,
+				["3"] = 4,
+			}, -- [11]
+			{
+				["1"] = "Echo of the Elements",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_echooftheelements",
+				["5"] = "|cff71d5ff|Htalent:19273|h[Echo of the Elements]|h|r",
+				["4"] = 3,
+				["3"] = 4,
+			}, -- [12]
+			{
+				["1"] = "Healing Tide Totem",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_healingtide",
+				["5"] = "|cff71d5ff|Htalent:19268|h[Healing Tide Totem]|h|r",
+				["4"] = 1,
+				["3"] = 5,
+			}, -- [13]
+			{
+				["1"] = "Ancestral Guidance",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_ancestralguidance",
+				["5"] = "|cff71d5ff|Htalent:19269|h[Ancestral Guidance]|h|r",
+				["4"] = 2,
+				["3"] = 5,
+			}, -- [14]
+			{
+				["1"] = "Conductivity",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\ability_shaman_fortifyingwaters",
+				["5"] = "|cff71d5ff|Htalent:19270|h[Conductivity]|h|r",
+				["4"] = 3,
+				["3"] = 5,
+			}, -- [15]
+			{
+				["1"] = "Unleashed Fury",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\shaman_talent_unleashedfury",
+				["5"] = "|cff71d5ff|Htalent:19265|h[Unleashed Fury]|h|r",
+				["4"] = 1,
+				["3"] = 6,
+			}, -- [16]
+			{
+				["1"] = "Primal Elementalist",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\shaman_talent_primalelementalist",
+				["5"] = "|cff71d5ff|Htalent:19266|h[Primal Elementalist]|h|r",
+				["4"] = 2,
+				["3"] = 6,
+			}, -- [17]
+			{
+				["1"] = "Elemental Blast",
+				["count"] = 5,
+				["2"] = "Interface\\Icons\\shaman_talent_elementalblast",
+				["5"] = "|cff71d5ff|Htalent:19267|h[Elemental Blast]|h|r",
+				["4"] = 3,
+				["3"] = 6,
+			}, -- [18]
+		},
+	},
+}

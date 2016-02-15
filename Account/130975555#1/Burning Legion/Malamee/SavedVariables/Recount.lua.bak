@@ -1,0 +1,210 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Malamee"] = {
+			["GUID"] = "0x01800000046A6F06",
+			["LastEventHealth"] = {
+				"491951 (100%)", -- [1]
+				"491951 (100%)", -- [2]
+				"491951 (100%)", -- [3]
+				"491951 (100%)", -- [4]
+				"491951 (100%)", -- [5]
+				"491951 (100%)", -- [6]
+				"491951 (100%)", -- [7]
+				"491951 (100%)", -- [8]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+			},
+			["TimeWindows"] = {
+				["Overhealing"] = {
+					365891, -- [1]
+				},
+			},
+			["enClass"] = "PRIEST",
+			["unit"] = "Malamee",
+			["level"] = 90,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				4.878331378531602, -- [1]
+			},
+			["type"] = "Self",
+			["Owner"] = false,
+			["TimeLast"] = {
+				["Overhealing"] = 1376841439,
+				["OVERALL"] = 1376841439,
+			},
+			["NextEventNum"] = 9,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+			},
+			["LastEvents"] = {
+				"Malamee Cascade Malamee Hit +23999 (23999 overheal)", -- [1]
+				"Malamee Cascade Ajoi Hit +52047 (52047 overheal)", -- [2]
+				"Malamee Cascade Olivvaa Hit +52047 (52047 overheal)", -- [3]
+				"Malamee Cascade Orgrimmar Grunt Hit +52047 (52047 overheal)", -- [4]
+				"Malamee Cascade Primare Hit +52047 (52047 overheal)", -- [5]
+				"Malamee Cascade Shuzzana Hit +52047 (52047 overheal)", -- [6]
+				"Malamee Cascade Kiro Hit +52047 (52047 overheal)", -- [7]
+				"Malamee Cascade Ajoi Crit +53609 (53609 overheal)", -- [8]
+			},
+			["Name"] = "Malamee",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+			},
+			["LastEventTimes"] = {
+				9353.110000000001, -- [1]
+				9355.004000000001, -- [2]
+				9356.652, -- [3]
+				9356.652, -- [4]
+				9357.82, -- [5]
+				9358.214, -- [6]
+				9358.214, -- [7]
+				9358.214, -- [8]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ShieldedWho"] = {
+						["Ajoi"] = {
+							["Details"] = {
+								["Divine Aegis"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["OverHeals"] = {
+						["Cascade"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 53609,
+									["min"] = 53609,
+									["count"] = 1,
+									["amount"] = 53609,
+								},
+								["Hit"] = {
+									["max"] = 52047,
+									["min"] = 52047,
+									["count"] = 6,
+									["amount"] = 312282,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 365891,
+						},
+					},
+					["Overhealing"] = 365891,
+				},
+				["OverallData"] = {
+					["ShieldedWho"] = {
+						["Ajoi"] = {
+							["Details"] = {
+								["Divine Aegis"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["OverHeals"] = {
+						["Cascade"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 53609,
+									["min"] = 53609,
+									["count"] = 1,
+									["amount"] = 53609,
+								},
+								["Hit"] = {
+									["max"] = 52047,
+									["min"] = 52047,
+									["count"] = 6,
+									["amount"] = 312282,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 365891,
+						},
+					},
+					["Overhealing"] = 365891,
+				},
+			},
+			["UnitLockout"] = 1376841434,
+			["LastActive"] = 1376841439,
+		},
+		["Tooldi"] = {
+			["GUID"] = "0x0180000003EDEEB7",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Water Elemental"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140B08789022540",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Tooldi",
+			["Pet"] = {
+				"Water Elemental <Tooldi>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1376841426,
+			["LastFightIn"] = 0,
+		},
+		["Gimmedatmana"] = {
+			["GUID"] = "0x0180000004AA208F",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Ring of Frost"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF130ACA70054BBBE",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Gimmedatmana",
+			["Pet"] = {
+				"Ring of Frost <Gimmedatmana>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1376841218,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

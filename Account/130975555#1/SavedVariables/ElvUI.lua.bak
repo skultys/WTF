@@ -1,0 +1,32 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Mahdan - Burning Legion"] = "Mahdan - Burning Legion",
+	},
+	["gold"] = {
+		["Burning Legion"] = {
+			["Mahdan"] = 6576571,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profiles"] = {
+		["Mahdan - Burning Legion"] = {
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Mahdan - Burning Legion"] = "Mahdan - Burning Legion",
+	},
+	["profiles"] = {
+		["Mahdan - Burning Legion"] = {
+			["nameplate"] = {
+				["enable"] = false,
+			},
+			["install_complete"] = "6.15",
+		},
+	},
+}

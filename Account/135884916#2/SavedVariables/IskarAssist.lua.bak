@@ -1,0 +1,19 @@
+
+IskarAssistDB = {
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["MainPanel"] = {
+				["position"] = {
+					["y"] = -234.000823974609,
+					["x"] = -575,
+				},
+				["IsLocked"] = false,
+			},
+			["barwidth"] = 20,
+			["textsize"] = 13,
+		},
+	},
+}

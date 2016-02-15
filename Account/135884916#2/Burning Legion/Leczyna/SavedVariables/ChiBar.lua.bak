@@ -1,0 +1,25 @@
+
+ChiBarDB = {
+	["strata"] = 2,
+	["enable"] = true,
+	["savedTexture"] = 4,
+	["autohide"] = false,
+	["seperate"] = false,
+	["hideStandard"] = false,
+	["offset"] = 0,
+	["to"] = "BOTTOM",
+	["grow1"] = true,
+	["mainLayer"] = 4,
+	["y"] = 234.000061035156,
+	["x"] = -122.999610900879,
+	["color"] = {
+		0.619607843137255, -- [1]
+		1, -- [2]
+		0.309803921568627, -- [3]
+	},
+	["from"] = "BOTTOM",
+	["scale"] = 1,
+	["grow2"] = true,
+	["alpha2"] = 1,
+	["alpha1"] = 1,
+}

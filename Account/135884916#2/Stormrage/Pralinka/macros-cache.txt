@@ -1,0 +1,69 @@
+VER 3 0100000000000009 "binding" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Binding Heal;
+END
+VER 3 010000000000000C "chastise" "SPELL_PRIEST_CHAKRA"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Holy Word: Chastise;
+/cast [mod:alt, target=player] Holy Word: Chastise;
+END
+VER 3 010000000000000D "circle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Circle of healing;
+/cast [mod:alt, target=player] Circle of healing
+END
+VER 3 010000000000000A "fear ward" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Fear Ward;
+/cast [mod:alt, target=player] Fear Ward
+END
+VER 3 0100000000000001 "Flash" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Flash Heal;
+/cast [mod:alt, target=player] Flash Heal
+END
+VER 3 0100000000000004 "greater heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Greater Heal;
+/cast [mod:alt, target=player] Greater Heal
+END
+VER 3 0100000000000003 "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Heal;
+/cast [mod:alt, target=player] Heal
+END
+VER 3 0100000000000005 "levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Levitate;
+/cast [mod:alt, target=player] Levitate
+END
+VER 3 0100000000000008 "POH" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Prayer of healing;
+/cast [mod:alt, target=player] Prayer of healing
+END
+VER 3 010000000000000E "pom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Prayer of Mending;
+/cast [mod:alt, target=player] Prayer of Mending
+END
+VER 3 0100000000000002 "renew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Renew;
+/cast [mod:alt, target=player] Renew
+END
+VER 3 010000000000000B "serenity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nomod][@target,help,nomod][@targettarget,help,nomod][nomod] Holy Word: Serenity;
+/cast [mod:alt, target=player] Holy Word: Serenity;
+#showtooltip
+/cast Holy Word: Sanctuary
+END
+VER 3 0100000000000007 "swpain" "SPELL_SHADOW_SHADOWWORDPAIN"
+#showtooltip Shadow Word: Pain
+/cast [@mouseover,harm][@target,harm] Shadow Word: Pain
+END
+VER 3 0100000000000006 "vampiric touch" "SPELL_HOLY_STOICISM"
+#showtooltip Vampiric Touch
+/cast [@mouseover,harm][@target,harm] Vampiric Touch;
+END

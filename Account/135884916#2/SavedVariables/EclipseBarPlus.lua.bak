@@ -1,0 +1,19 @@
+
+EclipseBarPlusDB = {
+	["profileKeys"] = {
+		["Drudeguy - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["only_boomkin"] = true,
+			["scale"] = 1.6,
+			["font_size"] = 16,
+			["position"] = {
+				["POINT"] = "BOTTOM",
+				["RELATIVE"] = "BOTTOM",
+				["YCOORD"] = 121.2498168945313,
+				["XCOORD"] = 16.37539291381836,
+			},
+		},
+	},
+}

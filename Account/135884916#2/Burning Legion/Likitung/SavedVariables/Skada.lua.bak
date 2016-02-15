@@ -1,0 +1,3290 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 117,
+		["interrupts"] = 0,
+		["damage"] = 45489,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PRIEST",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["time"] = 154,
+				["interrupts"] = 0,
+				["power"] = {
+					[0] = {
+						["amount"] = 1516,
+						["spells"] = {
+							[126467] = 1516,
+						},
+					},
+					[13] = {
+						["amount"] = 1,
+						["spells"] = {
+							[8092] = 1,
+						},
+					},
+				},
+				["damage"] = 45489,
+				["damagespells"] = {
+					["Mind Blast"] = {
+						["min"] = 3621,
+						["critical"] = 1,
+						["hit"] = 1,
+						["totalhits"] = 2,
+						["id"] = 8092,
+						["max"] = 7243,
+						["damage"] = 10864,
+					},
+					["Smite"] = {
+						["min"] = 882,
+						["critical"] = 2,
+						["hit"] = 27,
+						["totalhits"] = 29,
+						["id"] = 585,
+						["max"] = 1766,
+						["damage"] = 27372,
+					},
+					["Vampiric Touch"] = {
+						["min"] = 1400,
+						["critical"] = 2,
+						["totalhits"] = 2,
+						["id"] = 34914,
+						["max"] = 1400,
+						["damage"] = 2800,
+					},
+					["Mind Flay"] = {
+						["min"] = 605,
+						["hit"] = 5,
+						["totalhits"] = 5,
+						["id"] = 15407,
+						["max"] = 606,
+						["damage"] = 3028,
+					},
+					["Touch of the Grave"] = {
+						["min"] = 557,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 127802,
+						["max"] = 705,
+						["damage"] = 1262,
+					},
+					["Attack"] = {
+						["min"] = 67,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 6603,
+						["max"] = 96,
+						["damage"] = 163,
+					},
+				},
+				["deaths"] = {
+					{
+						["ts"] = 1416956679.2841,
+						["maxhp"] = 43022,
+						["log"] = {
+							{
+								["ts"] = 1416956672.16901,
+								["absorb"] = 0,
+								["amount"] = 463,
+								["hp"] = 10637,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [1]
+							{
+								["ts"] = 1416956674.17502,
+								["amount"] = -2746,
+								["hp"] = 5283,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [2]
+							{
+								["ts"] = 1416956674.33703,
+								["amount"] = -35,
+								["hp"] = 2502,
+								["spellid"] = 169426,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [3]
+							{
+								["ts"] = 1416956674.95204,
+								["absorb"] = 0,
+								["amount"] = 464,
+								["hp"] = 2966,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [4]
+							{
+								["ts"] = 1416956675.64405,
+								["amount"] = -144,
+								["hp"] = 2822,
+								["spellid"] = 169429,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [5]
+							{
+								["ts"] = 1416956675.96506,
+								["absorb"] = 0,
+								["amount"] = 200,
+								["hp"] = 3022,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [6]
+							{
+								["ts"] = 1416956676.83407,
+								["amount"] = -39,
+								["hp"] = 2983,
+								["spellid"] = 169426,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [7]
+							{
+								["ts"] = 1416956677.93908,
+								["amount"] = -2863,
+								["hp"] = 2983,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [8]
+							{
+								["hp"] = 120,
+								["amount"] = -3392,
+								["ts"] = 1416956678.80509,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [9]
+							{
+								["ts"] = 1416956679.2841,
+								["spellname"] = "Likitung dies",
+								["hp"] = 0,
+								["spellid"] = 41220,
+							}, -- [10]
+							{
+								["ts"] = 1416956667.97611,
+								["amount"] = -2522,
+								["hp"] = 19163,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [11]
+							{
+								["absorb"] = 0,
+								["amount"] = 464,
+								["hp"] = 17105,
+								["ts"] = 1416956669.41412,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [12]
+							{
+								["ts"] = 1416956670.67313,
+								["amount"] = -6931,
+								["hp"] = 10174,
+								["spellid"] = 159857,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [13]
+							{
+								["ts"] = 1416956672.00314,
+								["amount"] = -2628,
+								["hp"] = 10174,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [14]
+							{
+								["ts"] = 1416956672.16815,
+								["amount"] = -2726,
+								["hp"] = 10174,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Legionnaire",
+							}, -- [15]
+							["pos"] = 11,
+						},
+					}, -- [1]
+					{
+						["ts"] = 1416956458.30102,
+						["maxhp"] = 43022,
+						["log"] = {
+							{
+								["hp"] = 1,
+								["amount"] = -4032,
+								["spellname"] = "Falling",
+								["ts"] = 1416956458.04601,
+							}, -- [1]
+							{
+								["hp"] = 0,
+								["spellname"] = "Likitung dies",
+								["ts"] = 1416956458.30102,
+								["spellid"] = 41220,
+							}, -- [2]
+							{
+								["absorb"] = 0,
+								["hp"] = 8304,
+								["amount"] = 3496,
+								["ts"] = 1416956445.13803,
+								["spellid"] = 2061,
+								["srcname"] = "Likitung",
+							}, -- [3]
+							{
+								["ts"] = 1416956446.54304,
+								["amount"] = -1507,
+								["hp"] = 8304,
+								["spellid"] = 88163,
+								["srcname"] = "Warsong Commander",
+							}, -- [4]
+							{
+								["absorb"] = 0,
+								["ts"] = 1416956447.74905,
+								["amount"] = 464,
+								["hp"] = 7261,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [5]
+							{
+								["absorb"] = 0,
+								["ts"] = 1416956448.21306,
+								["amount"] = 386,
+								["hp"] = 7647,
+								["spellid"] = 77489,
+								["srcname"] = "Likitung",
+							}, -- [6]
+							{
+								["hp"] = 7647,
+								["amount"] = -1351,
+								["ts"] = 1416956448.34207,
+								["spellid"] = 88163,
+								["srcname"] = "Warsong Commander",
+							}, -- [7]
+							{
+								["ts"] = 1416956450.04208,
+								["amount"] = -1796,
+								["hp"] = 6296,
+								["spellid"] = 88163,
+								["srcname"] = "Warsong Commander",
+							}, -- [8]
+							{
+								["absorb"] = 0,
+								["hp"] = 5042,
+								["amount"] = 542,
+								["ts"] = 1416956450.47609,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [9]
+							{
+								["ts"] = 1416956450.8881,
+								["amount"] = -719,
+								["hp"] = 4323,
+								["spellid"] = 166762,
+								["srcname"] = "Warsong Commander",
+							}, -- [10]
+							{
+								["absorb"] = 0,
+								["ts"] = 1416956451.19311,
+								["amount"] = 386,
+								["hp"] = 4709,
+								["spellid"] = 77489,
+								["srcname"] = "Likitung",
+							}, -- [11]
+							{
+								["hp"] = 2951,
+								["amount"] = -1758,
+								["ts"] = 1416956452.35912,
+								["spellid"] = 80149,
+								["srcname"] = "Warsong Commander",
+							}, -- [12]
+							{
+								["ts"] = 1416956453.19013,
+								["absorb"] = 0,
+								["amount"] = 542,
+								["hp"] = 3493,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [13]
+							{
+								["ts"] = 1416956454.22614,
+								["absorb"] = 0,
+								["amount"] = 201,
+								["hp"] = 3694,
+								["spellid"] = 139,
+								["srcname"] = "Likitung",
+							}, -- [14]
+							{
+								["hp"] = 3694,
+								["amount"] = -1315,
+								["ts"] = 1416956457.29415,
+								["spellid"] = 88163,
+								["srcname"] = "Warsong Commander",
+							}, -- [15]
+							["pos"] = 3,
+						},
+					}, -- [2]
+					{
+						["ts"] = 1416955451.28105,
+						["maxhp"] = 43022,
+						["log"] = {
+							{
+								["ts"] = 1416955450.66401,
+								["amount"] = -1122,
+								["hp"] = 3954,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [1]
+							{
+								["ts"] = 1416955450.84902,
+								["amount"] = -1441,
+								["hp"] = 2832,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [2]
+							{
+								["ts"] = 1416955451.18903,
+								["amount"] = -1045,
+								["hp"] = 2832,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [3]
+							{
+								["ts"] = 1416955451.18904,
+								["amount"] = -1671,
+								["hp"] = 1161,
+								["spellid"] = 159922,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [4]
+							{
+								["ts"] = 1416955451.28105,
+								["spellname"] = "Likitung dies",
+								["hp"] = 0,
+								["spellid"] = 41220,
+							}, -- [5]
+							{
+								["ts"] = 1416955447.99806,
+								["amount"] = -1332,
+								["hp"] = 15685,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [6]
+							{
+								["ts"] = 1416955448.39007,
+								["amount"] = -1273,
+								["hp"] = 14353,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [7]
+							{
+								["ts"] = 1416955448.39008,
+								["amount"] = -983,
+								["hp"] = 14353,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [8]
+							{
+								["ts"] = 1416955448.66609,
+								["amount"] = -1024,
+								["hp"] = 12097,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [9]
+							{
+								["ts"] = 1416955449.1611,
+								["amount"] = -977,
+								["hp"] = 11073,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [10]
+							{
+								["ts"] = 1416955449.58911,
+								["amount"] = -1358,
+								["hp"] = 10096,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [11]
+							{
+								["ts"] = 1416955449.58912,
+								["amount"] = -1036,
+								["hp"] = 10096,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [12]
+							{
+								["ts"] = 1416955449.58913,
+								["amount"] = -1085,
+								["hp"] = 10096,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [13]
+							{
+								["ts"] = 1416955449.99314,
+								["amount"] = -1308,
+								["hp"] = 6617,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [14]
+							{
+								["ts"] = 1416955450.41015,
+								["amount"] = -1355,
+								["hp"] = 5309,
+								["spellid"] = 88163,
+								["srcname"] = "Ironmarch Grunt",
+							}, -- [15]
+							["pos"] = 6,
+						},
+					}, -- [3]
+				},
+				["damagetaken"] = 187114,
+				["deathlog"] = {
+					{
+						["ts"] = 1416956733.557,
+						["amount"] = -6723,
+						["hp"] = 19239,
+						["spellid"] = 159857,
+						["srcname"] = "Ironmarch Legionnaire",
+					}, -- [1]
+					{
+						["ts"] = 1416956734.452,
+						["amount"] = -3462,
+						["hp"] = 19239,
+						["spellid"] = 88163,
+						["srcname"] = "Ironmarch Legionnaire",
+					}, -- [2]
+					{
+						["ts"] = 1416956735.575,
+						["amount"] = -135,
+						["hp"] = 15642,
+						["spellid"] = 169429,
+						["srcname"] = "Ironmarch Legionnaire",
+					}, -- [3]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 43022,
+						["ts"] = 1416957039.115,
+						["spellid"] = 127802,
+						["srcname"] = "Likitung",
+					}, -- [4]
+					{
+						["ts"] = 1416957039.814,
+						["amount"] = -2484,
+						["hp"] = 40538,
+						["spellid"] = 159857,
+						["srcname"] = "Ironmarch Grunt",
+					}, -- [5]
+					{
+						["ts"] = 1416957040.896,
+						["amount"] = -2508,
+						["hp"] = 40538,
+						["spellid"] = 88163,
+						["srcname"] = "Ironmarch Grunt",
+					}, -- [6]
+					{
+						["ts"] = 1416957042.922,
+						["amount"] = -996,
+						["hp"] = 38030,
+						["spellid"] = 88163,
+						["srcname"] = "Ironmarch Grunt",
+					}, -- [7]
+					{
+						["ts"] = 1416957044.929,
+						["amount"] = -1111,
+						["hp"] = 37034,
+						["spellid"] = 88163,
+						["srcname"] = "Ironmarch Grunt",
+					}, -- [8]
+					{
+						["ts"] = 1416957046.948,
+						["amount"] = -1035,
+						["hp"] = 35923,
+						["spellid"] = 88163,
+						["srcname"] = "Ironmarch Grunt",
+					}, -- [9]
+					["pos"] = 10,
+				},
+				["id"] = "Player-3713-073ECD7D",
+				["maxhp"] = 43022,
+				["damagetakenspells"] = {
+					["Shield Slam"] = {
+						["crushing"] = 0,
+						["id"] = 169429,
+						["min"] = 135,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Shield Slam",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 144,
+						["damage"] = 422,
+					},
+					["Thunderclap"] = {
+						["crushing"] = 0,
+						["id"] = 169426,
+						["min"] = 35,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Thunderclap",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 39,
+						["damage"] = 109,
+					},
+					["March of Iron"] = {
+						["crushing"] = 0,
+						["id"] = 159857,
+						["min"] = 2484,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "March of Iron",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 6931,
+						["damage"] = 22342,
+					},
+					["Throw Axe"] = {
+						["crushing"] = 0,
+						["id"] = 80149,
+						["min"] = 1461,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Throw Axe",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 1878,
+						["damage"] = 8408,
+					},
+					["Howling Blade"] = {
+						["crushing"] = 0,
+						["id"] = 166762,
+						["min"] = 704,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Howling Blade",
+						["blocked"] = 0,
+						["totalhits"] = 7,
+						["resisted"] = 0,
+						["max"] = 992,
+						["damage"] = 5528,
+					},
+					["Hooked Net"] = {
+						["crushing"] = 0,
+						["id"] = 166815,
+						["min"] = 1567,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Hooked Net",
+						["blocked"] = 0,
+						["totalhits"] = 6,
+						["resisted"] = 0,
+						["max"] = 1771,
+						["damage"] = 10081,
+					},
+					["Ironmarch Strike"] = {
+						["crushing"] = 0,
+						["id"] = 159922,
+						["min"] = 1671,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Ironmarch Strike",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1671,
+						["damage"] = 1671,
+					},
+					["Attack"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 977,
+						["absorbed"] = 0,
+						["critical"] = 2,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attack",
+						["blocked"] = 0,
+						["totalhits"] = 86,
+						["resisted"] = 0,
+						["max"] = 3536,
+						["damage"] = 138553,
+					},
+				},
+				["overhealing"] = 705,
+				["healingspells"] = {
+					["Renew"] = {
+						["shielding"] = 0,
+						["id"] = 139,
+						["healing"] = 9070,
+						["min"] = 171,
+						["multistrike"] = 0,
+						["name"] = "Renew",
+						["max"] = 542,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 21,
+					},
+					["Heal"] = {
+						["shielding"] = 0,
+						["id"] = 2060,
+						["healing"] = 7399,
+						["min"] = 3699,
+						["multistrike"] = 0,
+						["name"] = "Heal",
+						["max"] = 3700,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Flash Heal"] = {
+						["shielding"] = 0,
+						["id"] = 2061,
+						["healing"] = 13983,
+						["min"] = 3495,
+						["multistrike"] = 0,
+						["name"] = "Flash Heal",
+						["max"] = 3496,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+					["Touch of the Grave"] = {
+						["shielding"] = 0,
+						["id"] = 127802,
+						["healing"] = 73,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Touch of the Grave",
+						["max"] = 73,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 705,
+						["hits"] = 2,
+					},
+					["Echo of Light"] = {
+						["shielding"] = 0,
+						["id"] = 77489,
+						["healing"] = 4726,
+						["min"] = 386,
+						["multistrike"] = 0,
+						["name"] = "Echo of Light",
+						["max"] = 611,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 10,
+					},
+				},
+				["name"] = "Likitung",
+				["shielding"] = 0,
+				["healing"] = 35251,
+				["healed"] = {
+					["Player-3713-073ECD7D"] = {
+						["shielding"] = 0,
+						["class"] = "PRIEST",
+						["name"] = "Likitung",
+						["amount"] = 35251,
+					},
+				},
+				["auras"] = {
+					["Renew"] = {
+						["name"] = "Renew",
+						["active"] = 0,
+						["id"] = 139,
+						["auratype"] = "BUFF",
+						["uptime"] = 54,
+					},
+					["Vampiric Touch"] = {
+						["name"] = "Vampiric Touch",
+						["active"] = 0,
+						["id"] = 34914,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 6,
+					},
+					["Mind Flay"] = {
+						["name"] = "Mind Flay",
+						["active"] = 0,
+						["id"] = 15407,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 6,
+					},
+					["Enlightenment"] = {
+						["name"] = "Enlightenment",
+						["active"] = 0,
+						["id"] = 126266,
+						["auratype"] = "BUFF",
+						["uptime"] = 12,
+					},
+					["Serendipity"] = {
+						["name"] = "Serendipity",
+						["active"] = 0,
+						["id"] = 63735,
+						["auratype"] = "BUFF",
+						["uptime"] = 36,
+					},
+					["Echo of Light"] = {
+						["name"] = "Echo of Light",
+						["active"] = 0,
+						["id"] = 77489,
+						["auratype"] = "BUFF",
+						["uptime"] = 30,
+					},
+				},
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 3,
+		["mobs"] = {
+			["Lupas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2296,
+						["crits"] = 0,
+						["max"] = 2694,
+						["healing"] = 12377,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 12377,
+				["hdonespell"] = {
+				},
+			},
+			["Salty Futz"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2288,
+						["crits"] = 0,
+						["max"] = 2804,
+						["healing"] = 15656,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 15656,
+				["hdonespell"] = {
+				},
+			},
+			["Barbery the Crazy Cat Lady"] = {
+				["players"] = {
+				},
+				["hdone"] = 10554,
+				["htakenspell"] = {
+					["Holy Nova"] = {
+						["min"] = 478,
+						["crits"] = 0,
+						["max"] = 612,
+						["healing"] = 7006,
+						["overhealing"] = 0,
+						["hits"] = 13,
+					},
+					["Uplift"] = {
+						["min"] = 2473,
+						["crits"] = 0,
+						["max"] = 2778,
+						["healing"] = 15967,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 22973,
+				["hdonespell"] = {
+					["Holy Nova"] = {
+						["min"] = 478,
+						["crits"] = 0,
+						["max"] = 580,
+						["healing"] = 10554,
+						["overhealing"] = 0,
+						["hits"] = 20,
+					},
+				},
+			},
+			["Anruin"] = {
+				["players"] = {
+				},
+				["hdone"] = 33604,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2406,
+						["crits"] = 0,
+						["max"] = 2795,
+						["healing"] = 15249,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+					["Fel Armor"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1401,
+						["healing"] = 33604,
+						["overhealing"] = 12600,
+						["hits"] = 33,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 48853,
+				["hdonespell"] = {
+					["Fel Armor"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1401,
+						["healing"] = 33604,
+						["overhealing"] = 12600,
+						["hits"] = 33,
+					},
+				},
+			},
+			["Starcaller Astrylian"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2372,
+						["crits"] = 0,
+						["max"] = 2770,
+						["healing"] = 15376,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 15376,
+				["hdonespell"] = {
+				},
+			},
+			["Ironmarch Grunt"] = {
+				["players"] = {
+					["Likitung"] = {
+						["taken"] = 17397,
+						["done"] = 51129,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 17397,
+				["done"] = 51129,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Imp Minion"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 14781,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pazo Stonehoof"] = {
+				["players"] = {
+				},
+				["hdone"] = 43528,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2347,
+						["crits"] = 0,
+						["max"] = 2635,
+						["healing"] = 12437,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+					["Bloodthirst"] = {
+						["min"] = 646,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 43528,
+						["overhealing"] = 229,
+						["hits"] = 50,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 55965,
+				["hdonespell"] = {
+					["Bloodthirst"] = {
+						["min"] = 646,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 43528,
+						["overhealing"] = 229,
+						["hits"] = 50,
+					},
+				},
+			},
+			["Thrend"] = {
+				["players"] = {
+				},
+				["hdone"] = 14596,
+				["htakenspell"] = {
+					["Earth Shield"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 745,
+						["healing"] = 14596,
+						["overhealing"] = 1356,
+						["hits"] = 23,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 14596,
+				["hdonespell"] = {
+					["Earth Shield"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 745,
+						["healing"] = 14596,
+						["overhealing"] = 1356,
+						["hits"] = 23,
+					},
+				},
+			},
+			["Ryii the Shameless"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Holy Nova"] = {
+						["min"] = 486,
+						["crits"] = 0,
+						["max"] = 549,
+						["healing"] = 2570,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+					["Uplift"] = {
+						["min"] = 2423,
+						["crits"] = 0,
+						["max"] = 2778,
+						["healing"] = 15359,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 17929,
+				["hdonespell"] = {
+				},
+			},
+			["Johnny Oshimo"] = {
+				["players"] = {
+				},
+				["hdone"] = 30116,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 2448,
+						["healing"] = 8068,
+						["overhealing"] = 6774,
+						["hits"] = 6,
+					},
+					["Bloodthirst"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 30116,
+						["overhealing"] = 8391,
+						["hits"] = 44,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 38184,
+				["hdonespell"] = {
+					["Bloodthirst"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 30116,
+						["overhealing"] = 8391,
+						["hits"] = 44,
+					},
+				},
+			},
+			["Archon"] = {
+				["players"] = {
+				},
+				["hdone"] = 14280,
+				["htakenspell"] = {
+					["Holy Nova"] = {
+						["min"] = 478,
+						["crits"] = 0,
+						["max"] = 638,
+						["healing"] = 7485,
+						["overhealing"] = 0,
+						["hits"] = 13,
+					},
+					["Uplift"] = {
+						["min"] = 2363,
+						["crits"] = 0,
+						["max"] = 2803,
+						["healing"] = 15782,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 23267,
+				["hdonespell"] = {
+					["Holy Nova"] = {
+						["min"] = 526,
+						["crits"] = 0,
+						["max"] = 638,
+						["healing"] = 14280,
+						["overhealing"] = 0,
+						["hits"] = 25,
+					},
+				},
+			},
+			["Iron Grunt"] = {
+				["players"] = {
+					["Likitung"] = {
+						["taken"] = 2649,
+						["done"] = 0,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2649,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Nenetoki"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Siphon Life"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1790,
+						["hits"] = 8,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Siphon Life"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1790,
+						["hits"] = 8,
+					},
+				},
+			},
+			["Ironmarch Legionnaire"] = {
+				["players"] = {
+					["Likitung"] = {
+						["taken"] = 163,
+						["done"] = 58668,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 163,
+				["done"] = 58668,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Wild Imp"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 40,
+						["crits"] = 0,
+						["max"] = 40,
+						["healing"] = 40,
+						["overhealing"] = 2764,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 40,
+				["hdonespell"] = {
+				},
+			},
+			["Miserain Starsorrow"] = {
+				["players"] = {
+				},
+				["hdone"] = 222585,
+				["htakenspell"] = {
+					["Holy Nova"] = {
+						["min"] = 478,
+						["crits"] = 0,
+						["max"] = 638,
+						["healing"] = 7230,
+						["overhealing"] = 0,
+						["hits"] = 13,
+					},
+					["Uplift"] = {
+						["min"] = 2406,
+						["crits"] = 0,
+						["max"] = 2779,
+						["healing"] = 15469,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 22699,
+				["hdonespell"] = {
+					["Uplift"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 2804,
+						["healing"] = 222585,
+						["overhealing"] = 26667,
+						["hits"] = 98,
+					},
+				},
+			},
+			["Alya"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Holy Nova"] = {
+						["min"] = 543,
+						["crits"] = 0,
+						["max"] = 543,
+						["healing"] = 543,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Uplift"] = {
+						["min"] = 2388,
+						["crits"] = 0,
+						["max"] = 2778,
+						["healing"] = 13164,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 13707,
+				["hdonespell"] = {
+				},
+			},
+			["Warsong Commander"] = {
+				["players"] = {
+					["Likitung"] = {
+						["taken"] = 15567,
+						["done"] = 77317,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 15567,
+				["done"] = 77317,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Monishot"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2304,
+						["crits"] = 0,
+						["max"] = 2745,
+						["healing"] = 12885,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 12885,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Ritualist"] = {
+				["players"] = {
+					["Likitung"] = {
+						["taken"] = 9713,
+						["done"] = 0,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 9713,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Nevo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2304,
+						["crits"] = 0,
+						["max"] = 2778,
+						["healing"] = 14993,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 14993,
+				["hdonespell"] = {
+				},
+			},
+			["Turkina"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2312,
+						["crits"] = 0,
+						["max"] = 2745,
+						["healing"] = 15317,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 15317,
+				["hdonespell"] = {
+				},
+			},
+			["Yoori"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 2279,
+						["crits"] = 0,
+						["max"] = 2592,
+						["healing"] = 11987,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 11987,
+				["hdonespell"] = {
+				},
+			},
+			["Arax-amal"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 1619,
+						["crits"] = 0,
+						["max"] = 1619,
+						["healing"] = 1619,
+						["overhealing"] = 660,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1619,
+				["hdonespell"] = {
+				},
+			},
+			["Durphorn the Bullheaded"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Uplift"] = {
+						["min"] = 1026,
+						["crits"] = 0,
+						["max"] = 2565,
+						["healing"] = 10840,
+						["overhealing"] = 1688,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 10840,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 45489,
+		["healing"] = 35251,
+		["power"] = {
+			[0] = 1516,
+			[13] = 1,
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 705,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1416955441,
+		["damagetaken"] = 187114,
+		["mobhdone"] = 369263,
+		["last_action"] = 1416955441,
+		["mobdone"] = 187114,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1416957049,
+			["damage"] = 17397,
+			["players"] = {
+				{
+					["last"] = 1416957048,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Ironmarch Grunt"] = 17397,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 10,
+					["interrupts"] = 0,
+					["damage"] = 17397,
+					["damagespells"] = {
+						["Mind Blast"] = {
+							["min"] = 3621,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 8092,
+							["max"] = 7243,
+							["damage"] = 10864,
+						},
+						["Mind Flay"] = {
+							["min"] = 605,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 15407,
+							["max"] = 606,
+							["damage"] = 3028,
+						},
+						["Vampiric Touch"] = {
+							["min"] = 1400,
+							["critical"] = 2,
+							["totalhits"] = 2,
+							["id"] = 34914,
+							["max"] = 1400,
+							["damage"] = 2800,
+						},
+						["Touch of the Grave"] = {
+							["min"] = 705,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 127802,
+							["max"] = 705,
+							["damage"] = 705,
+						},
+					},
+					["damagetaken"] = 8134,
+					["shielding"] = 0,
+					["id"] = "Player-3713-073ECD7D",
+					["first"] = 1416957038,
+					["power"] = {
+						[13] = {
+							["amount"] = 1,
+							["spells"] = {
+								[8092] = 1,
+							},
+						},
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 996,
+							["absorbed"] = 0,
+							["critical"] = 1,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 2508,
+							["damage"] = 5650,
+						},
+						["March of Iron"] = {
+							["crushing"] = 0,
+							["id"] = 159857,
+							["min"] = 2484,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "March of Iron",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 2484,
+							["damage"] = 2484,
+						},
+					},
+					["maxhp"] = 43022,
+					["overhealing"] = 705,
+					["name"] = "Likitung",
+					["healingspells"] = {
+						["Touch of the Grave"] = {
+							["shielding"] = 0,
+							["id"] = 127802,
+							["healing"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Touch of the Grave",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 705,
+							["hits"] = 1,
+						},
+					},
+					["healing"] = 0,
+					["healed"] = {
+						["Player-3713-073ECD7D"] = {
+							["shielding"] = 0,
+							["class"] = "PRIEST",
+							["name"] = "Likitung",
+							["amount"] = 0,
+						},
+					},
+					["auras"] = {
+						["Vampiric Touch"] = {
+							["name"] = "Vampiric Touch",
+							["active"] = 0,
+							["id"] = 34914,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+						["Mind Flay"] = {
+							["name"] = "Mind Flay",
+							["active"] = 0,
+							["id"] = 15407,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Pazo Stonehoof"] = {
+					["players"] = {
+					},
+					["hdone"] = 875,
+					["htakenspell"] = {
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 875,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 875,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 875,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Ironmarch Grunt"] = {
+					["players"] = {
+						["Likitung"] = {
+							["taken"] = 17397,
+							["done"] = 8134,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 17397,
+					["done"] = 8134,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Anruin"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Fel Armor"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 4200,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Fel Armor"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 4200,
+							["hits"] = 3,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 17397,
+			["starttime"] = 1416957038,
+			["healing"] = 0,
+			["power"] = {
+				[13] = 1,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 705,
+			["shielding"] = 0,
+			["name"] = "Ironmarch Grunt",
+			["mobname"] = "Ironmarch Grunt",
+			["damagetaken"] = 8134,
+			["mobhdone"] = 875,
+			["last_action"] = 1416957038,
+			["mobdone"] = 8134,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 32,
+			["interrupts"] = 0,
+			["endtime"] = 1416956679,
+			["damage"] = 163,
+			["players"] = {
+				{
+					["last"] = 1416956679,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Ironmarch Legionnaire"] = 163,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 27,
+					["interrupts"] = 0,
+					["damage"] = 163,
+					["damagespells"] = {
+						["Attack"] = {
+							["min"] = 67,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 96,
+							["damage"] = 163,
+						},
+					},
+					["deaths"] = {
+						{
+							["ts"] = 1416956679.2841,
+							["maxhp"] = 43022,
+							["log"] = {
+								{
+									["ts"] = 1416956672.16901,
+									["absorb"] = 0,
+									["amount"] = 463,
+									["hp"] = 10637,
+									["spellid"] = 139,
+									["srcname"] = "Likitung",
+								}, -- [1]
+								{
+									["ts"] = 1416956674.17502,
+									["amount"] = -2746,
+									["hp"] = 5283,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [2]
+								{
+									["ts"] = 1416956674.33703,
+									["amount"] = -35,
+									["hp"] = 2502,
+									["spellid"] = 169426,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [3]
+								{
+									["ts"] = 1416956674.95204,
+									["absorb"] = 0,
+									["amount"] = 464,
+									["hp"] = 2966,
+									["spellid"] = 139,
+									["srcname"] = "Likitung",
+								}, -- [4]
+								{
+									["ts"] = 1416956675.64405,
+									["amount"] = -144,
+									["hp"] = 2822,
+									["spellid"] = 169429,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [5]
+								{
+									["ts"] = 1416956675.96506,
+									["absorb"] = 0,
+									["amount"] = 200,
+									["hp"] = 3022,
+									["spellid"] = 139,
+									["srcname"] = "Likitung",
+								}, -- [6]
+								{
+									["ts"] = 1416956676.83407,
+									["amount"] = -39,
+									["hp"] = 2983,
+									["spellid"] = 169426,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [7]
+								{
+									["ts"] = 1416956677.93908,
+									["amount"] = -2863,
+									["hp"] = 2983,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [8]
+								{
+									["hp"] = 120,
+									["amount"] = -3392,
+									["ts"] = 1416956678.80509,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [9]
+								{
+									["ts"] = 1416956679.2841,
+									["spellname"] = "Likitung dies",
+									["hp"] = 0,
+									["spellid"] = 41220,
+								}, -- [10]
+								{
+									["ts"] = 1416956667.97611,
+									["amount"] = -2522,
+									["hp"] = 19163,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [11]
+								{
+									["absorb"] = 0,
+									["amount"] = 464,
+									["hp"] = 17105,
+									["ts"] = 1416956669.41412,
+									["spellid"] = 139,
+									["srcname"] = "Likitung",
+								}, -- [12]
+								{
+									["ts"] = 1416956670.67313,
+									["amount"] = -6931,
+									["hp"] = 10174,
+									["spellid"] = 159857,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [13]
+								{
+									["ts"] = 1416956672.00314,
+									["amount"] = -2628,
+									["hp"] = 10174,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [14]
+								{
+									["ts"] = 1416956672.16815,
+									["amount"] = -2726,
+									["hp"] = 10174,
+									["spellid"] = 88163,
+									["srcname"] = "Ironmarch Legionnaire",
+								}, -- [15]
+								["pos"] = 11,
+							},
+						}, -- [1]
+					},
+					["damagetaken"] = 48348,
+					["shielding"] = 0,
+					["id"] = "Player-3713-073ECD7D",
+					["first"] = 1416956652,
+					["power"] = {
+						[0] = {
+							["amount"] = 758,
+							["spells"] = {
+								[126467] = 758,
+							},
+						},
+					},
+					["damagetakenspells"] = {
+						["Shield Slam"] = {
+							["crushing"] = 0,
+							["id"] = 169429,
+							["min"] = 143,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Shield Slam",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 144,
+							["damage"] = 287,
+						},
+						["March of Iron"] = {
+							["crushing"] = 0,
+							["id"] = 159857,
+							["min"] = 6204,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "March of Iron",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 6931,
+							["damage"] = 13135,
+						},
+						["Thunderclap"] = {
+							["crushing"] = 0,
+							["id"] = 169426,
+							["min"] = 35,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Thunderclap",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 39,
+							["damage"] = 109,
+						},
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2432,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 12,
+							["resisted"] = 0,
+							["max"] = 3536,
+							["damage"] = 34817,
+						},
+					},
+					["maxhp"] = 43022,
+					["overhealing"] = 0,
+					["name"] = "Likitung",
+					["healingspells"] = {
+						["Renew"] = {
+							["shielding"] = 0,
+							["id"] = 139,
+							["healing"] = 2054,
+							["min"] = 200,
+							["multistrike"] = 0,
+							["name"] = "Renew",
+							["max"] = 464,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 5,
+						},
+					},
+					["healing"] = 2054,
+					["healed"] = {
+						["Player-3713-073ECD7D"] = {
+							["shielding"] = 0,
+							["class"] = "PRIEST",
+							["name"] = "Likitung",
+							["amount"] = 2054,
+						},
+					},
+					["auras"] = {
+						["Renew"] = {
+							["name"] = "Renew",
+							["active"] = 0,
+							["id"] = 139,
+							["auratype"] = "BUFF",
+							["uptime"] = 12,
+						},
+						["Enlightenment"] = {
+							["name"] = "Enlightenment",
+							["active"] = 0,
+							["id"] = 126266,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+					},
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["mobs"] = {
+				["Pazo Stonehoof"] = {
+					["players"] = {
+					},
+					["hdone"] = 2396,
+					["htakenspell"] = {
+						["Bloodthirst"] = {
+							["min"] = 646,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 2396,
+							["overhealing"] = 229,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2396,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 646,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 2396,
+							["overhealing"] = 229,
+							["hits"] = 3,
+						},
+					},
+				},
+				["Ironmarch Legionnaire"] = {
+					["players"] = {
+						["Likitung"] = {
+							["taken"] = 163,
+							["done"] = 48348,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 163,
+					["done"] = 48348,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Anruin"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Fel Armor"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5600,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Fel Armor"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5600,
+							["hits"] = 4,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 163,
+			["starttime"] = 1416956647,
+			["healing"] = 2054,
+			["power"] = {
+				[0] = 758,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Ironmarch Legionnaire",
+			["mobname"] = "Ironmarch Legionnaire",
+			["damagetaken"] = 48348,
+			["mobhdone"] = 2396,
+			["last_action"] = 1416956647,
+			["mobdone"] = 48348,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 56,
+			["interrupts"] = 0,
+			["endtime"] = 1416956402,
+			["damage"] = 15567,
+			["players"] = {
+				{
+					["last"] = 1416956402,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Warsong Commander"] = 15567,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 52,
+					["interrupts"] = 0,
+					["damage"] = 15567,
+					["damagespells"] = {
+						["Touch of the Grave"] = {
+							["min"] = 557,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 127802,
+							["max"] = 557,
+							["damage"] = 557,
+						},
+						["Smite"] = {
+							["min"] = 882,
+							["critical"] = 1,
+							["hit"] = 15,
+							["totalhits"] = 16,
+							["id"] = 585,
+							["max"] = 1766,
+							["damage"] = 15010,
+						},
+					},
+					["damagetaken"] = 46006,
+					["shielding"] = 0,
+					["id"] = "Player-3713-073ECD7D",
+					["first"] = 1416956350,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Howling Blade"] = {
+							["crushing"] = 0,
+							["id"] = 166762,
+							["min"] = 704,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Howling Blade",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 992,
+							["damage"] = 3234,
+						},
+						["Hooked Net"] = {
+							["crushing"] = 0,
+							["id"] = 166815,
+							["min"] = 1567,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Hooked Net",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 1771,
+							["damage"] = 6660,
+						},
+						["Throw Axe"] = {
+							["crushing"] = 0,
+							["id"] = 80149,
+							["min"] = 1466,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Throw Axe",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1878,
+							["damage"] = 5189,
+						},
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1210,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 21,
+							["resisted"] = 0,
+							["max"] = 1768,
+							["damage"] = 30923,
+						},
+					},
+					["maxhp"] = 43022,
+					["overhealing"] = 0,
+					["name"] = "Likitung",
+					["healingspells"] = {
+						["Renew"] = {
+							["shielding"] = 0,
+							["id"] = 139,
+							["healing"] = 4804,
+							["min"] = 171,
+							["multistrike"] = 0,
+							["name"] = "Renew",
+							["max"] = 464,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 11,
+						},
+						["Heal"] = {
+							["shielding"] = 0,
+							["id"] = 2060,
+							["healing"] = 3699,
+							["min"] = 3699,
+							["multistrike"] = 0,
+							["name"] = "Heal",
+							["max"] = 3699,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Flash Heal"] = {
+							["shielding"] = 0,
+							["id"] = 2061,
+							["healing"] = 3496,
+							["min"] = 3496,
+							["multistrike"] = 0,
+							["name"] = "Flash Heal",
+							["max"] = 3496,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Touch of the Grave"] = {
+							["shielding"] = 0,
+							["id"] = 127802,
+							["healing"] = 73,
+							["min"] = 73,
+							["multistrike"] = 0,
+							["name"] = "Touch of the Grave",
+							["max"] = 73,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Echo of Light"] = {
+							["shielding"] = 0,
+							["id"] = 77489,
+							["healing"] = 1591,
+							["min"] = 386,
+							["multistrike"] = 0,
+							["name"] = "Echo of Light",
+							["max"] = 409,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+					["healing"] = 13663,
+					["healed"] = {
+						["Player-3713-073ECD7D"] = {
+							["shielding"] = 0,
+							["class"] = "PRIEST",
+							["name"] = "Likitung",
+							["amount"] = 13663,
+						},
+					},
+					["auras"] = {
+						["Renew"] = {
+							["name"] = "Renew",
+							["active"] = 0,
+							["id"] = 139,
+							["auratype"] = "BUFF",
+							["uptime"] = 29,
+						},
+						["Serendipity"] = {
+							["name"] = "Serendipity",
+							["active"] = 0,
+							["id"] = 63735,
+							["auratype"] = "BUFF",
+							["uptime"] = 8,
+						},
+						["Echo of Light"] = {
+							["name"] = "Echo of Light",
+							["active"] = 0,
+							["id"] = 77489,
+							["auratype"] = "BUFF",
+							["uptime"] = 12,
+						},
+					},
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2313,
+							["crits"] = 0,
+							["max"] = 2694,
+							["healing"] = 5007,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 5007,
+					["hdonespell"] = {
+					},
+				},
+				["Salty Futz"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2499,
+							["crits"] = 0,
+							["max"] = 2804,
+							["healing"] = 8048,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 8048,
+					["hdonespell"] = {
+					},
+				},
+				["Barbery the Crazy Cat Lady"] = {
+					["players"] = {
+					},
+					["hdone"] = 4058,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 501,
+							["crits"] = 0,
+							["max"] = 612,
+							["healing"] = 3226,
+							["overhealing"] = 0,
+							["hits"] = 6,
+						},
+						["Uplift"] = {
+							["min"] = 2685,
+							["crits"] = 0,
+							["max"] = 2778,
+							["healing"] = 8199,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 11425,
+					["hdonespell"] = {
+						["Holy Nova"] = {
+							["min"] = 478,
+							["crits"] = 0,
+							["max"] = 540,
+							["healing"] = 4058,
+							["overhealing"] = 0,
+							["hits"] = 8,
+						},
+					},
+				},
+				["Anruin"] = {
+					["players"] = {
+					},
+					["hdone"] = 15403,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2406,
+							["crits"] = 0,
+							["max"] = 2668,
+							["healing"] = 7489,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+						["Fel Armor"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1401,
+							["healing"] = 15403,
+							["overhealing"] = 0,
+							["hits"] = 11,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 22892,
+					["hdonespell"] = {
+						["Fel Armor"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1401,
+							["healing"] = 15403,
+							["overhealing"] = 0,
+							["hits"] = 11,
+						},
+					},
+				},
+				["Starcaller Astrylian"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2380,
+							["crits"] = 0,
+							["max"] = 2770,
+							["healing"] = 7734,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7734,
+					["hdonespell"] = {
+					},
+				},
+				["Imp Minion"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 7047,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Turkina"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2398,
+							["crits"] = 0,
+							["max"] = 2745,
+							["healing"] = 7812,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7812,
+					["hdonespell"] = {
+					},
+				},
+				["Thrend"] = {
+					["players"] = {
+					},
+					["hdone"] = 7667,
+					["htakenspell"] = {
+						["Earth Shield"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 745,
+							["healing"] = 7667,
+							["overhealing"] = 644,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7667,
+					["hdonespell"] = {
+						["Earth Shield"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 745,
+							["healing"] = 7667,
+							["overhealing"] = 644,
+							["hits"] = 12,
+						},
+					},
+				},
+				["Ryii the Shameless"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 517,
+							["crits"] = 0,
+							["max"] = 525,
+							["healing"] = 1042,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Uplift"] = {
+							["min"] = 2423,
+							["crits"] = 0,
+							["max"] = 2778,
+							["healing"] = 7658,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 8700,
+					["hdonespell"] = {
+					},
+				},
+				["Johnny Oshimo"] = {
+					["players"] = {
+					},
+					["hdone"] = 10240,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 2448,
+							["healing"] = 4755,
+							["overhealing"] = 2530,
+							["hits"] = 3,
+						},
+						["Bloodthirst"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 876,
+							["healing"] = 10240,
+							["overhealing"] = 2889,
+							["hits"] = 15,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 14995,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 876,
+							["healing"] = 10240,
+							["overhealing"] = 2889,
+							["hits"] = 15,
+						},
+					},
+				},
+				["Archon"] = {
+					["players"] = {
+					},
+					["hdone"] = 6902,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 478,
+							["crits"] = 0,
+							["max"] = 638,
+							["healing"] = 3414,
+							["overhealing"] = 0,
+							["hits"] = 6,
+						},
+						["Uplift"] = {
+							["min"] = 2474,
+							["crits"] = 0,
+							["max"] = 2754,
+							["healing"] = 7888,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 11302,
+					["hdonespell"] = {
+						["Holy Nova"] = {
+							["min"] = 526,
+							["crits"] = 0,
+							["max"] = 638,
+							["healing"] = 6902,
+							["overhealing"] = 0,
+							["hits"] = 12,
+						},
+					},
+				},
+				["Alya"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2388,
+							["crits"] = 0,
+							["max"] = 2778,
+							["healing"] = 7818,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7818,
+					["hdonespell"] = {
+					},
+				},
+				["Monishot"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2304,
+							["crits"] = 0,
+							["max"] = 2643,
+							["healing"] = 4947,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 4947,
+					["hdonespell"] = {
+					},
+				},
+				["Durphorn the Bullheaded"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 1026,
+							["crits"] = 0,
+							["max"] = 2372,
+							["healing"] = 3398,
+							["overhealing"] = 1506,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3398,
+					["hdonespell"] = {
+					},
+				},
+				["Nevo"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2304,
+							["crits"] = 0,
+							["max"] = 2533,
+							["healing"] = 7200,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7200,
+					["hdonespell"] = {
+					},
+				},
+				["Miserain Starsorrow"] = {
+					["players"] = {
+					},
+					["hdone"] = 105040,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 478,
+							["crits"] = 0,
+							["max"] = 586,
+							["healing"] = 3278,
+							["overhealing"] = 0,
+							["hits"] = 6,
+						},
+						["Uplift"] = {
+							["min"] = 2406,
+							["crits"] = 0,
+							["max"] = 2702,
+							["healing"] = 7539,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 10817,
+					["hdonespell"] = {
+						["Uplift"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 2804,
+							["healing"] = 105040,
+							["overhealing"] = 11083,
+							["hits"] = 46,
+						},
+					},
+				},
+				["Yoori"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2279,
+							["crits"] = 0,
+							["max"] = 2304,
+							["healing"] = 4583,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 4583,
+					["hdonespell"] = {
+					},
+				},
+				["Pazo Stonehoof"] = {
+					["players"] = {
+					},
+					["hdone"] = 14877,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2347,
+							["crits"] = 0,
+							["max"] = 2618,
+							["healing"] = 4965,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 876,
+							["healing"] = 14877,
+							["overhealing"] = 0,
+							["hits"] = 17,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 19842,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 876,
+							["healing"] = 14877,
+							["overhealing"] = 0,
+							["hits"] = 17,
+						},
+					},
+				},
+				["Warsong Commander"] = {
+					["players"] = {
+						["Likitung"] = {
+							["taken"] = 15567,
+							["done"] = 46006,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 15567,
+					["done"] = 46006,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 15567,
+			["starttime"] = 1416956346,
+			["healing"] = 13663,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Warsong Commander",
+			["mobname"] = "Warsong Commander",
+			["damagetaken"] = 46006,
+			["mobhdone"] = 164187,
+			["last_action"] = 1416956346,
+			["mobdone"] = 46006,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["endtime"] = 1416956326,
+			["damage"] = 9713,
+			["players"] = {
+				{
+					["last"] = 1416956324,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Shadowmoon Ritualist"] = 9713,
+					},
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["time"] = 14,
+					["interrupts"] = 0,
+					["damage"] = 9713,
+					["damagespells"] = {
+						["Smite"] = {
+							["min"] = 883,
+							["critical"] = 1,
+							["hit"] = 9,
+							["totalhits"] = 10,
+							["id"] = 585,
+							["max"] = 1766,
+							["damage"] = 9713,
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-3713-073ECD7D",
+					["first"] = 1416956310,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 43022,
+					["overhealing"] = 0,
+					["name"] = "Likitung",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["auras"] = {
+					},
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2626,
+							["crits"] = 0,
+							["max"] = 2626,
+							["healing"] = 2626,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2626,
+					["hdonespell"] = {
+					},
+				},
+				["Salty Futz"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2288,
+							["crits"] = 0,
+							["max"] = 2288,
+							["healing"] = 2288,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2288,
+					["hdonespell"] = {
+					},
+				},
+				["Barbery the Crazy Cat Lady"] = {
+					["players"] = {
+					},
+					["hdone"] = 2171,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 478,
+							["crits"] = 0,
+							["max"] = 551,
+							["healing"] = 1029,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Uplift"] = {
+							["min"] = 2601,
+							["crits"] = 0,
+							["max"] = 2601,
+							["healing"] = 2601,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3630,
+					["hdonespell"] = {
+						["Holy Nova"] = {
+							["min"] = 478,
+							["crits"] = 0,
+							["max"] = 580,
+							["healing"] = 2171,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+				},
+				["Anruin"] = {
+					["players"] = {
+					},
+					["hdone"] = 5601,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2559,
+							["crits"] = 0,
+							["max"] = 2559,
+							["healing"] = 2559,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Fel Armor"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1401,
+							["healing"] = 5601,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 8160,
+					["hdonespell"] = {
+						["Fel Armor"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1401,
+							["healing"] = 5601,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+				},
+				["Starcaller Astrylian"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2652,
+							["crits"] = 0,
+							["max"] = 2652,
+							["healing"] = 2652,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2652,
+					["hdonespell"] = {
+					},
+				},
+				["Imp Minion"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2457,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Pazo Stonehoof"] = {
+					["players"] = {
+					},
+					["hdone"] = 6125,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2380,
+							["crits"] = 0,
+							["max"] = 2380,
+							["healing"] = 2380,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 6125,
+							["overhealing"] = 0,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 8505,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 6125,
+							["overhealing"] = 0,
+							["hits"] = 7,
+						},
+					},
+				},
+				["Thrend"] = {
+					["players"] = {
+					},
+					["hdone"] = 2074,
+					["htakenspell"] = {
+						["Earth Shield"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 728,
+							["healing"] = 2074,
+							["overhealing"] = 712,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2074,
+					["hdonespell"] = {
+						["Earth Shield"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 728,
+							["healing"] = 2074,
+							["overhealing"] = 712,
+							["hits"] = 4,
+						},
+					},
+				},
+				["Ryii the Shameless"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 549,
+							["crits"] = 0,
+							["max"] = 549,
+							["healing"] = 549,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Uplift"] = {
+							["min"] = 2516,
+							["crits"] = 0,
+							["max"] = 2516,
+							["healing"] = 2516,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3065,
+					["hdonespell"] = {
+					},
+				},
+				["Johnny Oshimo"] = {
+					["players"] = {
+					},
+					["hdone"] = 6694,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 1682,
+							["crits"] = 0,
+							["max"] = 1682,
+							["healing"] = 1682,
+							["overhealing"] = 834,
+							["hits"] = 1,
+						},
+						["Bloodthirst"] = {
+							["min"] = 145,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 6694,
+							["overhealing"] = 1182,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 8376,
+					["hdonespell"] = {
+						["Bloodthirst"] = {
+							["min"] = 145,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 6694,
+							["overhealing"] = 1182,
+							["hits"] = 9,
+						},
+					},
+				},
+				["Archon"] = {
+					["players"] = {
+					},
+					["hdone"] = 2223,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 580,
+							["crits"] = 0,
+							["max"] = 594,
+							["healing"] = 1174,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Uplift"] = {
+							["min"] = 2363,
+							["crits"] = 0,
+							["max"] = 2363,
+							["healing"] = 2363,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3537,
+					["hdonespell"] = {
+						["Holy Nova"] = {
+							["min"] = 535,
+							["crits"] = 0,
+							["max"] = 594,
+							["healing"] = 2223,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+				},
+				["Alya"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 543,
+							["crits"] = 0,
+							["max"] = 543,
+							["healing"] = 543,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Uplift"] = {
+							["min"] = 2694,
+							["crits"] = 0,
+							["max"] = 2694,
+							["healing"] = 2694,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3237,
+					["hdonespell"] = {
+					},
+				},
+				["Monishot"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2643,
+							["crits"] = 0,
+							["max"] = 2643,
+							["healing"] = 2643,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2643,
+					["hdonespell"] = {
+					},
+				},
+				["Shadowmoon Ritualist"] = {
+					["players"] = {
+						["Likitung"] = {
+							["taken"] = 9713,
+							["done"] = 0,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 9713,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Nevo"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2533,
+							["crits"] = 0,
+							["max"] = 2533,
+							["healing"] = 2533,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2533,
+					["hdonespell"] = {
+					},
+				},
+				["Turkina"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2592,
+							["crits"] = 0,
+							["max"] = 2592,
+							["healing"] = 2592,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2592,
+					["hdonespell"] = {
+					},
+				},
+				["Yoori"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2355,
+							["crits"] = 0,
+							["max"] = 2355,
+							["healing"] = 2355,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2355,
+					["hdonespell"] = {
+					},
+				},
+				["Miserain Starsorrow"] = {
+					["players"] = {
+					},
+					["hdone"] = 39260,
+					["htakenspell"] = {
+						["Holy Nova"] = {
+							["min"] = 535,
+							["crits"] = 0,
+							["max"] = 564,
+							["healing"] = 1099,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Uplift"] = {
+							["min"] = 2406,
+							["crits"] = 0,
+							["max"] = 2406,
+							["healing"] = 2406,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3505,
+					["hdonespell"] = {
+						["Uplift"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 2694,
+							["healing"] = 39260,
+							["overhealing"] = 3353,
+							["hits"] = 17,
+						},
+					},
+				},
+				["Durphorn the Bullheaded"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Uplift"] = {
+							["min"] = 2370,
+							["crits"] = 0,
+							["max"] = 2370,
+							["healing"] = 2370,
+							["overhealing"] = 62,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2370,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 9713,
+			["starttime"] = 1416956308,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Shadowmoon Ritualist",
+			["mobname"] = "Shadowmoon Ritualist",
+			["damagetaken"] = 0,
+			["mobhdone"] = 64148,
+			["last_action"] = 1416956308,
+			["mobdone"] = 0,
+		}, -- [4]
+	},
+}

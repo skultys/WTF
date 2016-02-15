@@ -1,0 +1,27 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Leczyna - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["background"] = {
+						["height"] = 150.9999389648438,
+					},
+					["y"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -2,
+					["barwidth"] = 263.0001220703125,
+					["mode"] = "Deaths",
+				}, -- [1]
+			},
+		},
+	},
+}

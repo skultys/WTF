@@ -1,0 +1,2 @@
+
+ChiBarDB = nil

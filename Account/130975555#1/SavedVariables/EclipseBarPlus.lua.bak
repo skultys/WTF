@@ -1,0 +1,10 @@
+
+EclipseBarPlusDB = {
+	["profileKeys"] = {
+		["Rataka - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

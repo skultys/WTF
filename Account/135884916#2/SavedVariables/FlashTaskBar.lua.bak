@@ -1,0 +1,10 @@
+
+FlashTaskbarDB = {
+	["profileKeys"] = {
+		["Dejki - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

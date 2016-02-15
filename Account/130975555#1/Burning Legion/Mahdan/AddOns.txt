@@ -1,0 +1,4 @@
+ShieldsUp: disabled
+XPerl_Options: enabled
+XPerl_TeamSpeak: disabled
+Prat-3.0: disabled

@@ -1,0 +1,11 @@
+VER 3 0100000000000002 "MI/AP" "ABILITY_SHOOTWAND"
+/use mirror image
+/use arcane power
+END
+VER 3 0100000000000001 "MI/IV" "Spell_Shadow_DemonicCircleTeleport"
+/use Icy Veins
+/use Mirror Image
+END
+VER 3 0100000000000003 "wwww" "INV_KNIFE_1H_PANDARIAQUEST_B_03"
+/use synapse springs
+END
